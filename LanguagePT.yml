@@ -1,0 +1,965 @@
+/chatpartytotogglepartychat: '   /chat party &2- &aPara ligar/desligar o chat da party.'
+
+/donateviewwaystodonatemoneytoourserver: '   /donate &2- &aView ways to donate money
+    to our server.'
+
+/facceptacceptfriendrequests: '   /f accept &2-&a Aceitar um pedido de amizade.'
+
+/faddrequestsomeonetobeyourfriend: '   /f add &2-&a Mandar um pedido de amizade.'
+
+/faqgetanswerstofrequentlyaskedquestions: '   /faq &2- &aVer respostas de preguntas
+    frquesntes (FAQ)'
+
+/fdenydenyfriendrequests: '   /f deny &2-&a Rejeitar um pedido de amizado.'
+
+/flistlistallyourcurrentfriends: '   /f list &2-&a Ver todos os seus amigos.'
+
+/fremoveremoveafriend: '   /f remove &2-&a Remover um amigo.'
+
+/frequestslistallfriendrequests: '   /f requests &2-&a Ver todos os pedidos de amizade
+    pendentes.'
+
+/friendviewfriendcommandshelp: '   /friend &2- &aComandos de amigo.'
+
+/fshowsthishelppage: '   /f &2-&a Apresenta está mensagem.'
+
+/groupaccept<group>acceptagroupinvitation: '   /group accept <group> &2- &aAceitar
+    um convite.'
+
+/groupchunks<group>browseclaimedchunksofagroup: '   /group chunks <group> &2- &aProcurar
+    chunks pertencentes ao grupo.'
+
+/groupclaim<group>claimachunktoagroup: '   /group claim <group> &2- &aObter uma chunk
+    para o grupo.'
+
+/groupcreate<group>createagroup: '   /group create <group> &2- &aCriar um grupo.'
+
+/groupdemote<player><group>demoteaplayerinagroup: '   /group demote <jogador> <group>
+    &2- &aRebaixar um jogador no grupo.'
+
+/groupinfo<group>viewinformationaboutagroup: '   /group info <group> &2- &aVer informação
+    de um grupo.'
+
+/groupinvite<player><group>inviteaplayertoagroup: '   /group invite <jogador> <group>
+    &2- &aEnviar convite a um jogador.'
+
+/groupkick<player><group>kickaplayerfromagroup: '   /group kick <jogador> <group>
+    &2- &aKickar um jogador do grupo.'
+
+/groupleave<group>leaveagroup: '   /group leave <group> &2- &aSair de um grupo.'
+
+/grouplistlistthegroupsyouarein: '   /group list &2- &aVer os grupos que você fáz
+    parte'
+
+/grouppromote<player><group>promoteaplayerinagroup: '   /group promote <jogador> <group>
+    &2- &aPromover um jogador no grupo.'
+
+/groupunclaimunclaimachunk: '   /group unclaim &2- &aAbandonar  uma chunk.'
+
+/groupupgrade<group>upgradeagroup: '   /group upgrade <group> &2- &aMelhorar o grupo.'
+
+/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname: '   /join
+    <jogo> [nomedolobby] &2- &aPara se juntar a um jogo publico em um lobby especifico'
+
+/listviewinformationaboutallonlineplayers: '   /list &2- &aVer informação sobre todos
+    os jogadores online'
+
+/msg<player>sendaprivatemessagetoaplayer: '   /msg <jogador> &2- &aMandar uma mensagem
+    privada a um jogador.'
+
+/partyaccept<player>toacceptanpartyinvite: '   /party accept <jogador> &2- &aAceitar
+    um convite.'
+
+/partydisbandtodisbandyourparty: '   /party disband &2- &aExcluir a party.'
+
+/partyinvite<player>toinviteaplayertoparty: '   /party invite <jogador> &2- &aConvide
+    um jogador.'
+
+/partyjoin<player>tojoinpublicpartyofaplayer: '   /party join <jogador> &2- &aEntre
+    em uma party.'
+
+/partykick<player>tokickaplayerfromyourparty: '   /party kick <jogador> &2- &aPara
+    kickar um jogador na sua party.'
+
+/partyleavetoleaveaparty: '   /party leave &2- &aSair da party.'
+
+/partylisttoviewmembersofyourpartylist: '   /party list &2- &aVer jogadores na sua
+    party.'
+
+/partyopentoopenyourpartyforpublicjoin: '   /party open &2- &aPermita qualquer um
+    entrar na party.'
+
+/partytransfer<player>totransferpartyleadertoothermember: '   /party transfer <jogador>
+    &2- &aDar a liderança da sua party para alguém'
+
+/partyviewpartyhelp: '   /party &2- &aVer ajuda de Party.'
+
+/partywarptowarpyourpartymemberstoyourgamelobby: '   /party warp &2- &aPara trazer
+    seus membros na party até o seu lobby'
+
+/rulesreadserverrules: '   /rules &2- &aLer as regras do servidor.'
+
+/spectateenterspectatemode: '   /spectate &2- &aIr no modo espectador.'
+
+/staffviewstafflist: '   /staff &2- &aVer a lista da STAFF'
+
+/stats<player>viewplayersstats: '   /stats <jogador> &2- &aVer estatisticas de um
+    jogador'
+
+1arrowonknockout: 1 felcha no knockout!
+
+1defeated2: $1$ &cderrotou &6$2$
+
+1donated1snowballtoyou: $1$ &edoou &e&l1 &fSnowball &ea você!
+
+1flaghasbeendropped: bandeira $1$ &efoi dropada!
+
+1gotfirstkillofthegame: '&a$1$ &eobteve a primeira kill do jogo!'
+
+1hascaptured2flag: $1$ &ecapturou a bandeira $2$ &e!
+
+1hasdisbandedtheparty: $1$ &eexcluiu a party!
+
+1hasinvitedyouintoaparty: $1$ &econvidou você para uma party!
+
+1hasjoinedyourparty: $1$ &ejuntou-se á party!
+
+1hasjoined: $1$ &eentrou!
+
+1haslefttheparty: $1$ &esaiu da party!
+
+1hasleft: $1$ &csaiu!
+
+1hasnotinvitedyouintoaparty: $1$ &enão lhe convidou para uma party!
+
+1haspickedup2flag: $1$ &epegou a bandeira $2$ &e!
+
+1hasreachedthemaxsticklevel: $1$ &echegou ao nivel máximo de graveto!
+
+1hasreturned2flag: $1$ &eretornou a bandeira $2$ &e!
+
+1hasvotedfor2map: '$1$ &evotou no mapa: &b&l$2$&e!'
+
+1hasvotedfor2mode: $1$ &evotou para o modo &b&l$2$ &e!
+
+1hasvotedforbalancedteamsmodifier: '$1$ &evotou para a modificação: &b&lEquipas Balanceadas&e'
+
+1hasvotedfordoublejumpmodifier: $1$ &evotou para &b&lDouble Jump &emodifier!
+
+1hasvotedforfastsnowballsmodifier: '$1$ &evotou para modificação: &b&lBolas de Neve
+    Rápidas&e!'
+
+1hasvotedforinstakillsnowballsmodifier: '$1$ &evotou para a modificação: &b&lBolas
+    de neve Insta Kill!!'
+
+1hasvotedfornocompassmodifier: '$1$ &evotou para modificação: &bSem bússula&e!'
+
+1hasvotedforreflectsnowballsmodifier: '$1$ &evotou para a modificação: &b&lBolas de
+    Neve reflectoras!!'
+
+1isalreadyinyourparty: $1$ &cjá está na sua party!
+
+1isnotyourfriendadd1tofriendswith/fadd2: $1$&c is not your friend! Add $1$&c to friends
+    with &e/f add $2$
+
+1ofplayersneedstovotetoenable: $1$ &7jogadores precisam votar pata ativar
+
+1teamisfull: equipa $1$ &c está cheia!
+
+accept: '[ACEITAR]'
+
+achancetospawncreeperwhereyoursnowballlands: Uma chance de spawnar um creeper onde
+    a sua bola de neve cair.
+
+activatedmodifiers: Modificações Ativadas
+
+allowstodoublejumpbypressingthesneakbuttoninmidair: Habilita salto duplo apertando
+    Shift no meio do AR.
+
+animationiscurrentlydisabled: Animação está &c&lDESATIVADA&e.
+
+animationiscurrentlyenabled: Animação está &a&lATIVADA&e.
+
+areyouseriouslygoingintoapartywithyourselfinvitesomeone: Não faça party com você mesmo!
+    Convide alguém!
+
+areyousureyouwanttoleavetype/qtoconfirm: Tens a certeza que queres sair? Escreve &e/q
+    &6para confirmares.
+
+armor: Armadura
+
+arrowaccuracy: Acerto de Flecha
+
+arrowbonusperk: Perk de Arco Bonus
+
+arrowsfired: Flechas Jogadas
+
+arrowsleft: Flechas restantes
+
+asnowmanwhichshootsenemies: Um boneco de neve que dispara nos inimigos!
+
+averagerating: 'Media de Avaliação:'
+
+balancedteamsmodifier: Modificação de Equipas Balanceadas
+
+becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating: '&7&lDevido
+    a muitas modificações ativadas esta partida não vai mudar a sua avaliação.'
+
+bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin: '&e&lSeja o
+    comandante de um exercito! Derrote os comandantes adeversários para vencer'
+
+bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports: Cuidade
+    com a gravidade! Constroi sempre suportes nas tuas minas e certefica-te que os
+    suportos teem 8 blocos de distância.
+
+blindnessperk: Perk de Cegueira
+
+blockssnowballs50chancetobreakonfirsthit100onsecondhit: Bloqueia bolas de neve. &e&l50%
+    &7chance de partir-se no primeiro hit, &e&l100% &7no segundo hit.
+
+blocks: blocos
+
+bombsfired: Bombas jogadas
+
+bombsplaced: Bombas colocados
+
+bonussnowballsonknockout: Bolas de neve BONUS ao knockout
+
+burningstickperk: Park de graveto queimando
+
+burns1oftargetssnowballs: Queima &e&l$1$ &7das bolas de neve do adversário.
+
+burnstargetonhit: Queima o adversário ao bater.
+
+cantfindaplayerbythenameof1: Não foi possivel encontrar ninguém com o nome '$1$'.
+
+cantshootfarbecausesnowballsmeltintheair: Não podes disparar porque as bolas de neve
+    foram jogadas no céu
+
+chanceofcreeperspawn: chance de spawnar creeper
+
+chanceofdoubleexperience: chance de experiencia dupla
+
+chanceofdoublemelons: chance de melões duplos
+
+chanceofenchantedsnowballgainafterkill: chance of &bEnchanted Snowball &7gain after
+
+chanceofreflection: chance de reflecção
+
+chancetoblindopponentonhit: Chance de deixar o jogador cego ao bater.
+
+chancetoburnopponentonhit: Chance de queimar um jogador ao bater nele.
+
+chancetonotlosealife: Chance de não perder uma vida
+
+chancetoslowslowness1opponentonhit: chance para dar lentidão(Lentidão $1$) no adversário
+    ao bater
+
+chancetoslowslownessiiopponentonhit: Chance de dar lentidão(Lentidão II) ao jogador
+    ao bater nele.
+
+checkersinminecraftlikethepopularboardgame: Damas no Minecraft! Igualzinho ao jogo
+    popular!
+
+checkers: Damas
+
+checkpoint: Checkpoint
+
+chestslooted: Baús abertos
+
+classes: classes
+
+clickheretojoin1: Clique para entrar $1$!
+
+clicktoacceptthepartyinvite: Clique para aceitar!
+
+clicktobuy: Clique para comprar!
+
+clicktojoin: '[CLIQUE PARA ENTRAR]'
+
+clicktoopenmenu: CLIQUE PARA ABRIR O MENU
+
+clicktoplay: CLICA PARA JOGAR
+
+clicktoratethismap: Clica para avaliar o mapa
+
+clicktoundothisrating: Clique para retirares a tua avaliação
+
+clicktovotefor1mode: Clica para votar no modo $1$&a!
+
+clicktovoteforthismap: Clique para votar neste mapa!
+
+clicktovoteforthismode: Clique para votar messe modo!
+
+clicktovoteforthismodifier: Clica para votares nesta modificação!
+
+completeparkourracesearnprizesandcompeteinleaderboards: Faz corridas de parkour, ganha
+    prémios e suba seu rank nas scoreboards!
+
+cooldown: Cooldown
+
+crackedplayerscanjoinourservertheycanapplyat1tojoin: Jogadores com minecraft pirata
+    também podem se juntar ao nosso servidor! Eles podem aplicar para entrar em $1$
+    &r.
+
+? creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps
+: O mundo criativo tem várias coisas! WorldEdit, VoxelSniper, goBrush, goPaint, uma
+    grande coleção de cabeças e até uma linguagem de programação customizada para
+    fazeres os teus mapas!
+
+creeperchanceperk: Perk Chance de Creeper
+
+crystal: Cristal
+
+current: Atual
+
+damagedealt: Dano Causado
+
+damagetaken: Dano Obtido
+
+day: Dia
+
+deaths: Mortes
+
+defeat: DERROTA
+
+defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander: Defenda
+    o seu castelo, ataque outros castelos, seja o melhor comandante!
+
+destroyingotherplayercreationsorruiningtheminanywayisnotallowed: Destruir cirações
+    de outros jogadores não é permitido!
+
+destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed: Destruir
+    o terreno fazendo torres ou colocando blocos atoa não é permitido!
+
+didyouknow: Did you know?
+
+? differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin
+: '&e&lClasses elementais diferentes competem umas com as outros em uma batalha. Usa
+    habilidades fascinantes para derrotares os teus adversários e ganhares!'
+
+dissappearsafter10soflanding: Desaparece depois de &e&l10s &7vezes jogadas.
+
+doubleemeralds: Esmeraldas Duplas
+
+doublejumpmodifier: Modificação de Salto duplo
+
+doublemelonsperk: Perk de Melões duplos
+
+emeraldstotalearned: Total de esmeraldas obtidas
+
+emeralds: Esmeraldas
+
+emerald: Esmeralda
+
+enchanteddiamondcannon: '&b&lCanhão de Diamante&b encantado'
+
+enchantedsnowballperk: Perk de Bola de neve Encantada
+
+enchantedstonecannon: '&7Canhão de Pedra&b Encantado'
+
+enchantedwoodcannon: Canhão de Madeira Encantado
+
+enemyteam: A EQUIPA ADVERSÁRIA
+
+everyplayergets3liveseliminateenemyteamtowin: Todo jogador ganha 3 vidas, elimina
+    a equipe inimiga para ganhar!
+
+everyplayergets3liveseliminateotherplayerstowin: Todo jogador ganha 3 vidas, elimine
+    os outros jogadores para ganhar!
+
+experiencebonusperk: Perk de Bonus de Experiencia
+
+explodeyourwaytootherplayersandexplodethem: Exploda para o seu lado e expluda os jogadores
+    lá!
+
+exploringthevoidmayrevealmysterioussecrets: Explora o void e podes descubrir segredos
+    misteriosos!
+
+explosionradius: Raio de explosão
+
+fallingblocksanimation: Animação Blocos Caindo
+
+fastsnowballsmodifier: Modificação de Bolas de Neve Rápidas
+
+feelfreetoinviteotherplayersbyusingthechat: Sinta-se á vontade para convidar jogadores
+    pelo chat!
+
+finalkills: Abates Finais
+
+flamethrower: Lança-Chamas
+
+free: Gratis!
+
+friendcommands: '   &2&l--=-= &a&lComandos de Amigo &2&l=-=--'
+
+friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore: Survival
+    mágico e tecnológico! Explora várias dimensões!
+
+gameendedinadraw: JOGO ACABOU EM UM EMPATE
+
+gameend: FIM DE JOGO
+
+gamehasstarted: Jogo iniciou!
+
+gameisstarting: Jogo está a iniciar
+
+gamestartsin1seconds: Jogo inicia em &e&l$1$ &esegundos
+
+gamestartsin: Jogo começa em
+
+gamestatistics: Estatisticas do Jogo
+
+gametime: Tempo do jogo
+
+gamewillendin1minutes: Jogo acabará em &e&l$1$ &eminutos.
+
+gamewillendin1minute: Jogo acabará em &e&l$1$ &eminuto.
+
+gamewillstartin1seconds: '&eJogo inicia em &e&l$1$ &esegundos'
+
+gamewillstartin1second: '&eJogo inicia em &e&l$1$ &esegundo'
+
+gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame: Obtem
+    recursos, prepara para a batalha, defende o teu Cristal da Vida e ataca o Cristal
+    de outras ilhas!
+
+gravityhasnoeffectonblocksheresoyoucanbuildinthesky: Gravidade não tem efeito nos
+    blocos aqui, então podes construir no céu!
+
+groupcommands: '   &2&l   --=-= &a&lComandos de Grupo &2&l=-=--'
+
+havefun: Divirta-se!
+
+health: Vida
+
+hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends: Aqui encontras jogos que
+    podem ser jogados sozinho e com amigos!
+
+hereyoucanfindgameswhichcanbeplayedonlywithfriends: Aqui encontras jogos apenas jogáveis
+    com amigos!
+
+hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun: Aqui
+    podes entonrar minigames em GUI, feitos por plugins baixados, mas continuam a
+    ser engraçados!
+
+hereyoucanusevariousabilitiestoexplodethemapandotherplayers: Aqui podes usar várias
+    habilidades para explodir o mapa e os jogadores.
+
+hitstaken: Batidas Dadas
+
+hits: Batidas
+
+hittolevelupyourstickandknockotherplayersintothevoid: Bata para subir seu graveto
+    de nivel e jogar os outros jogadores no void!
+
+hours: horas
+
+howtoplay: '&b&lComo jogar'
+
+ifyouwanttogetoutofthespectatormodetype/q: Para sair do modo &aEspectador &cescreve
+    &e/q
+
+ifyouwanttoleavethegametype/q: Se você quiser sair use &e/q&6.
+
+ifyouwanttospectateotherplayertype/stp<player>: Para ver outros jogadores escreva
+    &e/stp <jogador>
+
+immortalityperk: Perk de Imortalidade
+
+increasesthechancetoreflectasnowballto100: Aumenta a chance de refletir uma bola de
+    neve para 100%
+
+increasesthedamageofsnowballsto10hearts: Aumenta o Dano da Bola de Neve para 10 corações
+
+increasesyourspeedby1: Aumenta a tua velocidade por $1$
+
+instakillsnowballsmodifier: Modificação de Bolas de Neve Insta Kill
+
+invalidcode: Codigo inválido.
+
+ironcannon: '&7&lCanhão de Ferro'
+
+itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater: It's very hot in Mustafar,
+    you gonna need to drink twice as much water.
+
+jumps: Saltos
+
+killer: Matador
+
+killsanynormalopponentevenwitharmor: Mata qualquer adversário normal, até mesmo com
+    armadura.
+
+killstreak: Killstreak
+
+kills: Abates
+
+king: Rei
+
+knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback: '&e&lJogue seus
+    adversários para fora da plataforma. Quanto mais você bater, mais você leva knockback'
+
+level: Nivel
+
+listofgames: Lista de Jogos
+
+lives: Vidas
+
+lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs: Abra
+    baús, lute contra outros jogadores, encontre itens alterórios com habilidades
+    interessantes e use pokeballs
+
+lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin: '&e&lPegue
+    Baús aleterórios com itens únicos. Use-os para derrotar seus adversários. Seja
+    o unico sobrevivente para vencer.'
+
+losses: Derrotas
+
+makesallofyoursnowballsburn: Faz todas as tuas bolas de neve queimar.
+
+makesyoursnowballssuperfast: Faz as suas bolas de neve super rápidas!
+
+maxlevelreached: Nivel máximo antigido
+
+maxlevel: 'NIVEL MAXIMO:'
+
+melonsearned: Melões ganhados
+
+melonsspent: Melões investidos
+
+melons: Melões
+
+melon: Melão
+
+mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves: Mine, melhore sua picareta,
+    compre ótimas melhorias e desbloqueie novas caves!
+
+minutes: minutos
+
+mode: Modo
+
+movetimeleft: Tempo de movimentação
+
+mustbeatlowerfloor: Você deve estár em um andar mais baixo!
+
+mustnothaveanysuperjumps: Não deverá ter Super Saltos
+
+newrating: Nova avaliação
+
+newrecord: NOVO RECORDE!
+
+new: NOVO!
+
+nextsuperjumpin: Proximo super salto em
+
+next: Próximo
+
+night: Noite
+
+nocompassmodifier: Modificador sem Bússula
+
+notenoughmelons: Melões insuficientes
+
+note: 'Nota:'
+
+nowblockswillstartbreakingwhenyousteponthem: Agora os blocos vão começar a quebrar
+    quando você pisar eles!
+
+oldrecord: Recorde Antigo
+
+parkourcourse: Parkour
+
+participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther: '&e&lParticipe
+    numa derradeira luta de bolas de neve e use Power UPS para marcar a sua existência!
+    Bolas de neve com delay faz com que eles caiam mais rapido.'
+
+partycommands: '   &2&l   --=-= &a&lComandos de Party &2&l=-=--'
+
+partyinvitefrom1hasexpired: O convite de $1$ &ehas expirou.
+
+partyleader: Líder da Party
+
+partymembers: Membros da Party
+
+partyof1isnotopenforpublicjoin: A party de &a$1$ &cé privada
+
+placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents: '&e&lMeta
+    bombas em blocos para os explodir. Use powerups para ter vantagens sobre os seus
+    adversários.'
+
+playercommands: '   &2&l   --=-= &a&lComandos de Jogadores &2&l=-=--'
+
+playerdied1timesinarowwithoutkills: Jogador morreu $1$ vezes seguidas sem abates
+
+playeriswaiting: Jogador está esperando
+
+playernotfound: Jogador não encontrado.
+
+playersarewaiting: Jogadores vendo
+
+playersin: Jogadores aqui
+
+playersleft: Jogadores restantes
+
+playerswaiting: Jogadores esperando
+
+players: Jogadores
+
+playerwason1killstreak: Jogador tinha um killstreak de $1$
+
+playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes: Jogue
+    com várias classes com habilidades diferentes e use o seu arco para mostrar suas
+    habilidades!
+
+pleaseratethismapbyclicking: 'Selecione a sua avaliação:'
+
+pleasespecifygroupname: Por favor especifique o nome do grupo!
+
+pleasespecifyplayername: Especifique o nome do jogador!
+
+plotname: Nome do Plot
+
+plotowner: Dono do Plot
+
+points: Pontos
+
+powerups: Powerups
+
+price: 'Preço:'
+
+quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers: Teste a sua
+    habilidade rapidamente batalhando com outros jogadores com uma grnade variedade
+    de modificações!
+
+radarbreaker: Radar
+
+rainisabletorefillwatersources: A chuva é capaz de te dar água.
+
+rapidfirepoweruphasspawnedatmiddleofthemap: '&6&lRapid Fire &bpowerup spawnou no meio
+    do mapa!'
+
+rating: Classificação
+
+reflectionperk: Perk de Reflecção
+
+reflectsasnowballreducingdamagetakenby1: Reflete uma bola de neve, reduzindo o dano
+    por $1$.
+
+reflectsnowballsmodifier: Modificação de Reflecção de Bolas de Neve
+
+regeneratesyourhealth1: Regenera a tua vida $1$
+
+regeneration: Regeneração
+
+removescompassfromthegame: Remove a Búsulla do Jogo
+
+resources: Recursos
+
+respawningin: Renascendo em
+
+serverrulescanbereadin/rulesmakesuretofollowthem: Pode ler as regras com o comando
+    &a/rules&e, certfefique-se que as segue!
+
+shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers: '&e&lDispara galinhas
+    e obtem o maior numero de kills para vencer! Aviso: 50 zombies e creepers!'
+
+shootchickensasfastasyoucan: Jogue galinhas quão rápido puder!
+
+shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes: Jogue
+    bolas de neve nos jogadores, use Power UPS e veja outros modos de jogo!
+
+shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak: '&e&lAtire
+    TNT com o seu canhão para jogar os seus adversários no void. Save-se a si mesmo.
+    usando Super Saltos. [Shift]'
+
+slowballs: Bolas de Neve Lentas
+
+slownessionhit: Lentidão I ao bater
+
+slownessperk: Perk de lentidão
+
+sneaktouse: Shift para usar
+
+snowballaccuracy: Acrobacia de Bolas de Neve
+
+snowballsfired: Snowballs mandadas
+
+snowmanperk: Perk de homem de neve
+
+snowman: Boneco de Neve
+
+sortsteamsbasedonkillscountforfairness: Apresentão as equipas com bases nos Abates.
+
+spawnpointswitch: Spawnpoint Switch
+
+speed: Velocidade
+
+spleeftntspleentexplodeotherplayersintothevoid: Spleef + TNT = Spleent! Exploda outros
+    jogadores no void!
+
+statistics: Estatisticas
+
+stonecannon: '&7Canhão de Pedra'
+
+succesfullysentpartyinviteto1: 'Você mandou um pedido a: $1$!'
+
+superjumps: Super saltos
+
+superjump: Super Salto
+
+survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty: 'Survival
+    based on old Minecraft versions between alpha 1.2 and beta 1.7.3.||&cAVISO: &7VAI
+    TER NOSTALGIA.'
+
+survivalrules: Regras de Survival
+
+team: Equipe
+
+thankyouforratingthismap: Obrigado pela tua avaliação!
+
+theknockbackstick: O pau com knockback
+
+therearemanyspecialrecipescheckthemoutin/recipes: 'Á bastantes receitas especiais!
+    Vê-las em: &e/recipes&r'
+
+thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1: Aqui
+    temos uma linguagem de programação customizada para o  Creative World, com ela
+    podes criar coisas simples para o teu terreno! $1$
+
+thisgamecanbeplayedalone: '&aEste jogo pode ser jogado &e&lsozinho&a.'
+
+thisgamecanbeplayedwith2players: Este jogo só pode ser jogado com &e&l2&a&l+ &ajogadores.
+
+thisgamecanbeplayedwithonly2players: Este jogo só pode ser jogado com &e&l2 &ajogadores.
+
+thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players: Esta
+    partida tem poucos jogadores. Ninguém ganhará conquistas ou esmeraldas, já que
+    o jogo está a iniciar com menos de &e&l$1$ &6jogadores.
+
+thispowerupisalreadyactive: Esse power-up já está ativo!
+
+thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges: Esta ronda de
+    1v1 não teve os requisitos minimos para recopensas & avaliações.
+
+throwablecobweb: Throwable Teia de Aranha
+
+timeelapsed: Time elapsed
+
+timesincelastupdate: Ultima atualização
+
+totalplaytime: Tempo jogado
+
+troopsalive: Tropas vivas
+
+troopskilled: Tropar matadas
+
+troopslost: Tropas perdidas
+
+troops: Tropas
+
+turnsyoursnowballsintoslowballs: Converta suas bolas de neve para bolas de neve lentas.
+
+turn: Olhar
+
+unlocked: DESBLOQUEADO
+
+use/agree1toagreewithsurvivalrules: Use /agree $1$  para aceitar as regras.
+
+usef5highfovtogetabetterviewofthegamefield: 'Use F5 + FOV: QUAKE PRO para uma melhor
+    experiência!'
+
+utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory: '&e&lUtilize
+    tempo de preparação para obter recursos e proteger o Cristal da Vida e fazer o
+    seu caminho para a vitória.'
+
+victory: VITÓRIA
+
+votes: 'Votos:'
+
+vote: '[VOTAR]'
+
+waitingplayers: Jogadores aguardando
+
+waitingqueuestatus: Status da Fila
+
+warped1partymemberstoyourlocation: Teleportado &e&l$1$ &emembros da party até a sua
+    localização!
+
+waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater: Água é finita
+    aqui, então vais precisar de construir grandes fazendas para teres água
+
+winspercentage: Percetagem de Vitorias
+
+wins: Vitorias
+
+woodcannon: Canhão de Madeira
+
+youalreadyhavevotedforamap: Você já votou em um mapa!
+
+youarealreadyinapartyof1: Você já está na party de &a$1$&c!
+
+youarealreadyon1team: Você já partence á equipe $1$&c!
+
+youareleaderofapartyuse/partydisbandtobeabletodothis: És o líder da party, usa &e/party
+    disband &cpara fazeres isto.
+
+youarenowamemberof1team: Você não é um membro da equipe de $1$&e!
+
+youarenowjuggernaut: Você é o Juggernaut!
+
+youarentinaparty: Você não está em uma party
+
+youarenttheleaderoftheparty: Você não é o Líder da Party!
+
+youcanchatonlyonceevery15second: Apenas podes falar a cada 1.5 segundos!
+
+youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor: You can die from cold
+    during night in &bHoth&r if you do not have leather armor.
+
+youcanfindfriendlysurvivalwikiin1: 'Podes encontrar a Wiki do Friendly Survival em:
+    $1$'
+
+youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone: Tu
+    podes proteger as tuas portas e contentores com tabuletas, mas para proteger o
+    chão terás que criar ou juntar-te a um grupo.
+
+youcannothavemorethanonesnowmanininventoryatthesametime: Você não pode ter mais do
+    que um &fBoneco de neve &cno seu inventário ao mesmo tempo.
+
+youcannotpartywarpintothisgame: You cannot party warp into this game!
+
+youcanonlybuythisingame: Apenas podes comprar isso no jogo!
+
+youcanonlyvotewhentheresenoughplayerstostartthegame: Apenas podes votar quando existirem
+    jogadores suficientes para o jogo iniciar!
+
+youcansendcarepackagestosupportaliveplayerswith/carepackage<player>: Você pode enviar
+    pacotes de primeiros socorros para ajudar jogadores com &e&l/carepackage <jogador>
+
+youcantoggledisplayoftheanimationofftoreduceyourfpslag: Podes desligar a animação
+    para reduzir o lag!
+
+youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions: Tu podes usar
+    &5Warp Dimensional&r para ires a dimensões maravilhosas.
+
+youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave: Tu
+    não foi teleportado para a localização do líder da sua party porque estás em um
+    jogo!
+
+youdonated1snowballto1: Você doou &e&l1 &fBola de neve &epara &a$1$&e!
+
+youdonothaveenoughemeralds: Você não tem &aEsmeraldas&c suficientes!
+
+youdonothaveenoughmelons: Você não tem melões suficientes!
+
+yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin: Você
+    ganha pontos por capturar bandeiras. Chegue a uma quantia de pontos para vencer!
+
+? yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin
+: Você ganha pontos por Abates, um jogador é escolhido para Juggernaut. Todo munto
+    está contra ele se você matar o Juggernaut - você vira o juggernaut. Precisa de
+    chegar a uma quantia de pontos para vencher
+
+yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin: Você ganha pontos
+    por Kills, precisa chegar a uma quantia para vencer!
+
+yougetpointsforkillsyourteamneedstoreachtheneededamountofpointstowin: Ganha-se pontos
+    por Abates, e a sua equipe precisa ter uma quantia de pontos para vencer.
+
+yougotaenchantedsnowballfromyourkill: Você pegou uma &lBola de neve Encantada &bdo
+    seu abate!
+
+youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay: Você concordou
+    com as regras de survival. Siga-as e tudo ficará bem!
+
+youhavealreadyinvited1intoyourparty: Você já convidou $1$ &cna sua party!
+
+youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday: Você
+    já votou em um mapa hoje, ajude o servidor comprando &a&lVIP &cse quiser ter votos
+    ilimitados!
+
+youhavealreadyvotedforamode: Já votaste em um modo!
+
+youhavealreadyvotedforthismodifier: Já votaste nesta modificação!
+
+youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools: Tu tens
+    FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint como ferramentas
+    de construção!
+
+youhavejoinedpartyof1: Você entrou na party de &a$1$&e!
+
+youhaveleftpartyof1: Você saiu da party de &a$1$&e!
+
+youhavepurchased1: Compras-te $1$&6!
+
+youhavereachedthelimitof1powerupspermatch: Você chegou ao limite de &e&l$1$ &cpowerups
+    por partida!
+
+youhavereachedthelimitofsnowballs: Você chegou ao limite de bolas de neve!
+
+youhavereceivedsnowmanforreachingkillstreakof5: You have received &fSnowman &efor
+    reaching killstreak of &e&l5&e!
+
+youhavereflectedsnowballof1: Você refletiu a bola de neve de $1$&f!
+
+youhaveremovedyourlastratingofthismap: Removes-te a tua ultima avaliação desse mapa
+
+youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules: Você
+    tem que ler e concordar com as regras para colocar e quebrar blocos , use &e/survivalrules
+
+youhaveupgraded1to2: Você melhorou &a$1$ &6para &a$2$&6!
+
+youhaveupgraded1: Você melhorou &a$1$&6!
+
+youmustbeleaderofapartytousethis: Você não é o Líder da Party!
+
+yourarmyisunderattack: Seu exercito está sobre ataque!
+
+youropponentisblindedbyyourperk: O oponente é cegado com o seu perk!
+
+youropponentisignitedbyyourperk: O opnente é inflamado com o seu perk!
+
+youropponentisslowedbyyourperk: O opnente ganha lentidão com o seu perk!
+
+yourpartyinviteto1hasexpired: O convite para $1$ &eexpirou
+
+yourpartyleaderhaswarpedyoutotheirlocation: O líder da party puxou-te!
+
+yourradarbreakereffectisover: Your Radar Breaker effect is over!
+
+yoursnowballhit1: Your snowball hit $1$&f!
+
+yoursnowballhitboatof1: Your snowball hit boat of $1$&f!
+
+yoursnowmanssnowballhit1: A bola de neve do seu boneco de neve bate $1$&f!
+
+yourteam: A TUA EQUIPA
+
+1kicked2fromtheparty: $1$ &ekicked $2$ &efrom the party!
+
+youhavealreadyusedthispowerupinthislife: You have already used this power-up in this
+    life!
+
+swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo: Swearing
+    is completely forbidden in our server, you will get an automatically issued punishment
+    if you do.
+
+1hastransferredpartyleaderto2: $1$ &ehas transferred party leader to $2$&e!
+
+1isnotinyourparty: $1$ &cis not in your party!
+
+youcanbuythisitemonlyonceperlife: You can buy this item only once per life.
+
+youhavegainedextralifefromyourimmortalityperk: You have gained extra life from your
+    &aImmortality Perk&e!
+
+rightclicktoactivategamemodifiers: Right click to activate game modifiers!
+
+youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow: You have
+    logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged
+    in a row.
+
+locked: LOCKED
+
+1hasgainedanextralifefromtheirimmortalityperk: '&a$1$ &ehas gained an extra life from
+    their &aImmortality Perk&e!'
