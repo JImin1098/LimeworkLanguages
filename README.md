@@ -9,4 +9,4 @@ Language translations for Govindas Limework Minecraft servers network.
 5. It is expected for you to gain help from other people in translation, feel free to ask for help.
 6. Do not edit message indexes, such as "Youcanusehelp: You can use /help", "Youcanusehelp:" is the index here. Only translate the part after ":"
 7. Do not edit color codes (&, §) you may change their order if your translation has changed the order of words, but that's all.
-8. You can add a new language by copying LanguageEN.yml file, renaming it into Language<Lang>.yml and translating it.
+8. You can add a new language by copying LanguageEN.yml file, renaming it into Language[Lang].yml and translating it.
