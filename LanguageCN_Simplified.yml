@@ -30,7 +30,7 @@
 
 /groupdemote<player><group>demoteaplayerinagroup:'/group降级<玩家> <组>降级组中2-＆a的玩家。'
 
-/groupinfo<group>viewinformationaboutagroup:' /group info <group>＆2-＆查看信息a有关组的。'
+/groupinfo<group>viewinformationaboutagroup:' /group info <group>＆2-＆查看信息有关组的。'
 
 /groupinvite<player><group>inviteaplayertoagroup:'/group邀请<玩家> <组>邀请＆2-＆a玩家加入组。'
 
@@ -56,9 +56,9 @@
 
 /partydisbandtodisbandyourparty:' /party disband＆2-＆a要解散您的聚会。'
 
-/partyinvite<player>toinviteaplayertoparty:' /party邀请<玩家>＆2-＆邀请a玩家参加派对。'
+/partyinvite<player>toinviteaplayertoparty:' /party邀请<玩家>＆2-＆邀请玩家参加派对。'
 
-/partyjoin <player> tojoinpublicpartyofaplayer:' /party join <player>＆2-＆加入a玩家的公开聚会。'
+/partyjoin <player> tojoinpublicpartyofaplayer:' /party join <player>＆2-＆加入玩家的公开聚会。'
 
 /partykick <player> tokickaplayerfrom您的聚会:' /party kick <player>＆2-＆踢出a您的聚会的玩家。'
 
