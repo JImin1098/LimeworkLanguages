@@ -1,0 +1,830 @@
+/chatpartytotogglepartychat:' /chat party＆2-＆a切换聚会聊天。'
+
+/donateviewwaystodonatemoneytoourserver:'/donate＆2-＆a查看捐款的方式向我们的服务器。'
+
+/facceptacceptfriendrequests:' /f接受＆2-＆a接受朋友的请求。'
+
+/faddrequestsomeonetobeyourfriend:'/f add＆2-＆a要求某人成为您的朋友。'
+
+/faqgetanswerstofrequentlyaskedquestions:' /faq＆2-＆a获取常见答案问题的。'
+
+/fdenydenyfriendrequests:' /f拒绝＆2-＆a拒绝朋友请求。'
+
+/flistlistallyourcurrentfriends:'/f列出＆2-＆a列出您当前的所有朋友。'
+
+/fremoveremoveafriend:' /f删除＆2-＆a删除朋友。'
+
+/frequestslistallfriendrequests:' /f请求＆2-＆a列出所有朋友请求。'
+
+/friendviewfriendcommandshelp:' /friend＆2-＆aView朋友命令帮助。'
+
+/fshowsthishelppage:' /f＆2-＆a显示此帮助页面。'
+
+/groupaccept<group>acceptagroupinvitation:'/group接受<组>＆2-＆接受组邀请a组邀请。'
+
+/groupchunks <group> browseclaimedchunksofagroup:'/group块<group>＆2-＆aBrowse声明了一个组的块。'
+
+/groupclaim <group> claimachunktoagroup:'/group Claim <group>＆2-＆a将一个块声明为一个组。'
+
+/groupcreate<group>createagroup:'/group创建<组>＆2-＆a创建组。'
+
+/groupdemote<player><group>demoteaplayerinagroup:'/group降级<玩家> <组>降级组中2-＆a的玩家。'
+
+/groupinfo<group>viewinformationaboutagroup:' /group info <group>＆2-＆查看信息a有关组的。'
+
+/groupinvite<player><group>inviteaplayertoagroup:'/group邀请<玩家> <组>邀请＆2-＆a玩家加入组。'
+
+/groupkick <player> <group> kickaplayerfromagroup:'/group kick <player> <group>＆2-＆a从组中踢出一名球员。'
+
+/groupleave <group> leaveagroup:'/group离开<group>＆2-＆a离开一个组。'
+
+/grouplistlistthegroupsyouarein:' /group list＆2-＆a列出您所在的组。'
+
+/grouppromote<player><group>promoteaplayerinagroup:'/group促进<player> <group>促进组中＆2-＆a的玩家。
+
+/groupunclaimunclaimachunk:' /group取消＆2-＆a取消声明一个块。'
+
+/groupupgrade <group> upgradeagroup:'/group upgrade <group>＆2-＆a升级组。'
+
+/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname:'/join<游戏>到加入公共游戏通过命令或私有游戏通过<游戏> [大厅名称]＆2-＆a通过通过命令或私人游戏加入公共游戏大厅名称指定大厅名称指定大厅名称。'
+
+/listviewinformationaboutalonlineplayers:' /list＆2-＆a查看有关所有在线玩家的信息。'
+
+/msg <player> sendaprivatemessagetoaplayer:'/msg <player>＆2-＆a发送私人消息向玩家。'
+
+/partyaccept <player> toacceptanpartyinvite:'/party accept <player>＆2-＆a接受聚会邀请。'
+
+/partydisbandtodisbandyourparty:' /party disband＆2-＆a要解散您的聚会。'
+
+/partyinvite<player>toinviteaplayertoparty:' /party邀请<玩家>＆2-＆邀请a玩家参加派对。'
+
+/partyjoin <player> tojoinpublicpartyofaplayer:' /party join <player>＆2-＆加入a玩家的公开聚会。'
+
+/partykick <player> tokickaplayerfrom您的聚会:' /party kick <player>＆2-＆踢出a您的聚会的玩家。'
+
+/partyleavetoleaveaparty:' /party离开＆2-＆a离开聚会。'
+
+/partylisttoviewmembersofyourpartylist:' /party list＆2-＆a查看您的成员聚会列表中的。'
+
+/partyopentoopenyourpartyforpublicjoin:' /party open＆2-＆a要您的聚会公开加入。'
+
+/partytransfer <玩家>以将partyleader:'/party transfer <玩家>传递给其他成员＆2-＆a要将组长转移给其他成员。'
+
+/partyviewpartyhelp:' /party＆2-＆aView派对帮助。'
+
+/partywarptowarpyourpartymemberstoyourgamelobby:' /party warp＆2-＆a将您的扭曲聚会成员到游戏大厅。'
+
+/rulesreadserverrules:'/rules＆2-＆a读取服务器规则。'
+
+/spectateenterspectatemode:' /spectate＆2-＆a进入旁观模式。'
+
+/staffviewstafflist:'/staff＆2-＆aView人员列表。'
+
+/stats <player> viewplayersstats:' /stats <player>＆2-＆aView播放器的统计信息。'
+
+1arrowonknockout:淘汰赛上有1个箭头！
+
+1defeated2:$ 1 $＆cdefeated＆6 $ 2 $
+
+1donated1snowballtoyou:$ 1 $＆edonated＆e＆l1＆fSnowball和您！
+
+1flaghasbeendropped:$ 1 $＆eflag已被删除！
+
+1gotfirstkillofthegame:'＆a $ 1 $＆egot the first kill of the game！'
+
+1hascaptured2flag:$ 1 $＆ehas捕获了$ 2 $＆eflag！
+
+1hasdisdisedtheparty:$ 1 $＆ehas解散了聚会！
+
+1hasinvitedyouintoaparty:$ 1 $＆ehas邀请您参加聚会！
+
+1hasjoinedyourparty:$ 1 $＆ehas加入了您的聚会！
+
+1hasjoined:$ 1 $＆ehas加入！
+
+1haslefttheparty:$ 1 $＆ehas离开了聚会！
+
+1hasleft:$ 1 $＆chas走了！
+
+1hasnotinvitedyouintoaparty:$ 1 $＆ehas未邀请您参加聚会！
+
+1haspickedup2flag:$ 1 $＆ehas拿起$ 2 $＆eflag！
+
+1hasreachedthemaxsticklevel:$ 1 $＆ehas达到了最高交易量水平！
+
+1hasreturned2flag:$ 1 $＆ehas返回$ 2 $＆eflag！
+
+1hasvotedfor2map:$ 1 $＆ehas投票给＆b＆l $ 2 $＆emap！
+
+1hasvotedfor2mode:$ 1 $＆ehas投票给＆b＆l $ 2 $＆emode！
+
+1hasvotedforbalancedteamsmodifier:$ 1 $＆ehas为＆b＆lBalanced Teams＆emodifier投票！
+
+1hasvotedfordoublejumpmodifier:$ 1 $＆ehas为＆b＆lDouble Jump和emodifier投票！
+
+1hasvotedforfastsnowballsmodifier:$ 1 $＆ehas为＆b＆lFast Snowballs＆emodifier投票！
+
+1hasvotedforinstakillsnowballsmodifier:$ 1 $＆ehas为＆b＆lInstakill Snowballs ＆emodifier投票！
+
+1hasvotedfornocompassmodifier:$ 1 $＆ehas为＆b＆lNo Compass＆emodifier投票！
+
+1hasvotedforreflectsnowballsmodifier:$ 1 $＆ehas投票赞成＆b＆lReflect Snowballs＆emodifier！
+
+1isalreadyinyourparty:$ 1 $＆cis已加入您的聚会！
+
+1isnotyourfriendadd1tofriendswith/fadd2:$ 1 $＆c不是您的朋友！向朋友添加$ 1 $＆c，通过＆e /f添加$ 2 $
+
+1ofplayersneedstovoteenable:$ 1 $＆7of玩家需要投票以启用
+
+1teamisfull:$ 1 $＆cteam已满！
+
+accept:'[ACCEPT]'
+
+achancetospawncreeperwhereyoursnowballlands:在地方生成爬行者的机会雪球降落的雪球降落的。
+
+activatedmodifiers:激活的修饰符
+
+allowstodoublejumpbypressingthesneakbuttoninmidair:通过按下可进行双跳在空中踩踏按钮在空中潜行按钮。
+
+animationiscurrentlydisabled:动画当前为＆c＆lDISABLED＆e。
+
+animationiscurrentlyenabled:当前动画是＆a＆lENABLED＆e。
+
+areyouseriouslygoingintoapartywithyourselfinvitesomeone:您是否认真地参加与自己一起聚会自己的聚会？邀请某人！
+
+areyousureyouwanttoleavetype/qtoconfirm:确定要离开吗？输入＆e /q ＆6进行确认。
+
+armor:装甲
+
+arrowaccuracy:箭的准确性
+
+arrowbonusperk:箭的额外
+
+arrowsfired:箭被发射的
+
+arrowsleft:箭留给
+
+asnowmanwhichshootsenemies:一个雪人射击敌人！
+
+averagerating:'平均评分:'
+
+balancedteamsmodifier:平衡的团队修饰符
+
+becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating:'＆7＆l，因为太多的改变游戏的修饰符激活了此比赛不会影响您的由于激活了太多的改变游戏的修饰符，因此该比赛不会影响您的评价评分。'
+
+bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin:'＆e＆l成为的指挥官，并击败您的一支庞大的军队指挥官，并与您的军队一起击败所敌人的国王，以取胜！'
+
+bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports:提防重力，重力！始终在矿山和建筑物至少要有8之间建立支撑，支撑之间的距离个距离。
+
+blindnessperk:Blindness Perk
+
+blockssnowballs50chancetobreakonfirsthit100onsecondhit:阻止雪球。 ＆e＆l50％＆7机会在第一击中打破，＆e＆l100％＆7在第二击中。
+
+blocks:块
+
+bombsfired炸弹被发射发射
+
+bombsplaced:炸弹被放置
+
+bonussnowballsonknockout:淘汰赛上的额外雪球burningstickk:
+
+burningstickperk:燃烧棒Perk
+
+burns1oftargetssnowballs:烧伤目标的雪球。
+
+burnstargetonhit:命中时燃烧目标。
+
+cantfindaplayerbythenameof1:找不到名称为'$ 1 $'的玩家。
+
+cantshootfarbecausesnowballsmeltintheair:由于雪球在融化，无法射击远空中空中因此。
+
+chanceofcreeperspawn:爬虫的机会
+
+chanceofdoubleexperience:双重经验的
+
+chanceofdoublemelons:双瓜的机会。
+
+chanceofenchantedsnowballgainafterkill:被击杀后获得＆b迷住雪球的机率＆7杀的。
+
+chanceofreflection:反射的机会。
+
+chancetoblindopponentonhit:有一定几率在命中盲目的对手
+
+chancetoburnopponentonhit:有一定几率在命中烧对手
+
+chancetonotlosealife:概率不会失去生命
+
+chancetoslowslowness1opponentonhit:机会慢（慢度$ 1 $）对手击中
+
+chancetoslowslownessiiopponentonhit:击中机会放缓（步履维艰II）的对手
+
+checkersinminecraftlikethepopularboardgame:《我的世界》中的跳棋！就像流行的棋盘游戏一样。
+
+checkers:跳棋
+
+checkpoint:检查点
+
+chestslooted:胸部被抢劫clickheretojoin1
+
+classes:class
+
+clickheretojoin1:单击此处加入$ 1 $！
+
+clicktoacceptthepartyinvite:单击以接受聚会邀请！
+
+clicktobuy:单击购买！
+
+clicktojoin:' [点击加入]'
+
+clicktoopen:菜单打开菜单
+
+clicktoplay:单击播放
+
+clicktoratethismap:单击以对此地图进行评分
+
+clicktoundothisrating:单击以撤消该评分！
+
+clicktovotefor1mode:单击以投票给$ 1 $＆amode！
+
+clicktovoteforthismap:单击以对此地图进行投票！
+
+clicktovoteforthismode:单击以对此模式进行投票！
+
+clicktovoteforthismodifier:单击以投票给该修饰符！
+
+completeparkourracesearnprizesandcompeteinleaderboards:完成跑酷竞赛，赢得在排行榜上的表现和竞争奖金并参加排行榜！
+
+cooldown:冷却
+
+crackedplayerscanjoinourservertheycanapplyat1tojoin:破解的玩家可以加入我们的服务器，服务器！他们可以申请$ 1 $＆rto加入。
+
+?creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps:具有许多有用功能的创意世界！WorldEdit，VoxelSniper，goBrush，goPaint，大量的玩家头像，甚至是自定义编程语言来创建自己的自定义地图！
+
+creeperchanceperk:爬行者机会
+
+crystal:水晶
+
+current:当前
+
+damagedealt:输出伤害
+
+damagetaken:造成的受到的伤害所受伤害的
+
+day:日
+
+deaths:死亡
+
+defeat:击败
+
+defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander:捍卫你的城堡攻击其他城堡命令你的军队，成为最好的指挥官你的城堡，攻击其他城堡，指挥你的军队并成为最好的指挥官！
+
+destroyingotherplayercreationsorruiningtheminanywayisnotallowed:破坏其他玩家的创作或破坏最小值不允许玩家的创作或以任何方式破坏他们！
+
+destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed:破坏通过制造1x1洞和其他任何其外观的方式地形的美观通过制造孔，1x1塔架和任何其他方式地形的美观不允许不允许使其看起来不好的。
+
+didyouknow:你知道吗？
+
+?differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin:'＆e＆l不同的元素类在弓法战斗能力上相互竞争。使用您班上迷人的能力击败其他玩家并获胜！'
+
+dissappearsafter10soflanding:降落＆e10＆7之后消失。
+
+doubleemeralds:双祖母绿
+
+doublejumpmodifier:双跳修改
+
+doublemelonsperk:双瓜类帕金斯
+
+emeraldstotalearned:翡翠共赚
+
+emeralds:翡翠
+
+emerald:翡翠
+
+enchanteddiamondcannon: '＆bEnchanted＆B＆lDiamond炮'
+
+enchantedsnowballperk:魔法雪球帕金斯
+
+enchantedstonecannon: '＆bEnchanted＆7Stone炮'
+
+enchantedwoodcannon:魔＆aWood炮
+
+enemyteam : 敌方队
+
+everyplayergets3liveseliminateenemyteamtowin:每个玩家获得3条生命，消灭敌人团队都能赢得敌人的敌方团队获胜。
+
+everyplayergets3liveseliminateotherplayerstowin:每个玩家获得3条生命，消除赢得其他玩家双赢其他玩家获胜。
+
+experiencebonusperk:体验Bonus Perk
+
+explodeyourwaytootherplayersandexplodethem:向其他玩家并爆炸爆炸爆炸爆炸！
+
+exploringthevoidmayrevealmysterioussecrets:探索虚空可能揭示神秘的秘密秘密！
+
+explosionradius:爆炸半径
+
+fallingblocksanimation:下降块动画
+
+fastsnowballsmodifier:Fast Snowballs修改器
+
+feelfreetoinviteotherplayersbyusingthechat:使用随时邀请其他玩家聊天聊天。
+
+finalkills:最终杀死
+
+flamethrower:火焰喷射器
+
+free:免费！
+
+friendcommands:'＆2＆l-=-=＆a＆lFriend Commands＆2＆l =-=-'
+
+friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore:友好科技和魔术的生存科技与魔术的生存！探索许多维度，种出美丽的树木等等！
+
+gameendedinadraw:游戏
+
+gameend:游戏结束
+
+gamehasstarted:游戏已经开始！
+
+gameisstarting:游戏正在启动
+
+gamestartsin1seconds:游戏开始于＆e＆l $ 1＆eseconds
+
+gamestartsin:游戏开始于
+
+gamestatistics:游戏统计信息
+
+gametime:游戏时间
+
+gamewillendin1minutes:游戏结束于＆e＆l $ 1 $＆eminutes。
+
+gamewillendin1minute:游戏将以＆e＆l $ 1 $＆eminute结尾。
+
+gamewillstartin1seconds: '＆eGame将开始在＆E＆L $ 1 $＆eseconds'
+
+gamewillstartin1second: '＆eGame将在＆E＆L $ 1日开始$＆esecond'
+
+gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame:收集资源，准备战斗，保护您的生命水晶，攻击其他晶体和赢得比赛！
+
+gravityhasnoeffectonblocksheresoyoucanbuildinthesky:重力对块没有影响此处的，因此您可以在天空中构建此处的，因此您可以在天空中构建！
+
+groupcommands:'＆2＆l-=-=＆a＆lGroup Commands＆2＆l =-=-'
+
+havefun:玩得开心！
+
+health: 健康
+
+hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends:在这里，您可以找到玩游戏可以与朋友单独玩的既可以单独也可以和朋友玩的！
+
+hereyoucanfindgameswhichcanbeplayedonlywithfriends:在这里您可以找到游戏只能与朋友一起玩的只能与朋友一起玩的！
+
+hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun:在这里您可以找到小小的游戏，这些minigame就像是制作其他游戏一样您可以找到一些GUI微型游戏，这些微型游戏与不同，不是制作通过下载插件来的，但是它们仍然很有趣我们我们的，它只是一个下载的插件，但是仍然很有趣！
+
+hereyoucanusevariousabilitiestoexplodethemapandotherplayers:在这里您可以使用各种功能来炸开地图和其他玩家功能来炸开地图和其他玩家！
+
+hitstaken:命中
+
+hits:命中
+
+hittolevelupyourstickandknockotherplayersintothevoid:命中以升起棍子，并将踢其他玩家进入其他玩家入虚空！
+
+hours:小时
+
+howtoplay:'＆b＆l如何玩'
+
+ifyouwanttogetoutofthespectatormodetype/q:如果您想退出＆eSpectator模式模式＆c /q，
+
+ifyouwanttoleavethegametype/q:如果您想退出游戏类型为＆e /q＆6。
+
+ifyouwanttospectateotherplayertype/stp<player>: 如果您要观看其他玩家永恒特权类型类型＆e /stp <玩家>
+
+immortalityperk: Immortality Perk
+
+increasesthechancetoreflectasnowballto100:将机会反射到雪球的机会反射雪球的机会增加到100增加到100％
+
+increasesthedamageofsnowballsto10hearts:将雪球的伤害增加到10个心。
+
+increasesyourspeedby1: 增加速度$1$
+
+instakillsnowballsmodifier:Instakill Snowballs Modifier
+
+invalidcode:无效代码。
+
+ironcannon:'＆7＆lIron Cannon'
+
+itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater:Mustafar非常热，需要喝两次水您需要喝两倍的水。
+
+jumps:跳跃
+
+killer:杀手
+
+killsanynormalopponentevenwitharmor:杀死任何普通对手，即使有护甲。
+
+killstreak:连杀
+
+kills: Kills
+
+king:王
+
+knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback:'＆e＆l＆nbsp;其他玩家关闭平台，而玩家退出平台。当您击中玩家时，会造成更多的击退。'
+
+level:等级
+
+listofgames:游戏清单
+
+lives:Lives
+
+lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs:抢夺抢夺其他玩家的战利品和有趣的能力随机产生的掠夺物宝箱，与其他玩家战斗，找到具有有趣能力的随机生成的掠夺物，并扔出类似pokeballs的暴民蛋！
+
+lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin:'＆e＆l用唯一生成的随机生成的唯一随机物品随机生成宝箱。用它们消灭你的敌人。成为唯一获胜的幸存者。
+
+losses:损失
+
+makesallofyoursnowballsburn:使您的所有雪球燃烧。
+
+makeyoursnowballssuperfast:使您的雪球超快。
+
+maxlevelreached:最高水平达到
+
+maxlevel:'MAX LEVEL:'
+
+melonsearned:瓜类获得
+
+melonsspent:瓜类花费
+
+melons:瓜类
+
+melon:瓜类
+
+mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves:矿山矿石，升级镐，购买很棒的升级并解锁新洞穴！
+
+minutes:分钟
+
+mode:模式
+
+movetimeleft:向左移动时间
+
+mustbeatlowerfloor:必须低下楼层在较低楼层上
+
+mustnothaveanysuperjumps:必须必须没有超级跳跃不能有任何超级跳跃
+
+newrating:新评分
+
+newrecord:NEW RECORD！
+
+new:新！
+
+nextsuperjumpin:下一个超级跳转
+
+next:在下一个
+
+night:夜
+
+nocompassmodifier:没有指南针修饰符
+
+notenoughmelons:甜瓜不足！
+
+note:'注意:'
+
+nowblockswillstartbreakingwhenyousteponthem:当您时，nowblocks将开始破裂:现在，时，blocks将开始破裂踩到它们踩到它们！
+
+oldrecord:Old Record
+
+parkourcourse:跑酷路线
+
+participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther:'＆e＆l强化大规模的雪球搏击和使用，了我们的存在了雪球的，了他们参加大规模的打雪仗，并使用道具来缓解您的生存！推迟打雪仗可以使雪球更进一步。'
+
+partycommands:'＆2＆l-=-=＆a＆lParty Commands＆2＆l =-=-'
+
+partyinvitefrom1hasexpired:来自$ 1 $的聚会邀请＆ehas过期。
+
+partyleader:政党领导人
+
+partymember:政党
+
+partyof1isnotopenforpublicjoin:＆a $ 1 $＆cis的政党不公开参与。
+
+placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents:'＆e＆l将在形状周围炸弹和爆炸块，以利用炸弹和爆炸块以+形状围绕。使用强化道具来击败对手。'
+
+playercommands:'＆2＆l-=-=＆a＆lPlayer Commands＆2＆l =-=-'
+
+playerdied1timesinarowwithoutkills:玩家连续死亡$ 1 $次，没有杀死
+
+playeriswaiting:玩家正在等待
+
+playernotfound:找不到玩家。
+
+playersarewaiting:玩家正在等待玩家
+
+playersin:玩家在玩家
+
+playersleft:玩家离开的
+
+playerswaiting:玩家正在等待的
+
+players:玩家
+
+playerwason1killstreak:玩家的 $1$ 杀
+
+playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes:玩各种具有不同能力的类，并使用各种具有不同能力的类，并使用弓箭技巧在许多获胜不同模式不同模式下！
+
+pleaseratethismapbyclicking:'请点击以下内容对此地图进行'
+
+pleasespecifygroupname:'请指定群组名称:请指定群组名称！'
+
+pleasespecifyplayername:请指定玩家名称！
+
+plotname:情节名称
+
+plotowner:情节拥有人
+
+points:点数增能
+
+powerups:增能
+
+price:'价格:'
+
+quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers:快速测试快速测试通过与大量修饰符对抗其他玩家来您的技能:通过与其他修饰符对抗其他玩家来您的技能！
+
+radarbreaker:雷达
+
+rainisabletorefillwatersources:雨能够补充水源。
+
+rapidfirepoweruphasspawnedatmiddleofthemap:'＆6＆lRapid Fire＆bpowerup已生成在地图中间在地图中间！'
+
+rating:等级
+
+reflectionperk:反射Perkasnowballreducingdamagetakenby1
+
+reflectsasnowballreducingdamagetakenby1:反映雪球，减少伤害$ 1 $的。
+
+reflectsnowballsmodifier:Reflect Snowballs Modifier
+
+regeneratesyourhealth1:再生健康$ 1 $
+
+regeneration:再生
+
+removescompassfromthegame:从游戏中移除指南针。
+
+resources:资源
+
+respawningin:在重生中
+
+serverrulescanbereadin/rulesmakesuretofollowthem::服务器规则可以在＆a /rules＆e中读取，请确保遵循它们！
+
+shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers:'＆e＆l射杀鸡肉并获得杀死杀人的最大杀伤力并获得最大的杀伤力来取胜！当心:肮脏的僵尸和爬行者！
+
+shootchickensasfastasyoucan:尽快射击鸡！
+
+shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes:射击用雪球其他玩家以多种购买甜瓜和游戏用雪球其他玩家，用甜瓜购买能力道具并以许多不同的玩方式模式！
+
+shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak:'＆e＆l射击用你的大炮对手，自己用大炮TNT，将对手击倒至虚空，或将其炸开。让自己使用'超级跳跃'免受危险。 [潜行]'
+
+slowballs:Slowballs
+
+slownessionhit:Slowness I on hit
+
+slownessperk:Slowness Perk
+
+sneaktouse:潜行使用
+
+snowballaccuracy:Snowball Accuracy
+
+snowballsfired:Snowballs fired
+
+snowmanperk:Snowman Perk
+
+snowman:Snowman
+
+snowman:sortsteamsteamsonskillsskillsforfairness:出于公平考虑，对团队进行计数。
+
+spawnpointswitch:Spawnpoint Switch
+
+speed:速度将其他
+
+spleeftntspleentexplodeotherplayersintothevoid:Spleef + TNT = Spleent！将其他炸玩家入虚空！
+
+statistics:统计
+
+stonecannon:'＆7Stone Cannon'
+
+succesfullysentpartyinviteto1:成功将聚会邀请发送至$ 1 $！
+
+superjumps:超级跳跃
+
+superjump:超级跳跃
+
+survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty:':基于旧的Minecraft版本在alpha 1.2和beta 1.7.3之间进行。||＆警告:和beta173之间的oldminecraft＆7NOSTALGIA是一种确定性。'
+
+survivalrules:生存规则
+
+team:团队
+
+thankyouforratingthismap:感谢您对此地图进行评分
+
+theknockbackstick:The Knockback Stick
+
+therearemanyspecialrecipescheckthemoutin/recipes:'有很多特殊的食谱！在以下位置检查它们:＆e /recipes＆r'
+
+thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1:有一种针对Creative World的自定义编程语言，您可以用它来创建为绘图简单的功能！ $ 1 $
+
+thisgamecanbeplayedalone:'＆a可以玩＆e＆lalone＆a这个游戏。'
+
+thisgamecanbeplayedwith2players:此游戏可以与＆e＆l2＆a＆l +＆aplayers一起玩。
+
+thisgamecanbeplayedwithonly2players:此游戏只能由＆e＆l2＆aplayers玩。
+
+thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players:此游戏开始的时间很早，您将不会就不会赢得游戏开始得早，您将无法获得Emeralds和您的统计信息，成就有不到1名玩家如果开始时 $ 1 $＆6玩家以下将不会计入。
+
+thispowerupisreadyactive:此通电已激活！
+
+thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges:此回合不符合赢奖和评级更改的要求1v1不满足获胜奖励和评级更改的要求。
+
+throwablecobweb:可投掷的蜘蛛网
+
+timeelapsed:经过的时间
+
+timesincelastupdate:自上次更新以来的
+
+totalplaytime:总计上场时间
+
+troopsalive:部队存活的
+
+troopskilled:部队被杀死的
+
+troopslost:部队失去的
+
+troops:部队
+
+turnsyoursnowballsintoslowballs:将雪球变成慢球。
+
+turn: Turn
+
+unlocked:解锁
+
+use/agree1toagreewithsurvivalrules:使用/agree $ 1 $同意生存规则。
+
+usef5highfovtogetabetterviewofthegamefield:使用F5 +高FOV可以更好地查看游戏场游戏场！
+
+utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory:'＆e＆l利用充分的准备时间，以尽可能多的资源捍卫准备时间来收集尽可能多的资源，捍卫水晶生命和战斗的胜利生命之，为胜利而奋斗。'
+
+victory:VICTORY
+
+votes:'Votes:'
+
+vote:'[VOTE]'
+
+waitingplayers:等待玩家
+
+waitingqueuestatus:等待队列状态
+
+warped1partymemberstoyourourlocation:Warped＆e＆l $ 1 $＆eparty member to your location！
+
+waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater:水是这里的有限的，因此您打算在靠近大水源的地方建立农场这里的有限的，因此您将需要在靠近大水源的地方建造农场。
+
+winspercentage: 胜率胜率
+
+wins:赢得
+
+woodcannon:Wood Cannon
+
+youalveyhavetedforamap:您已经投票投过地图！
+
+youarealreadyinapartyof1:您已经参加了＆a $ 1 $＆c的聚会！
+
+youarealreadyon1team:您已经使用$ 1 $＆cteam！
+
+youareleaderofapartyuse/partydisbandtobeabletodothis:您是聚会的领导者，请使用要能够执行以下＆e /party disband＆c能够执行此操作。
+
+youarenowamemberof1team:您现在是$ 1 $＆eteam的成员！
+
+youarenowjuggernaut:您现在是Juggernaut！
+
+youarentinaparty:您没有参加派对！
+
+youarenttheleaderoftheparty:您不是党的领袖！
+
+youcanchatonlyonceevery15second:您每1.5秒只能聊天一次！
+
+youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor:如果您没有皮甲，晚上可以在＆bHoth＆r中。
+
+youcanfindfriendlysurvivalwikiin1:'您可以在$ 1 $中找到Friendly Survival Wiki'，
+
+youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone:您可以锁定容器和门并带有签名以保护土地，您可以将带有标志的集装箱和门锁定，如果要保护土地，您可以加入一个小组或创建一个可以加入一个小组或创建一个小组。
+
+youcannothavemorethanonesnowmanininventoryatthesametime:您不能同时拥有一个雪人库存一个以上的＆fSnowman＆cin库存。
+
+youcannotpartywarpintothisgame:您无法将warp拖入该游戏！
+
+youcanonlybuythisingame:您只能在游戏中购买！
+
+youcanonlyvotewhentheresenoughplayerstostartthegame:您只有在有时才能投票足够的玩家开始游戏足够的玩家可以开始游戏。
+
+youcansendcarepackagestosupportaliveplayerswith/carepackage<player>:您可以发送
+    护理包以支持活跃的玩家使用＆e＆l /carepackage <player>护理包以支持活跃的玩家，
+
+youcantoggledisplayoftheanimationofftoreduceyourfpslag:您可以显示
+    动画以减少您的帧数滞后关闭动画以减少FPS滞后！
+
+youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions:您可以使用任意尺寸的变形或美丽的有趣尺寸＆5Dimensional Warp＆r变形为许多美丽而有趣的尺寸。
+
+youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave::由于您在游戏中，因此无法翘曲至组长位置。使用＆e /q＆c离开。
+
+youdonated1snowballto1:您捐赠了＆e＆l1＆fSnowball＆eto＆a $ 1 $＆e！
+
+youdonothaveenoughemeralds:您没有足够的＆aEmeralds＆c！
+
+youdonothaveenoughmelons:您没有足够的瓜！
+
+yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin:您需要获得您需要为团队捕获的标记积分，而需要存储的积分数量积分捕获标记的积分，您的团队需要达到所需的积分数量才能获胜。
+
+?yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin:您将获得击杀点数，一个玩家被选为主宰点，然后主宰者，所有的玩家都，如果您杀死玩家都会反对他们。您需要达到所需的点数才能赢。
+
+yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin:您需要获得点数您需要击杀才能达到所需的双杀击杀，您需要达到所需的点数才能获胜。
+
+获得积分获得所需积分数量:您获得得分
+    您需要为团队所需的杀伤力，而的杀伤力需要为击杀，您的团队需要达到获胜所需的积分数量。
+
+yougotaenchantedsnowballfromyourkill:您杀死了一个＆l魔法雪球＆b！
+
+youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay:您已经同意
+    按照生存法则了生存规则生存规则，请遵守生存规则，一切都会好起来的！
+
+youhavealreadyinvited1intoyourparty:您已邀请$ 1 $＆cin参加您的聚会！
+
+youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday:您今天已经通过购买为该游戏投票支持该服务器今天已经在此游戏中为地图投票，请通过购买支持该服务器，每天无限制的时间＆a＆lVIP＆cif来每天您要投票无限制的时间。
+
+youhaveyyvotedforamode:您已经投票赞成一种模式！
+
+youhavealreadyvotedforthismodifier:您已经投票赞成该修改器！
+
+youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools:您拥有
+    FastAsyncWorldEdit，FastAsyncVoxelSniper，goBrush和goPaint构建工具！
+
+youhavejoinedpartyof1:您已加入＆a $ 1 $＆e的聚会！
+
+youhaveleftpartyof1:您已退出＆a $ 1 $＆e的聚会！
+
+youhavepurchased1:您已购买$ 1 $＆6！
+
+youhavereachedthelimitof1powerupspermatch:您已达到＆e＆l $ 1 $＆cpowerups的限制
+    每场比赛每次比赛！
+
+您已经达到雪球极限:您已经达到雪球极限！
+
+您已经收到了技能杀手5的雪人:您已经收到＆f雪人杀人魔
+    到达＆e达到了＆e＆l5＆e的！
+
+youhareflectedsnowballof1:您反映了$ 1 $＆f的滚雪球！
+
+youhaveremovedyourlastratingofthismap:您已删除此地图的最新评级。
+
+youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules:您必须阅读并同意使用可以生存的可突破中断/放置块的规则必须阅读并同意生存规则才能打破/放置障碍，使用＆e /survivalrules
+
+youhaveupgraded1to2:您已将$ 1 $升级到$ 2 $！
+
+youhaveupgraded1:您已升级＆a $ 1 $＆6！
+
+youmustbeleaderofapartytousethis:您必须是聚会的领导方才能使用此功能！
+
+yourarmyisunderattack:您的军队受到攻击！
+
+youropponentissblinded byyourperk:您的对手对您的特权视而不见！
+
+youropponentisigniteded byyourperk:您的特权激发了您的对手！
+
+youropponentisslowedbyyourperk:您的振作使对手减速！
+
+yourpartyinviteto1hasexpired:您加入$ 1 $的聚会邀请已过期。
+
+yourpartyleaderhaswarpedyoutotheirlocation:您的党魁已将您扭曲到他们的位置位置！
+
+yourradarbreakereffectisover:您的Radar Breaker效果已经结束！
+
+yoursnowballhit1:您的雪球达到$ 1 $＆f！
+
+yoursnowballhitboatof1:您的$ 1 $＆f雪球命中船！
+
+yoursnowmanssnowballhit1:您的雪人的雪球命中$ 1 $＆f！
+
+yourteam:您的团队
+
+1kicked2fromtheparty:从聚会中踢了1美元＆踢了2美元！
+
+youhavealreadyusedthispowerupinthislife:您已经在此使用了这种能力生活中生活中！
+
+swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo:宣誓完全禁止在服务器中，您将获得自动发出的惩罚在我们的服务器中完全禁止，，您将自动受到处罚如果您这样做。
+
+1hastransferredpartyleaderto2:$ 1 $＆ehas将党的领导转移到$ 2 $＆e！
+
+1isnotinyourparty:$ 1 $＆cis不参加您的聚会！
+
+youcanbuythisitemonlyonceperlife:您一生只能购买一次。
+
+youhavegainedextralifefromyourimmortalityperk:您已经从获得了额外的生命＆aImmortality Perk＆e！
+
+rightclicktoactivategamemodifiers:右键单击以激活游戏修改器！
+
+youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow:您已连续记录中记录了登录＆e＆l $ 1 $＆天！您每天登录将获得更高的奖励连续。
+
+locked:锁定
+
+1hasgainedanextralifefromtheirimmortalityperk:'＆a $ 1 $＆ehas从其永生性中获得额外的生命！'
