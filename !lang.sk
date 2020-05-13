@@ -3,7 +3,7 @@
 on skript load:
 	add 1 to {langlimit}
 	if {langlimit} is higher than 7:
-		delete {langmsg::*}
+		delete {langmsg::*} and {langlimit}
 on script load:
 	send "LOADING GLOBAL LANGUAGE FILES" to console
 	set {_languages::*} to "EN", "LT", "RU", "ES", "DA", "PT"
