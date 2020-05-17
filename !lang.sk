@@ -10,25 +10,23 @@ on script load:
 	loop {_languages::*}:
 		set {languageslist::%loop-value%} to loop-value
 		
+	load yaml "plugins/Skript/scripts/languages/LanguageEN.yml" as "langEN"
 	loop {languageslist::*}:
+		loop-value is not "EN"
 		#load it in memory so we can always have it loaded
 		load yaml "plugins/Skript/scripts/languages/Language%loop-value%.yml" as "lang%loop-value%"
-		
 		#clear non-existent messages that have been removed from original EN file, but still exist in other languages
+		loop yaml nodes from "lang%loop-value%":
 		
-		loop-value is not "EN":
-		
-			loop yaml nodes from "lang%loop-value%":
+			yaml value loop-value-2 from "langEN" is not set:
 			
-				yaml value loop-value-2 from "langEN" is not set:
+				send "Removed Non-existent message: %loop-value-2% from %loop-value-1%" to console and ops
+				delete yaml value loop-value-2 from "lang%loop-value-1%"
+				set {_deleted} to true
 				
-					send "Removed Non-existent message: %loop-value-2% from %loop-value-1%" to console and ops
-					delete yaml value loop-value-2 from "lang%loop-value-1%"
-					set {_deleted} to true
-					
-			{_deleted} is set:
-				save yaml "lang%loop-value%"
-				delete {_deleted}
+		{_deleted} is set:
+			save yaml "lang%loop-value%"
+			delete {_deleted}
 				
 	send "FINISHED LOADING GLOBAL LANGUAGE FILES" to console
 function translate(message: text, receivers: objects, returntype: integer = 1, variables: strings = "null") :: text:
