@@ -6,7 +6,7 @@ on skript load:
 		delete {langmsg::*} and {langlimit}
 on script load:
 	send "LOADING GLOBAL LANGUAGE FILES" to console
-	set {_languages::*} to "EN", "LT", "RU", "ES", "DA", "PT"
+	set {_languages::*} to "EN", "LT", "RU", "ES", "DA", "PT", "CN_Simplified"
 	loop {_languages::*}:
 		set {languageslist::%loop-value%} to loop-value
 		
@@ -92,3 +92,77 @@ function translate(message: text, treceiver: object, variables: strings = "null"
 				
 	#Translation Mode 1, return the message (MOST USEFUL!)
 	return {langmsg::%{_lang}%::%{_message}%}
+	
+function getSlotFromLanguage(lang: text) :: number:
+	switch {_lang}:
+		case "EN":
+			return 0
+		case "LT":
+			return 1
+		case "RU":
+			return 2
+		case "DA":
+			return 3
+		case "PT":
+			return 4
+		case "CN_Simplified":
+			return 5
+command /languages [<text>]:
+	description: Set your language
+	usage: /languages
+	trigger:
+		wait a tick
+		open chest with 1 row named "&6- &a&lSelect language &6-" to player
+		set {_inventory} to player's current inventory
+		
+		#diamond block is displayed if the banner variable isn't set
+		set slot 0 of {_inventory} to {banners::english} ? diamond block named "&aEnglish" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 1 of {_inventory} to {banners::lithuania} ? diamond block named "&aLietuvių" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 2 of {_inventory} to {banners::russia} ? diamond block named "&aРусский" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 3 of {_inventory} to {banners::denmark} ? diamond block named "&aDansk" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 4 of {_inventory} to {banners::portugal} ? diamond block named "&aPortuguês" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 5 of {_inventory} to {banners::china} ? diamond block named "&aChinese (Simplified)" with lore "&e&lCLICK TO SELECT" with no nbt
+		
+		set {_slot} to getSlotFromLanguage(epic variable "%uuid of player%::language")
+		set {_item} to {_inventory}.getItem({_slot})
+		
+		set lore of {_item} to "&a&lSELECTED"
+		
+		set slot {_enchantslot} of {_inventory} to {_item}
+		
+		
+		
+
+		set {_sp} to "Automatically detects your language based on your location."
+		
+		if {forcedenglish::%uuid of player%} is not set:
+			set slot 8 of {_inventory} to glowing redstone dust named "&eAutomatic Language Detection &2[&a&lON&2]" with lore "&7%{_sp}%", "&7This is enabled by default.", "&a", "&a&lCLICK TO TOGGLE"
+		else:
+			set slot 8 of {_inventory} to redstone dust named "&eAutomatic Language Detection &2[&c&lOFF&2]" with lore "&7%{_sp}%", "&7This is enabled by default.", "&a", "&a&lCLICK TO TOGGLE"
+
+on inventory click:
+	inventory name of player's current inventory = "&6- &a&lSelect language &6-"
+	clicked inventory is not player's inventory
+	set {_l} to epic variable "%uuid of player%::language"
+	switch clicked slot:
+		case 0:
+			set {_lang} to "EN"
+		case 1:
+			set {_lang} to "LT"
+		case 2:
+			set {_lang} to "RU"
+		case 3:
+			set {_lang} to "DA"
+		case 4:
+			set {_lang} to "PT"
+		case 8:
+			{forcedenglish::%uuid of player%} is not set:
+				set {forcedenglish::%uuid of player%} to true
+				send "&cAutomatic language detection has been disabled."
+			else:
+				delete {forcedenglish::%uuid of player%}
+				send "&aAutomatic language detection has been enabled back."
+	{_l} is not {_lang}:
+		set epic variable "%uuid of player%::language" to {_lang}
+		send "&eYou have selected &a%{_lang}% &elanguage!"
+	close inventory of player
