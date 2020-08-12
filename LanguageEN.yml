@@ -3,25 +3,6 @@
 /donateviewwaystodonatemoneytoourserver: '   /donate &2- &aView ways to donate money
     to our server.'
 
-/facceptacceptfriendrequests: '   /f accept &2-&a Accept friend requests.'
-
-/faddrequestsomeonetobeyourfriend: '   /f add &2-&a Request someone to be your friend.'
-
-/faqgetanswerstofrequentlyaskedquestions: '   /faq &2- &aGet answers to frequently
-    asked questions.'
-
-/fdenydenyfriendrequests: '   /f deny &2-&a Deny friend requests.'
-
-/flistlistallyourcurrentfriends: '   /f list &2-&a List all your current friends.'
-
-/fremoveremoveafriend: '   /f remove &2-&a Remove a friend.'
-
-/frequestslistallfriendrequests: '   /f requests &2-&a List all friend requests.'
-
-/friendviewfriendcommandshelp: '   /friend &2- &aView friend commands help.'
-
-/fshowsthishelppage: '   /f &2-&a Shows this help page.'
-
 /groupaccept<group>acceptagroupinvitation: '   /group accept <group> &2- &aAccept
     a group invitation.'
 
@@ -958,3 +939,46 @@ locked: LOCKED
 
 1hasgainedanextralifefromtheirimmortalityperk: '&a$1$ &ehas gained an extra life from
     their &aImmortality Perk&e!'
+
+/msgplayersendaprivatemessagetoaplayer: '   /msg <player> &2- &aSend a private message
+    to a player.'
+
+/statsplayerviewplayersstats: '   /stats <player> &2- &aView player''s stats.'
+
+/joingamelobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname: '   /join
+    <game> [lobbyname] &2- &aTo join a public game by a command or private game by
+    specifying lobby name.'
+
+/partyinviteplayertoinviteaplayertoparty: '   /party invite <player> &2- &aTo invite
+    a player to party.'
+
+/partyacceptplayertoacceptanpartyinvite: '   /party accept <player> &2- &aTo accept
+    an party invite.'
+
+/partykickplayertokickaplayerfromyourparty: '   /party kick <player> &2- &aTo kick
+    a player from your party.'
+
+/partytransferplayertotransferpartyleadertoothermember: '   /party transfer <player>
+    &2- &aTo transfer party leader to other member.'
+
+/partyjoinplayertojoinpublicpartyofaplayer: '   /party join <player> &2- &aTo join
+    public party of a player.'
+
+ifyouwanttospectateotherplayertype/stpplayer: If you want to spectate other player
+    type &e/stp <player>
+
+yourpartyisnowopenforpublicjoinotherplayerscando/pjoin1tojoinit: Your party is now
+    open for public join! Other players can do &a/p join $1$ &eto join it!
+
+youcansendcarepackagestosupportaliveplayerswith/carepackageplayer: You can send care
+    packages to support alive players with &e&l/carepackage <player>
+
+enchantedironcannon: '&bEnchanted &7&lIron Cannon'
+
+castlewars1v1govindassurvivalgamesminiskywallsspleentknockoutsnowballcheckersbombermanelementalarchers: Castle
+    Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball,
+    Checkers, Bomberman, Elemental Archers
+
+? creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenfurnituretoimproveyourbuilds
+: Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint,
+    a huge collection of player heads and even furniture to improve your builds!

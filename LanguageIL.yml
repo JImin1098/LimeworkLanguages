@@ -1,0 +1,22 @@
+playercommands: '   &2&l   --=-= &a&lPlayer Commands &2&l=-=--'
+
+/rulesreadserverrules: '   /rules &2- &aRead server rules.'
+
+/msg<player>sendaprivatemessagetoaplayer: '   /msg <player> &2- &aSend a private message
+    to a player.'
+
+/staffviewstafflist: '   /staff &2- &aView staff list.'
+
+/spectateenterspectatemode: '   /spectate &2- &aEnter spectate mode.'
+
+/stats<player>viewplayersstats: '   /stats <player> &2- &aView player''s stats.'
+
+/friendviewfriendcommandshelp: '   /friend &2- &aView friend commands help.'
+
+/listviewinformationaboutallonlineplayers: '   /list &2- &aView information about
+    all online players.'
+
+/partyviewpartyhelp: '   /party &2- &aView party help.'
+
+/faqgetanswerstofrequentlyaskedquestions: '   /faq &2- &aGet answers to frequently
+    asked questions.'

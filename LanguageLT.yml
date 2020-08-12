@@ -1,967 +1,840 @@
-? '{yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin257=Jūs
-    gaunate taškus už nužudymus, vienas žaidėjas yra išrinktas būti Juggernaut ir
-    visi žaidėjai turi kovoti prieš jį, jei jūs nužudote Juggernaut - jūs tampate
-    Juggernaut. Jūs turite pasiekti tam tikra skaičiu taškų laimėjimui.}'
+? "{yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin257=Jūs gaunate taškus už nužudymus, vienas žaidėjas yra išrinktas būti Juggernaut ir visi žaidėjai turi kovoti prieš jį, jei jūs nužudote Juggernaut - jūs tampate Juggernaut. Jūs turite pasiekti tam tikra skaičiu taškų laimėjimui.}"
 :
 
-/chatpartytotogglepartychat: '   /chat party &2- &aPerjungti grupės chat''ą.'
+"/chatpartytotogglepartychat": "   /chat party &2- &aPerjungti grupės chat'ą."
 
-/donateviewwaystodonatemoneytoourserver: '   /donate &2- &aView ways to donate money
-    to our server.'
+"/donateviewwaystodonatemoneytoourserver": "   /donate &2- &aView ways to donate money to our server."
 
-/facceptacceptfriendrequests: '   /f accept &2-&a Priimti kvietimą į draugus.'
+"/groupaccept<group>acceptagroupinvitation": "   /group accept <group> &2- &aPriimti kvietimą į grupę."
 
-/faddrequestsomeonetobeyourfriend: '   /f add &2-&a Prašyti žaidėją tapti tavo draugu.'
+"/groupchunks<group>browseclaimedchunksofagroup": "   /group chunks <group> &2- &aPeržiūrėti grupės žemes."
 
-/faqgetanswerstofrequentlyaskedquestions: '   /faq &2- &aGauti atsakymus į dažnai
-    užduodamus klausimus.'
+"/groupclaim<group>claimachunktoagroup": "   /group claim <group> &2- &aUžimti žemės gabalą grupei."
 
-/fdenydenyfriendrequests: '   /f deny &2-&a Atmesti kvietimą į draugus.'
+"/groupcreate<group>createagroup": "   /group create <grupė> &2- &aSukurti grupę."
 
-/flistlistallyourcurrentfriends: '   /f list &2-&a Peržiūrėti visus tavo draugus.'
+"/groupdemote<player><group>demoteaplayerinagroup": "   /group demote <player> <group> &2- &aPažeminti žaidėją grupėje."
 
-/fremoveremoveafriend: '   /f remove &2-&a Ištrinti draugą.'
+"/groupinfo<group>viewinformationaboutagroup": "   /group info <group> &2- &aPeržiūrėti grupės informaciją."
 
-/frequestslistallfriendrequests: '   /f requests &2-&a Peržiūrėti visus kvietimus
-    į draugus.'
+"/groupinvite<player><group>inviteaplayertoagroup": "   /group invite <žaidėjas> <grupė> &2- &aPakviesti žaidėją į grupę."
 
-/friendviewfriendcommandshelp: '   /friend &2- &aPeržiūrėti draugų komandas.'
+"/groupkick<player><group>kickaplayerfromagroup": "   /group kick <žaidėjas> <grupė> &2- &aIšmesti žaidėją iš grupės."
 
-/fshowsthishelppage: '   /f &2-&a Rodo šį puslapį.'
+"/groupleave<group>leaveagroup": "   /group leave <grupė> &2- &aIšeiti iš grupės."
 
-/groupaccept<group>acceptagroupinvitation: '   /group accept <group> &2- &aPriimti
-    kvietimą į grupę.'
+"/grouplistlistthegroupsyouarein": "   /group list &2- &aPeržiūrėti grupių sąrašą kuriose esate."
 
-/groupchunks<group>browseclaimedchunksofagroup: '   /group chunks <group> &2- &aPeržiūrėti
-    grupės žemes.'
+"/grouppromote<player><group>promoteaplayerinagroup": "   /group promote <player> <group> &2- &aPaaukštinti žaidėją grupėje."
 
-/groupclaim<group>claimachunktoagroup: '   /group claim <group> &2- &aUžimti žemės
-    gabalą grupei.'
+"/groupunclaimunclaimachunk": "   /group unclaim &2- &aApleisti žemės gabalą."
 
-/groupcreate<group>createagroup: '   /group create <grupė> &2- &aSukurti grupę.'
+"/groupupgrade<group>upgradeagroup": "   /group upgrade <group> &2- &aPatobulinti grupę."
 
-/groupdemote<player><group>demoteaplayerinagroup: '   /group demote <player> <group>
-    &2- &aPažeminti žaidėją grupėje.'
+"/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <žaidimas> [lobbypavadinimas] &2- &aKad ateiti į viešą žaidimą su komanda arba privatų žaidimą nurodant pavadinimą."
 
-/groupinfo<group>viewinformationaboutagroup: '   /group info <group> &2- &aPeržiūrėti
-    grupės informaciją.'
+"/listviewinformationaboutallonlineplayers": "   /list &2- &aPeržiūrėti informaciją apie prisijungusius žaidėjus."
 
-/groupinvite<player><group>inviteaplayertoagroup: '   /group invite <žaidėjas> <grupė>
-    &2- &aPakviesti žaidėją į grupę.'
+"/msg<player>sendaprivatemessagetoaplayer": "   /msg <žaidėjas> &2- &aNusiųsti privačią žinutę žaidėjui."
 
-/groupkick<player><group>kickaplayerfromagroup: '   /group kick <žaidėjas> <grupė>
-    &2- &aIšmesti žaidėją iš grupės.'
+"/partyaccept<player>toacceptanpartyinvite": "   /party accept <player> &2- &aPriimti pakvietimą į grupę."
 
-/groupleave<group>leaveagroup: '   /group leave <grupė> &2- &aIšeiti iš grupės.'
+"/partydisbandtodisbandyourparty": "   /party disband &2- &aSunaikinti grupę."
 
-/grouplistlistthegroupsyouarein: '   /group list &2- &aPeržiūrėti grupių sąrašą kuriose
-    esate.'
+"/partyinvite<player>toinviteaplayertoparty": "   /party invite <player> &2- &aPakviesti žaidėja į savo grupę."
 
-/grouppromote<player><group>promoteaplayerinagroup: '   /group promote <player> <group>
-    &2- &aPaaukštinti žaidėją grupėje.'
+"/partyjoin<player>tojoinpublicpartyofaplayer": "   /party join <player> &2- &aAteiti į viešą grupę."
 
-/groupunclaimunclaimachunk: '   /group unclaim &2- &aApleisti žemės gabalą.'
+"/partykick<player>tokickaplayerfromyourparty": "   /party kick <player> &2- &aIšmesti žaidėją iš savo grupės."
 
-/groupupgrade<group>upgradeagroup: '   /group upgrade <group> &2- &aPatobulinti grupę.'
+"/partyleavetoleaveaparty": "   /party leave &2- &aIšeiti iš grupės."
 
-/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname: '   /join
-    <žaidimas> [lobbypavadinimas] &2- &aKad ateiti į viešą žaidimą su komanda arba
-    privatų žaidimą nurodant pavadinimą.'
+"/partylisttoviewmembersofyourpartylist": "   /party list &2- &aPeržiūrėti savo grupės narių sąrašą."
 
-/listviewinformationaboutallonlineplayers: '   /list &2- &aPeržiūrėti informaciją
-    apie prisijungusius žaidėjus.'
+"/partyopentoopenyourpartyforpublicjoin": "   /party open &2- &aAtidaryti grupę viešam atėjimui."
 
-/msg<player>sendaprivatemessagetoaplayer: '   /msg <žaidėjas> &2- &aNusiųsti privačią
-    žinutę žaidėjui.'
+"/partytransfer<player>totransferpartyleadertoothermember": "   /party transfer <žaidėjas> &2- &aKad perleisti lyderio pareigas kitam žaidėjui."
 
-/partyaccept<player>toacceptanpartyinvite: '   /party accept <player> &2- &aPriimti
-    pakvietimą į grupę.'
+"/partyviewpartyhelp": "   /party &2- &aPeržiūrėti grupių pagalbą."
 
-/partydisbandtodisbandyourparty: '   /party disband &2- &aSunaikinti grupę.'
+"/partywarptowarpyourpartymemberstoyourgamelobby": "   /party warp &2- &aTeleportuoti savo grupės narius į savo žaidimą."
 
-/partyinvite<player>toinviteaplayertoparty: '   /party invite <player> &2- &aPakviesti
-    žaidėja į savo grupę.'
+"/rulesreadserverrules": "   /rules &2- &aPerskaityti serverio taisykles."
 
-/partyjoin<player>tojoinpublicpartyofaplayer: '   /party join <player> &2- &aAteiti
-    į viešą grupę.'
+"/spectateenterspectatemode": "   /spectate &2- &aĮeiti į stebėjimo rėžimą."
 
-/partykick<player>tokickaplayerfromyourparty: '   /party kick <player> &2- &aIšmesti
-    žaidėją iš savo grupės.'
+"/staffviewstafflist": "   /staff &2- &aPeržiūrėti administracijos sąrašą."
 
-/partyleavetoleaveaparty: '   /party leave &2- &aIšeiti iš grupės.'
+"/stats<player>viewplayersstats": "   /stats <žaidėjas> &2- &aPeržiūrėti žaidėjo statistiką."
 
-/partylisttoviewmembersofyourpartylist: '   /party list &2- &aPeržiūrėti savo grupės
-    narių sąrašą.'
+"1arrowonknockout": "1 strėlė numetus priešininką!"
 
-/partyopentoopenyourpartyforpublicjoin: '   /party open &2- &aAtidaryti grupę viešam
-    atėjimui.'
+"1defeated2": "$1$ &cdefeated &6$2$"
 
-/partytransfer<player>totransferpartyleadertoothermember: '   /party transfer <žaidėjas>
-    &2- &aKad perleisti lyderio pareigas kitam žaidėjui.'
+"1donated1snowballtoyou": "$1$ &edonated &e&l1 &fSnowball &eto you!"
 
-/partyviewpartyhelp: '   /party &2- &aPeržiūrėti grupių pagalbą.'
+"1flaghasbeendropped": "$1$ &eflag has been dropped!"
 
-/partywarptowarpyourpartymemberstoyourgamelobby: '   /party warp &2- &aTeleportuoti
-    savo grupės narius į savo žaidimą.'
+"1gotfirstkillofthegame": "&a$1$ &egavo pirmą nužudymą žaidime!"
 
-/rulesreadserverrules: '   /rules &2- &aPerskaityti serverio taisykles.'
+"1hascaptured2flag": "$1$ &ehas captured $2$ &eflag!"
 
-/spectateenterspectatemode: '   /spectate &2- &aĮeiti į stebėjimo rėžimą.'
+"1hasdisbandedtheparty": "$1$ &esunaikino grupę!"
 
-/staffviewstafflist: '   /staff &2- &aPeržiūrėti administracijos sąrašą.'
+"1hasinvitedyouintoaparty": "$1$ &epakvietė tave į savo grupę!"
 
-/stats<player>viewplayersstats: '   /stats <žaidėjas> &2- &aPeržiūrėti žaidėjo statistiką.'
+"1hasjoinedyourparty": "$1$ &eprisijungė prie jūsų grupės!"
 
-1arrowonknockout: 1 strėlė numetus priešininką!
+"1hasjoined": "$1$ &eatėjo!"
 
-1defeated2: $1$ &cdefeated &6$2$
+"1haslefttheparty": "$1$ &eišėjo iš grupės!"
 
-1donated1snowballtoyou: $1$ &edonated &e&l1 &fSnowball &eto you!
+"1hasleft": "$1$ &cpaliko žaidimą!"
 
-1flaghasbeendropped: $1$ &eflag has been dropped!
+"1hasnotinvitedyouintoaparty": "$1$ &enėra pakvietęs jūsų į grupę."
 
-1gotfirstkillofthegame: '&a$1$ &egavo pirmą nužudymą žaidime!'
+"1haspickedup2flag": "$1$ &ehas picked up $2$ &eflag!"
 
-1hascaptured2flag: $1$ &ehas captured $2$ &eflag!
+"1hasreachedthemaxsticklevel": "$1$ &epasiekė maksimalų pagaliuko lygį!"
 
-1hasdisbandedtheparty: $1$ &esunaikino grupę!
+"1hasreturned2flag": "$1$ &ehas returned $2$ &eflag!"
 
-1hasinvitedyouintoaparty: $1$ &epakvietė tave į savo grupę!
+"1hasvotedfor2map": "$1$ &ebalsuoja už &b&l$2$ &ežemėlapį!"
 
-1hasjoinedyourparty: $1$ &eprisijungė prie jūsų grupės!
+"1hasvotedfor2mode": "$1$ &ehas voted for &b&l$2$ &emode!"
 
-1hasjoined: $1$ &eatėjo!
+"1hasvotedforbalancedteamsmodifier": "$1$ &ebalsuoja už &b&lBalansuotų Komandų &emodifikatorių!"
 
-1haslefttheparty: $1$ &eišėjo iš grupės!
+"1hasvotedfordoublejumpmodifier": "$1$ &ehas voted for &b&lDouble Jump &emodifier!"
 
-1hasleft: $1$ &cpaliko žaidimą!
+"1hasvotedforfastsnowballsmodifier": "$1$ &ehas voted for &b&lFast Snowballs &emodifier!"
 
-1hasnotinvitedyouintoaparty: $1$ &enėra pakvietęs jūsų į grupę.
+"1hasvotedforinstakillsnowballsmodifier": "$1$ &ebalsuoja už &b&lMomentinio Nžudymo Gniužčių &emodifikatorių!"
 
-1haspickedup2flag: $1$ &ehas picked up $2$ &eflag!
+"1hasvotedfornocompassmodifier": "$1$ &ehas voted for &b&lNo Compass &emodifier!"
 
-1hasreachedthemaxsticklevel: $1$ &epasiekė maksimalų pagaliuko lygį!
+"1hasvotedforreflectsnowballsmodifier": "$1$ &ebalsuoja už &b&lReflektyvių Gniužčių &emodifikatorių!"
 
-1hasreturned2flag: $1$ &ehas returned $2$ &eflag!
+"1isalreadyinyourparty": "$1$ &cis already in your party!"
 
-1hasvotedfor2map: $1$ &ebalsuoja už &b&l$2$ &ežemėlapį!
+"1isnotyourfriendadd1tofriendswith/fadd2": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
 
-1hasvotedfor2mode: $1$ &ehas voted for &b&l$2$ &emode!
+"1ofplayersneedstovotetoenable": "$1$ &7žaidėjų turi prabalsuoti kad aktyvuoti"
 
-1hasvotedforbalancedteamsmodifier: $1$ &ebalsuoja už &b&lBalansuotų Komandų &emodifikatorių!
+"1teamisfull": "$1$ &ckomanda yra pilna!"
 
-1hasvotedfordoublejumpmodifier: $1$ &ehas voted for &b&lDouble Jump &emodifier!
+"accept": "[PRIIMTI]"
 
-1hasvotedforfastsnowballsmodifier: $1$ &ehas voted for &b&lFast Snowballs &emodifier!
+"achancetospawncreeperwhereyoursnowballlands": "Galimybė kad atsiras creeper ten kur tavo sniego gniūžtė pataikys."
 
-1hasvotedforinstakillsnowballsmodifier: $1$ &ebalsuoja už &b&lMomentinio Nžudymo Gniužčių
-    &emodifikatorių!
+"activatedmodifiers": "Aktyvūs Modifikatoriai"
 
-1hasvotedfornocompassmodifier: $1$ &ehas voted for &b&lNo Compass &emodifier!
+"allowstodoublejumpbypressingthesneakbuttoninmidair": "Allows to double jump by pressing the sneak button in mid-air."
 
-1hasvotedforreflectsnowballsmodifier: $1$ &ebalsuoja už &b&lReflektyvių Gniužčių &emodifikatorių!
+"animationiscurrentlydisabled": "Animacija šiuo metu yra &c&lIŠJUNGTA&e."
 
-1isalreadyinyourparty: $1$ &cis already in your party!
+"animationiscurrentlyenabled": "Animacija šiuo metu yra &a&lĮJUNGTA&e."
 
-1isnotyourfriendadd1tofriendswith/fadd2: $1$&c is not your friend! Add $1$&c to friends
-    with &e/f add $2$
+"areyouseriouslygoingintoapartywithyourselfinvitesomeone": "Ar tu rimtai eini į grupę su savimi? Pakviesk ką nors!"
 
-1ofplayersneedstovotetoenable: $1$ &7žaidėjų turi prabalsuoti kad aktyvuoti
+"areyousureyouwanttoleavetype/qtoconfirm": "Ar jūs tikrai norite išeiti? Rašykite &e/q &6kad patvirtintumėte."
 
-1teamisfull: $1$ &ckomanda yra pilna!
+"armor": "Armor"
 
-accept: '[PRIIMTI]'
+"arrowaccuracy": "Strėlių Taiklumas"
 
-achancetospawncreeperwhereyoursnowballlands: Galimybė kad atsiras creeper ten kur
-    tavo sniego gniūžtė pataikys.
+"arrowbonusperk": "Strėlės Priedas"
 
-activatedmodifiers: Aktyvūs Modifikatoriai
+"arrowsfired": "Arrows Fired"
 
-allowstodoublejumpbypressingthesneakbuttoninmidair: Allows to double jump by pressing
-    the sneak button in mid-air.
+"arrowsleft": "Strėlių liko"
 
-animationiscurrentlydisabled: Animacija šiuo metu yra &c&lIŠJUNGTA&e.
+"asnowmanwhichshootsenemies": "A snowman which shoots enemies!"
 
-animationiscurrentlyenabled: Animacija šiuo metu yra &a&lĮJUNGTA&e.
+"averagerating": "Vidutinis Įvertinimas:"
 
-areyouseriouslygoingintoapartywithyourselfinvitesomeone: Ar tu rimtai eini į grupę
-    su savimi? Pakviesk ką nors!
+"balancedteamsmodifier": "Balansuotų Komandų Modifikatorius"
 
-areyousureyouwanttoleavetype/qtoconfirm: Ar jūs tikrai norite išeiti? Rašykite &e/q
-    &6kad patvirtintumėte.
+"becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating": "&7&lDėl per daug žaidimą keičiančių modifikatorių, šis turas nedarys įtakos jūsų reitingui."
 
-armor: Armor
+"bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin": "&e&lVadovauk dideliai armijai ir nugalėk visus priešų karalius kad laimėtum!"
 
-arrowaccuracy: Strėlių Taiklumas
+"bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
 
-arrowbonusperk: Strėlės Priedas
+"blindnessperk": "Aklumo Priedas"
 
-arrowsfired: Arrows Fired
+"blockssnowballs50chancetobreakonfirsthit100onsecondhit": "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
 
-arrowsleft: Strėlių liko
+"blocks": "blokai"
 
-asnowmanwhichshootsenemies: A snowman which shoots enemies!
+"bombsfired": "Bombos iššautos"
 
-averagerating: 'Vidutinis Įvertinimas:'
+"bombsplaced": "Bombs placed"
 
-balancedteamsmodifier: Balansuotų Komandų Modifikatorius
+"bonussnowballsonknockout": "Sniego gniūžtės išmetus priešininką!"
 
-becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating: '&7&lDėl
-    per daug žaidimą keičiančių modifikatorių, šis turas nedarys įtakos jūsų reitingui.'
+"burningstickperk": "Degančio Pagaliuko Priedas"
 
-bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin: '&e&lVadovauk
-    dideliai armijai ir nugalėk visus priešų karalius kad laimėtum!'
+"burns1oftargetssnowballs": "Burns &e&l$1$ &7of target's snowballs."
 
-bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports: Beware
-    of gravity! Always build supports to your mines and buildings with at least 8
-    blocks of distance between supports.
+"burnstargetonhit": "Burns target on hit."
 
-blindnessperk: Aklumo Priedas
+"cantfindaplayerbythenameof1": "Žaidėjas vardu '$1$' nerastas."
 
-blockssnowballs50chancetobreakonfirsthit100onsecondhit: Blocks snowballs. &e&l50%
-    &7chance to break on first hit, &e&l100% &7on second hit.
+"cantshootfarbecausesnowballsmeltintheair": "Can't shoot far because snowballs melt in the air."
 
-blocks: blokai
+"chanceofcreeperspawn": "galimybė kad atsiras creeper"
 
-bombsfired: Bombos iššautos
+"chanceofdoubleexperience": "Galimybė gauti du kartus daugiau patirties"
 
-bombsplaced: Bombs placed
+"chanceofdoublemelons": "chance of double melons."
 
-bonussnowballsonknockout: Sniego gniūžtės išmetus priešininką!
+"chanceofenchantedsnowballgainafterkill": "chance of &bEnchanted Snowball &7gain after kill."
 
-burningstickperk: Degančio Pagaliuko Priedas
+"chanceofreflection": "chance of reflection."
 
-burns1oftargetssnowballs: Burns &e&l$1$ &7of target's snowballs.
+"chancetoblindopponentonhit": "Galimybė įtrenkus priešininkui jį apakinti"
 
-burnstargetonhit: Burns target on hit.
+"chancetoburnopponentonhit": "Galimybė uždegti priešininką įtrenkus"
 
-cantfindaplayerbythenameof1: Žaidėjas vardu '$1$' nerastas.
+"chancetonotlosealife": "Galimybė neprarasti gyvybės"
 
-cantshootfarbecausesnowballsmeltintheair: Can't shoot far because snowballs melt in
-    the air.
+"chancetoslowslowness1opponentonhit": "chance to slow(Slowness $1$) opponent on hit"
 
-chanceofcreeperspawn: galimybė kad atsiras creeper
+"chancetoslowslownessiiopponentonhit": "Galimybė sulėtinti(Lėtumas II) priešininką įtrenkus"
 
-chanceofdoubleexperience: Galimybė gauti du kartus daugiau patirties
+"checkersinminecraftlikethepopularboardgame": "Šaškės Minecraft'e! Panašu į populiarų stalo žaidimą."
 
-chanceofdoublemelons: chance of double melons.
+"checkers": "Šaškės"
 
-chanceofenchantedsnowballgainafterkill: chance of &bEnchanted Snowball &7gain after
-    kill.
+"checkpoint": "Taškas"
 
-chanceofreflection: chance of reflection.
+"chestslooted": "Skrynios atidarytos"
 
-chancetoblindopponentonhit: Galimybė įtrenkus priešininkui jį apakinti
+"classes": "klases"
 
-chancetoburnopponentonhit: Galimybė uždegti priešininką įtrenkus
+"clickheretojoin1": "Spausk čia kad prisijungtum į $1$!"
 
-chancetonotlosealife: Galimybė neprarasti gyvybės
+"clicktoacceptthepartyinvite": "Spausk kad priimti kvietimą į grupę!"
 
-chancetoslowslowness1opponentonhit: chance to slow(Slowness $1$) opponent on hit
+"clicktobuy": "Spausk kad galėtum nusipirkti!"
 
-chancetoslowslownessiiopponentonhit: Galimybė sulėtinti(Lėtumas II) priešininką įtrenkus
+"clicktojoin": "[SPAUSK ČIA]"
 
-checkersinminecraftlikethepopularboardgame: Šaškės Minecraft'e! Panašu į populiarų
-    stalo žaidimą.
+"clicktoopenmenu": "SPAUSK KAD ATIDARYTI MENIŲ"
 
-checkers: Šaškės
+"clicktoplay": "SPAUSK KAD ŽAISTI"
 
-checkpoint: Taškas
+"clicktoratethismap": "Click to rate this map"
 
-chestslooted: Skrynios atidarytos
+"clicktoundothisrating": "Spausk kad anuliuoti šį įvertinimą!"
 
-classes: klases
+"clicktovotefor1mode": "Spausk kad balsuoti už $1$ rėžimą!"
 
-clickheretojoin1: Spausk čia kad prisijungtum į $1$!
+"clicktovoteforthismap": "Spausk kad balsuoti už šį žemėlapį!"
 
-clicktoacceptthepartyinvite: Spausk kad priimti kvietimą į grupę!
+"clicktovoteforthismode": "Spausk kad prabalsuotum už šį tipą!"
 
-clicktobuy: Spausk kad galėtum nusipirkti!
+"clicktovoteforthismodifier": "Spausk kad balsuoti už šį modifikatorių!"
 
-clicktojoin: '[SPAUSK ČIA]'
+"completeparkourracesearnprizesandcompeteinleaderboards": "Pereik parkour trasas, gauk prizus ir varžykis lyderių lentelėje!"
 
-clicktoopenmenu: SPAUSK KAD ATIDARYTI MENIŲ
+"cooldown": "Laiko Tarpas"
 
-clicktoplay: SPAUSK KAD ŽAISTI
+"crackedplayerscanjoinourservertheycanapplyat1tojoin": "Cracked players can join our server! They can apply at $1$ &rto join."
 
-clicktoratethismap: Click to rate this map
+? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps"
+: "Kūrybinis pasaulis su daug naudingų galimybių! WorldEdit, VoxelSniper, goBrush, goPaint, didelė žaidėjų galvų kolekcija ir net speciali programavimo kalba su kuria galima kurti savo specialius žemėlapius!"
 
-clicktoundothisrating: Spausk kad anuliuoti šį įvertinimą!
+"creeperchanceperk": "Creeper Atsiradimo Priedas"
 
-clicktovotefor1mode: Spausk kad balsuoti už $1$ rėžimą!
+"crystal": "Kristalas"
 
-clicktovoteforthismap: Spausk kad balsuoti už šį žemėlapį!
+"current": "Dabartinis"
 
-clicktovoteforthismode: Spausk kad prabalsuotum už šį tipą!
+"damagedealt": "Žalos Padaryta"
 
-clicktovoteforthismodifier: Spausk kad balsuoti už šį modifikatorių!
+"damagetaken": "Žalos Gauta"
 
-completeparkourracesearnprizesandcompeteinleaderboards: Pereik parkour trasas, gauk
-    prizus ir varžykis lyderių lentelėje!
+"day": "Diena"
 
-cooldown: Laiko Tarpas
+"deaths": "Mirtys"
 
-crackedplayerscanjoinourservertheycanapplyat1tojoin: Cracked players can join our
-    server! They can apply at $1$ &rto join.
+"defeat": "PRALAIMĖJIMAS"
 
-? creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps
-: Kūrybinis pasaulis su daug naudingų galimybių! WorldEdit, VoxelSniper, goBrush,
-    goPaint, didelė žaidėjų galvų kolekcija ir net speciali programavimo kalba su
-    kuria galima kurti savo specialius žemėlapius!
+"defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander": "Gink savo pilį, pulk kitas pilis, įsakinėk savo armijai ir tapk geriausiu vadu!"
 
-creeperchanceperk: Creeper Atsiradimo Priedas
+"destroyingotherplayercreationsorruiningtheminanywayisnotallowed": "Destroying other player creations or ruining them in any way is not allowed!"
 
-crystal: Kristalas
+"destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed": "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed."
 
-current: Dabartinis
+"didyouknow": "Did you know?"
 
-damagedealt: Žalos Padaryta
+? "differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin"
+: "&e&lDifferent elemental classes compete with each other in bow-fighting abilities. Use fasciniting abilities of your class to defeat other players and win!"
 
-damagetaken: Žalos Gauta
+"dissappearsafter10soflanding": "Dissappears after &e&l10s &7of landing."
 
-day: Diena
+"doubleemeralds": "Dvigubai Smaragdų"
 
-deaths: Mirtys
+"doublejumpmodifier": "Double Jump Modifier"
 
-defeat: PRALAIMĖJIMAS
+"doublemelonsperk": "Double Melons Perk"
 
-defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander: Gink savo
-    pilį, pulk kitas pilis, įsakinėk savo armijai ir tapk geriausiu vadu!
+"emeraldstotalearned": "Smaragdų viso gauta"
 
-destroyingotherplayercreationsorruiningtheminanywayisnotallowed: Destroying other
-    player creations or ruining them in any way is not allowed!
+"emeralds": "Smaragdai"
 
-destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed: Destroying
-    the good look of terrain by making holes, 1x1 towers and any other way which makes
-    it look bad is not allowed.
+"emerald": "Smaragdas"
 
-didyouknow: Did you know?
+"enchanteddiamondcannon": "&bUžkerėta &b&lDeimantinė Patranka"
 
-? differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin
-: '&e&lDifferent elemental classes compete with each other in bow-fighting abilities.
-    Use fasciniting abilities of your class to defeat other players and win!'
+"enchantedsnowballperk": "Enchanted Snowball Perk"
 
-dissappearsafter10soflanding: Dissappears after &e&l10s &7of landing.
+"enchantedstonecannon": "&bUžkerėta &7Akmeninė Patranka"
 
-doubleemeralds: Dvigubai Smaragdų
+"enchantedwoodcannon": "&bEnchanted &aWood Cannon"
 
-doublejumpmodifier: Double Jump Modifier
+"enemyteam": "PRIEŠŲ KOMANDA"
 
-doublemelonsperk: Double Melons Perk
+"everyplayergets3liveseliminateenemyteamtowin": "Kiekvienas žaidėjas gauna 3 gyvybės, pašalink priešų komandą kad laimėtum."
 
-emeraldstotalearned: Smaragdų viso gauta
+"everyplayergets3liveseliminateotherplayerstowin": "Kiekvienas žaidėjas gauna 3 gyvybės, pašalink kitus žaidėjus kad laimėtum."
 
-emeralds: Smaragdai
+"experiencebonusperk": "Patirties Priedas"
 
-emerald: Smaragdas
+"explodeyourwaytootherplayersandexplodethem": "Išsprogdink savo kelią iki kitų žaidėjų ir juos susprogdink!"
 
-enchanteddiamondcannon: '&bUžkerėta &b&lDeimantinė Patranka'
+"exploringthevoidmayrevealmysterioussecrets": "Exploring the void may reveal mysterious secrets!"
 
-enchantedsnowballperk: Enchanted Snowball Perk
+"explosionradius": "Sprogimo Spindulys"
 
-enchantedstonecannon: '&bUžkerėta &7Akmeninė Patranka'
+"fallingblocksanimation": "Krentančių Blokų Animacija"
 
-enchantedwoodcannon: '&bEnchanted &aWood Cannon'
+"fastsnowballsmodifier": "Fast Snowballs Modifier"
 
-enemyteam: PRIEŠŲ KOMANDA
+"feelfreetoinviteotherplayersbyusingthechat": "Galite pasikviesti žaidėjų rašydami chat'e!"
 
-everyplayergets3liveseliminateenemyteamtowin: Kiekvienas žaidėjas gauna 3 gyvybės,
-    pašalink priešų komandą kad laimėtum.
+"finalkills": "Finaliniai Nužudymai"
 
-everyplayergets3liveseliminateotherplayerstowin: Kiekvienas žaidėjas gauna 3 gyvybės,
-    pašalink kitus žaidėjus kad laimėtum.
+"flamethrower": "Flamethrower"
 
-experiencebonusperk: Patirties Priedas
+"free": "Free!"
 
-explodeyourwaytootherplayersandexplodethem: Išsprogdink savo kelią iki kitų žaidėjų
-    ir juos susprogdink!
+"friendcommands": "   &2&l--=-= &a&lDraugų Komandos &2&l=-=--"
 
-exploringthevoidmayrevealmysterioussecrets: Exploring the void may reveal mysterious
-    secrets!
+"friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore": "Draugiškas išlikimas su technika ir magija! Tirinėk daug dimensijų, augink nuostabius medžius ir dar daugiau!"
 
-explosionradius: Sprogimo Spindulys
+"gameendedinadraw": "ŽAIDIMAS BAIGĖSI LYGIOSIOMIS"
 
-fallingblocksanimation: Krentančių Blokų Animacija
+"gameend": "GAME END"
 
-fastsnowballsmodifier: Fast Snowballs Modifier
+"gamehasstarted": "Žaidimas prasidėjo!"
 
-feelfreetoinviteotherplayersbyusingthechat: Galite pasikviesti žaidėjų rašydami chat'e!
+"gameisstarting": "Žaidimas prasideda"
 
-finalkills: Finaliniai Nužudymai
+"gamestartsin1seconds": "Žaidimas prasidės už &e&l$1$ &esekundžių"
 
-flamethrower: Flamethrower
+"gamestartsin": "Žaidimas prasidės už"
 
-free: Free!
+"gamestatistics": "Žaidimo Statistika"
 
-friendcommands: '   &2&l--=-= &a&lDraugų Komandos &2&l=-=--'
+"gametime": "Žaidimo laikas"
 
-friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore: Draugiškas
-    išlikimas su technika ir magija! Tirinėk daug dimensijų, augink nuostabius medžius
-    ir dar daugiau!
+"gamewillendin1minutes": "Žaidimas pasibaigs už &e&l$1$ &eminučių."
 
-gameendedinadraw: ŽAIDIMAS BAIGĖSI LYGIOSIOMIS
+"gamewillendin1minute": "Game will end in &e&l$1$ &eminute."
 
-gameend: GAME END
+"gamewillstartin1seconds": "&eŽaidimas prasidės už &e&l$1$ &esekundžių"
 
-gamehasstarted: Žaidimas prasidėjo!
+"gamewillstartin1second": "&eŽaidimas prasidės už &e&l$1$ &esekundės"
 
-gameisstarting: Žaidimas prasideda
+"gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame": "Rink resursus, ruoškis kovai, gink savo Gyvybės Kristalą, atakuok kitus kristalus ir laimėk žaidimą!"
 
-gamestartsin1seconds: Žaidimas prasidės už &e&l$1$ &esekundžių
+"gravityhasnoeffectonblocksheresoyoucanbuildinthesky": "Gravity has no effect on blocks here, so you can build in the sky!"
 
-gamestartsin: Žaidimas prasidės už
+"groupcommands": "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
 
-gamestatistics: Žaidimo Statistika
+"havefun": "Sėkmės!"
 
-gametime: Žaidimo laikas
+"health": "Gyvybės"
 
-gamewillendin1minutes: Žaidimas pasibaigs už &e&l$1$ &eminučių.
+"hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends": "Čia jūs galite rasti žaidimus kuriuos galima žaisti ir vienam ir su draugais!"
 
-gamewillendin1minute: Game will end in &e&l$1$ &eminute.
+"hereyoucanfindgameswhichcanbeplayedonlywithfriends": "Čia jūs galite rasti žaidimus kuriuos galima žaisti tik su draugais!"
 
-gamewillstartin1seconds: '&eŽaidimas prasidės už &e&l$1$ &esekundžių'
+"hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun": "Čia jūs galite rasti mažus GUI minižaidimus, šie minižaidimai ne taip kaip kiti, nėra sukurti mūsų, jie yra tiesiog atsisiųsti, bet jie vistiek yra įdomūs!"
 
-gamewillstartin1second: '&eŽaidimas prasidės už &e&l$1$ &esekundės'
+"hereyoucanusevariousabilitiestoexplodethemapandotherplayers": "Čia jūs galite naudoti įvairius ginklus ir su jais sprogdinti žemėlapį, ir kitus žaidėjus!"
 
-gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame: Rink
-    resursus, ruoškis kovai, gink savo Gyvybės Kristalą, atakuok kitus kristalus ir
-    laimėk žaidimą!
+"hitstaken": "Hits Taken"
 
-gravityhasnoeffectonblocksheresoyoucanbuildinthesky: Gravity has no effect on blocks
-    here, so you can build in the sky!
+"hits": "Smūgiai"
 
-groupcommands: '   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--'
+"hittolevelupyourstickandknockotherplayersintothevoid": "Trankyk kitus žaidėjus kad pakiltų tavo pagaliuko lygis ir numesk juos į prarają!"
 
-havefun: Sėkmės!
+"hours": "valandų"
 
-health: Gyvybės
+"howtoplay": "&b&lKaip Žaisti"
 
-hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends: Čia jūs galite rasti žaidimus
-    kuriuos galima žaisti ir vienam ir su draugais!
+"ifyouwanttogetoutofthespectatormodetype/q": "Jei norite išeiti iš &eStebėjimo Režimo &crašykite &e/q"
 
-hereyoucanfindgameswhichcanbeplayedonlywithfriends: Čia jūs galite rasti žaidimus
-    kuriuos galima žaisti tik su draugais!
+"ifyouwanttoleavethegametype/q": "Jei norite išeiti iš žaidimo rašykite &e/q&6."
 
-hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun: Čia
-    jūs galite rasti mažus GUI minižaidimus, šie minižaidimai ne taip kaip kiti, nėra
-    sukurti mūsų, jie yra tiesiog atsisiųsti, bet jie vistiek yra įdomūs!
+"ifyouwanttospectateotherplayertype/stp<player>": "Jei norite stebėti kitą žaidėją rašykite &e/stp <žaidėjas>"
 
-hereyoucanusevariousabilitiestoexplodethemapandotherplayers: Čia jūs galite naudoti
-    įvairius ginklus ir su jais sprogdinti žemėlapį, ir kitus žaidėjus!
+"immortalityperk": "Nemirtingumo Priedas"
 
-hitstaken: Hits Taken
+"increasesthechancetoreflectasnowballto100": "Padidina tikimybę kad sniego gniūžtė atsimuš iki 100%"
 
-hits: Smūgiai
+"increasesthedamageofsnowballsto10hearts": "Padidina sniego gniūžčių žalą iki 10 širdučių."
 
-hittolevelupyourstickandknockotherplayersintothevoid: Trankyk kitus žaidėjus kad pakiltų
-    tavo pagaliuko lygis ir numesk juos į prarają!
+"increasesyourspeedby1": "Increases your speed by $1$"
 
-hours: valandų
+"instakillsnowballsmodifier": "Momentinio Nužudymo Gniužčių Modifikatorius"
 
-howtoplay: '&b&lKaip Žaisti'
+"invalidcode": "Invalid code."
 
-ifyouwanttogetoutofthespectatormodetype/q: Jei norite išeiti iš &eStebėjimo Režimo
-    &crašykite &e/q
+"ironcannon": "&7&lGeležinė Patranka"
 
-ifyouwanttoleavethegametype/q: Jei norite išeiti iš žaidimo rašykite &e/q&6.
+"itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater": "It's very hot in Mustafar, you gonna need to drink twice as much water."
 
-ifyouwanttospectateotherplayertype/stp<player>: Jei norite stebėti kitą žaidėją rašykite
-    &e/stp <žaidėjas>
+"jumps": "Šuoliai"
 
-immortalityperk: Nemirtingumo Priedas
+"killer": "Killer"
 
-increasesthechancetoreflectasnowballto100: Padidina tikimybę kad sniego gniūžtė atsimuš
-    iki 100%
+"killsanynormalopponentevenwitharmor": "Kills any normal opponent, even with armor."
 
-increasesthedamageofsnowballsto10hearts: Padidina sniego gniūžčių žalą iki 10 širdučių.
+"killstreak": "Killstreak"
 
-increasesyourspeedby1: Increases your speed by $1$
+"kills": "Nužudymai"
 
-instakillsnowballsmodifier: Momentinio Nužudymo Gniužčių Modifikatorius
+"king": "King"
 
-invalidcode: Invalid code.
+"knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback": "&e&lKnock other players off the platform. As you hit players, you deal more knockback."
 
-ironcannon: '&7&lGeležinė Patranka'
+"level": "Lygis"
 
-itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater: It's very hot in Mustafar,
-    you gonna need to drink twice as much water.
+"listofgames": "Žaidimų Sąrašas"
 
-jumps: Šuoliai
+"lives": "Gyvybės"
 
-killer: Killer
+"lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs": "Atidaryk skrynias, kovok su kitais žaidėjais, rask atsitiktinai sugeneruotų daiktų su ypatingomis galiomis ir mėtyk monstrų kiaušinius kaip pokemonus!"
 
-killsanynormalopponentevenwitharmor: Kills any normal opponent, even with armor.
+"lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
 
-killstreak: Killstreak
+"losses": "Pralamėjimai"
 
-kills: Nužudymai
+"makesallofyoursnowballsburn": "Makes all of your snowballs burn."
 
-king: King
+"makesyoursnowballssuperfast": "Makes your snowballs super fast."
 
-knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback: '&e&lKnock other
-    players off the platform. As you hit players, you deal more knockback.'
+"maxlevelreached": "Maksimalus lygis pasiektas"
 
-level: Lygis
+"maxlevel": "MAKS. LYGIS:"
 
-listofgames: Žaidimų Sąrašas
+"melonsearned": "Melons earned"
 
-lives: Gyvybės
+"melonsspent": "Melons spent"
 
-lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs: Atidaryk
-    skrynias, kovok su kitais žaidėjais, rask atsitiktinai sugeneruotų daiktų su ypatingomis
-    galiomis ir mėtyk monstrų kiaušinius kaip pokemonus!
+"melons": "Melionai"
 
-lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin: '&e&lLoot
-    randomly generated chests with unique items. Use them to eliminate your enemies.
-    Be the only survivor to win.'
+"melon": "Melon"
 
-losses: Pralamėjimai
+"mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves": "Kask iškasenas, tobulink kirtiklius, pirk nuostabius patobulinimus ir atrakink naujus urvus!"
 
-makesallofyoursnowballsburn: Makes all of your snowballs burn.
+"minutes": "minučių"
 
-makesyoursnowballssuperfast: Makes your snowballs super fast.
+"mode": "Rėžimas"
 
-maxlevelreached: Maksimalus lygis pasiektas
+"movetimeleft": "Judėjimo laiko liko"
 
-maxlevel: 'MAKS. LYGIS:'
+"mustbeatlowerfloor": "Turite būti žemesniame aukšte"
 
-melonsearned: Melons earned
+"mustnothaveanysuperjumps": "Privalote neturėti Super Šuolių!"
 
-melonsspent: Melons spent
+"newrating": "New Rating"
 
-melons: Melionai
+"newrecord": "NEW RECORD!"
 
-melon: Melon
+"new": "NEW!"
 
-mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves: Kask iškasenas, tobulink
-    kirtiklius, pirk nuostabius patobulinimus ir atrakink naujus urvus!
+"nextsuperjumpin": "Sekantis Super Šuolis"
 
-minutes: minučių
+"next": "Sekantis"
 
-mode: Rėžimas
+"night": "Naktis"
 
-movetimeleft: Judėjimo laiko liko
+"nocompassmodifier": "No Compass Modifier"
 
-mustbeatlowerfloor: Turite būti žemesniame aukšte
+"notenoughmelons": "Not enough melons!"
 
-mustnothaveanysuperjumps: Privalote neturėti Super Šuolių!
+"note": "Note:"
 
-newrating: New Rating
+"nowblockswillstartbreakingwhenyousteponthem": "Nuo šiol blokai pradės dingti kai jūs užlipsite ant jų!"
 
-newrecord: NEW RECORD!
+"oldrecord": "Old Record"
 
-new: NEW!
+"parkourcourse": "Parkour Iššūkis"
 
-nextsuperjumpin: Sekantis Super Šuolis
+"participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther": "&e&lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further."
 
-next: Sekantis
+"partycommands": "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
 
-night: Naktis
+"partyinvitefrom1hasexpired": "Grupės pakvietimas iš $1$ &epasibaigė."
 
-nocompassmodifier: No Compass Modifier
+"partyleader": "Grupės Lyderis"
 
-notenoughmelons: Not enough melons!
+"partymembers": "Grupės Nariai"
 
-note: 'Note:'
+"partyof1isnotopenforpublicjoin": "&a$1$ &cgrupė nėra atidaryta viešam atėjimui."
 
-nowblockswillstartbreakingwhenyousteponthem: Nuo šiol blokai pradės dingti kai jūs
-    užlipsite ant jų!
+"placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents": "&e&lPlace bombs and explode blocks around it in a + shape. Use powerups to take advantage over opponents."
 
-oldrecord: Old Record
+"playercommands": "   &2&l   --=-= &a&lŽaidėjų Komandos &2&l=-=--"
 
-parkourcourse: Parkour Iššūkis
+"playerdied1timesinarowwithoutkills": "Player died $1$ times in a row without kills"
 
-participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther: '&e&lParticipate
-    in a massive snowball fight and use powerups to ease your existence! Delaying
-    snowballs allows to throw them further.'
+"playeriswaiting": "Žaidėjas laukia"
 
-partycommands: '   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--'
+"playernotfound": "Player not found."
 
-partyinvitefrom1hasexpired: Grupės pakvietimas iš $1$ &epasibaigė.
+"playersarewaiting": "Žaidėjai Laukia"
 
-partyleader: Grupės Lyderis
+"playersin": "Žaidėjai"
 
-partymembers: Grupės Nariai
+"playersleft": "Žaidėjų liko"
 
-partyof1isnotopenforpublicjoin: '&a$1$ &cgrupė nėra atidaryta viešam atėjimui.'
+"playerswaiting": "Laukiantys Žaidėjai"
 
-placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents: '&e&lPlace
-    bombs and explode blocks around it in a + shape. Use powerups to take advantage
-    over opponents.'
+"players": "Žaidėjai"
 
-playercommands: '   &2&l   --=-= &a&lŽaidėjų Komandos &2&l=-=--'
+"playerwason1killstreak": "Player was on $1$ killstreak"
 
-playerdied1timesinarowwithoutkills: Player died $1$ times in a row without kills
+"playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes": "Žaisk su daug klasių su skirtingomis galiomis ir naudok savo lanko įgūdžius kad laimėtum skirtinguose žaidimo rėžimuose!"
 
-playeriswaiting: Žaidėjas laukia
+"pleaseratethismapbyclicking": "Please rate this map by clicking:"
 
-playernotfound: Player not found.
+"pleasespecifygroupname": "Prašome nurodyti grupės pavadinimą!"
 
-playersarewaiting: Žaidėjai Laukia
+"pleasespecifyplayername": "Prašome nurodyti žaidėjo vardą!"
 
-playersin: Žaidėjai
+"plotname": "Ploto Pavadinimas"
 
-playersleft: Žaidėjų liko
+"plotowner": "Ploto Savininkas"
 
-playerswaiting: Laukiantys Žaidėjai
+"points": "Taškai"
 
-players: Žaidėjai
+"powerups": "Powerups"
 
-playerwason1killstreak: Player was on $1$ killstreak
+"price": "Kaina:"
 
-playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes: Žaisk
-    su daug klasių su skirtingomis galiomis ir naudok savo lanko įgūdžius kad laimėtum
-    skirtinguose žaidimo rėžimuose!
+"quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers": "Greitai išbandyk savo kovojimo įgudžius kovodamas su kitu žaidėju su daug skirtingų modifikatorių!"
 
-pleaseratethismapbyclicking: 'Please rate this map by clicking:'
+"radarbreaker": "Radar Breaker"
 
-pleasespecifygroupname: Prašome nurodyti grupės pavadinimą!
+"rainisabletorefillwatersources": "Rain is able to refill water sources."
 
-pleasespecifyplayername: Prašome nurodyti žaidėjo vardą!
+"rapidfirepoweruphasspawnedatmiddleofthemap": "&6&lRapid Fire &bpowerup has spawned at middle of the map!"
 
-plotname: Ploto Pavadinimas
+"rating": "Reitingas"
 
-plotowner: Ploto Savininkas
+"reflectionperk": "Reflection Perk"
 
-points: Taškai
+"reflectsasnowballreducingdamagetakenby1": "Reflects a snowball, reducing damage taken by $1$."
 
-powerups: Powerups
+"reflectsnowballsmodifier": "Reflektyvus Gniužčių Modifikatorius"
 
-price: 'Kaina:'
+"regeneratesyourhealth1": "Regenerates your health $1$"
 
-quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers: Greitai išbandyk
-    savo kovojimo įgudžius kovodamas su kitu žaidėju su daug skirtingų modifikatorių!
+"regeneration": "Regeneration"
 
-radarbreaker: Radar Breaker
+"removescompassfromthegame": "Removes compass from the game."
 
-rainisabletorefillwatersources: Rain is able to refill water sources.
+"resources": "Resursai"
 
-rapidfirepoweruphasspawnedatmiddleofthemap: '&6&lRapid Fire &bpowerup has spawned
-    at middle of the map!'
+"respawningin": "Respawning in"
 
-rating: Reitingas
+"serverrulescanbereadin/rulesmakesuretofollowthem": "Serverio taisykles galima perskaityti &a/rules&e, laikykitės jų!"
 
-reflectionperk: Reflection Perk
+"shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers": "&e&lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!"
 
-reflectsasnowballreducingdamagetakenby1: Reflects a snowball, reducing damage taken
-    by $1$.
+"shootchickensasfastasyoucan": "Šaudyk viščiukus taip greitai kaip tik gali!"
 
-reflectsnowballsmodifier: Reflektyvus Gniužčių Modifikatorius
+"shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes": "Šaudyk kitus žaidėjus su sniego gniūžtėmis, pirk daiktus su melionais ir išbandyk daug skirtingų žaidimo rėžimų!"
 
-regeneratesyourhealth1: Regenerates your health $1$
+"shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak": "&e&lŠaudyk TNT su savo patranka ir nustumk žaidėjus į prarają, arba susprogdink juos. Gelbėk save nuo pavojų naudodamas Super Šuolius. [Tūpk]"
 
-regeneration: Regeneration
+"slowballs": "Slowballs"
 
-removescompassfromthegame: Removes compass from the game.
+"slownessionhit": "Slowness I on hit"
 
-resources: Resursai
+"slownessperk": "Lėtumo Priedas"
 
-respawningin: Respawning in
+"sneaktouse": "Tūpk kad naudoti"
 
-serverrulescanbereadin/rulesmakesuretofollowthem: Serverio taisykles galima perskaityti
-    &a/rules&e, laikykitės jų!
+"snowballaccuracy": "Snowball Accuracy"
 
-shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers: '&e&lShoot chickens
-    and get the most kills to win! Beware: filthy zombies and creepers!'
+"snowballsfired": "Sniego gniūžtės iššautos"
 
-shootchickensasfastasyoucan: Šaudyk viščiukus taip greitai kaip tik gali!
+"snowmanperk": "Besmegenio Priedas"
 
-shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes: Šaudyk
-    kitus žaidėjus su sniego gniūžtėmis, pirk daiktus su melionais ir išbandyk daug
-    skirtingų žaidimo rėžimų!
+"snowman": "Snowman"
 
-shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak: '&e&lŠaudyk
-    TNT su savo patranka ir nustumk žaidėjus į prarają, arba susprogdink juos. Gelbėk
-    save nuo pavojų naudodamas Super Šuolius. [Tūpk]'
+"sortsteamsbasedonkillscountforfairness": "Išrušiuoja žaidėjus į lygias komandas pagal nužudymų skaičių."
 
-slowballs: Slowballs
+"spawnpointswitch": "Spawnpoint Switch"
 
-slownessionhit: Slowness I on hit
+"speed": "Greitis"
 
-slownessperk: Lėtumo Priedas
+"spleeftntspleentexplodeotherplayersintothevoid": "Spleef + TNT = Spleent! Išsprogdink kitus žaidėjus į prarają!"
 
-sneaktouse: Tūpk kad naudoti
+"statistics": "Statistika"
 
-snowballaccuracy: Snowball Accuracy
+"stonecannon": "&7Akmėninė Patranka"
 
-snowballsfired: Sniego gniūžtės iššautos
+"succesfullysentpartyinviteto1": "Išsiuntei grupės pakvietimą $1$!"
 
-snowmanperk: Besmegenio Priedas
+"superjumps": "Super Šuoliai"
 
-snowman: Snowman
+"superjump": "Super Šuolis"
 
-sortsteamsbasedonkillscountforfairness: Išrušiuoja žaidėjus į lygias komandas pagal
-    nužudymų skaičių.
+"survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty": "Išlikimas pagal senas Minecraft versijas tarp alpha 1.2 ir beta 1.7.3.||&cĮSPĖJIMAS: &7NOSTALGIJA GARANTUOTA."
 
-spawnpointswitch: Spawnpoint Switch
+"survivalrules": "Survival Rules"
 
-speed: Greitis
+"team": "Komanda"
 
-spleeftntspleentexplodeotherplayersintothevoid: Spleef + TNT = Spleent! Išsprogdink
-    kitus žaidėjus į prarają!
+"thankyouforratingthismap": "Dėkojame už šio žemėlapio įvertinimą!"
 
-statistics: Statistika
+"theknockbackstick": "Smūgio Pagaliukas"
 
-stonecannon: '&7Akmėninė Patranka'
+"therearemanyspecialrecipescheckthemoutin/recipes": "There are many special recipes! Check them out in: &e/recipes&r"
 
-succesfullysentpartyinviteto1: Išsiuntei grupės pakvietimą $1$!
+"thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1": "There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$"
 
-superjumps: Super Šuoliai
+"thisgamecanbeplayedalone": "&aŠį žaidimą galima žaisti &e&lvienam&a."
 
-superjump: Super Šuolis
+"thisgamecanbeplayedwith2players": "Šį žaidimą galima žaisti su &e&l2&a&l+ &ažaidėjais."
 
-survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty: 'Išlikimas
-    pagal senas Minecraft versijas tarp alpha 1.2 ir beta 1.7.3.||&cĮSPĖJIMAS: &7NOSTALGIJA
-    GARANTUOTA.'
+"thisgamecanbeplayedwithonly2players": "Šį žaidimą galima žaisti tik su &e&l2 &ažaidėjais."
 
-survivalrules: Survival Rules
+"thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players": "Šis žaidimas startuoja anksti. Jūs neuždirbsite Smaragdų ir jūsų statistika, pasiekimai nebus skaičiuojami jei šis žaidimas startuos su mažiau nei &e&l$1$ &6žaidėjais."
 
-team: Komanda
+"thispowerupisalreadyactive": "This power-up is already active!"
 
-thankyouforratingthismap: Dėkojame už šio žemėlapio įvertinimą!
+"thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges": "Šitas 1v1 turas nepasiekė reikiamų reikalavimų laimėjimo apdovanojimui ir reitingo pasikeitimams."
 
-theknockbackstick: Smūgio Pagaliukas
+"throwablecobweb": "Throwable Cobweb"
 
-therearemanyspecialrecipescheckthemoutin/recipes: 'There are many special recipes!
-    Check them out in: &e/recipes&r'
+"timeelapsed": "Laiko praleista"
 
-thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1: There
-    is a custom programming language made for Creative World, with it you can create
-    simple features for your plot! $1$
+"timesincelastupdate": "Paskutinis atnaujinimas"
 
-thisgamecanbeplayedalone: '&aŠį žaidimą galima žaisti &e&lvienam&a.'
+"totalplaytime": "Laiko pražaista"
 
-thisgamecanbeplayedwith2players: Šį žaidimą galima žaisti su &e&l2&a&l+ &ažaidėjais.
+"troopsalive": "Kariai gyvi"
 
-thisgamecanbeplayedwithonly2players: Šį žaidimą galima žaisti tik su &e&l2 &ažaidėjais.
+"troopskilled": "Kariai nužudyti"
 
-thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players: Šis
-    žaidimas startuoja anksti. Jūs neuždirbsite Smaragdų ir jūsų statistika, pasiekimai
-    nebus skaičiuojami jei šis žaidimas startuos su mažiau nei &e&l$1$ &6žaidėjais.
+"troopslost": "Kariai prarasti"
 
-thispowerupisalreadyactive: This power-up is already active!
+"troops": "Kariai"
 
-thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges: Šitas 1v1 turas
-    nepasiekė reikiamų reikalavimų laimėjimo apdovanojimui ir reitingo pasikeitimams.
+"turnsyoursnowballsintoslowballs": "Turns your snowballs into slowballs."
 
-throwablecobweb: Throwable Cobweb
+"turn": "Turas"
 
-timeelapsed: Laiko praleista
+"unlocked": "ATRAKINTA"
 
-timesincelastupdate: Paskutinis atnaujinimas
+"use/agree1toagreewithsurvivalrules": "Use /agree $1$  to agree with survival rules."
 
-totalplaytime: Laiko pražaista
+"usef5highfovtogetabetterviewofthegamefield": "Use F5 + high FOV to get a better view of the game field!"
 
-troopsalive: Kariai gyvi
+"utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory": "&e&lIšnaudok pasiruošimo laiką kad gautum kuo daugiau resursų, gink savo Gyvybės Kristalą ir kovok iki pergalės."
 
-troopskilled: Kariai nužudyti
+"victory": "PERGALĖ"
 
-troopslost: Kariai prarasti
+"votes": "Balsai:"
 
-troops: Kariai
+"vote": "[BALSUOTI]"
 
-turnsyoursnowballsintoslowballs: Turns your snowballs into slowballs.
+"waitingplayers": "Laukiantys Žaidėjai"
 
-turn: Turas
+"waitingqueuestatus": "Laukiama Eilėje"
 
-unlocked: ATRAKINTA
+"warped1partymemberstoyourlocation": "Warped &e&l$1$ &eparty members to your location!"
 
-use/agree1toagreewithsurvivalrules: Use /agree $1$  to agree with survival rules.
+"waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater": "Water is finite here, so you are going to need to build farms close to big sources of water."
 
-usef5highfovtogetabetterviewofthegamefield: Use F5 + high FOV to get a better view
-    of the game field!
+"winspercentage": "Laimėjimų Procentas"
 
-utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory: '&e&lIšnaudok
-    pasiruošimo laiką kad gautum kuo daugiau resursų, gink savo Gyvybės Kristalą ir
-    kovok iki pergalės.'
+"wins": "Laimėjimai"
 
-victory: PERGALĖ
+"woodcannon": "&aMedinė Patranka"
 
-votes: 'Balsai:'
+"youalreadyhavevotedforamap": "You already have voted for a map!"
 
-vote: '[BALSUOTI]'
+"youarealreadyinapartyof1": "Jūs jau esate grupėje žaidėjo &a$1$&c!"
 
-waitingplayers: Laukiantys Žaidėjai
+"youarealreadyon1team": "Jūs jau esate $1$ &ckomandoje!"
 
-waitingqueuestatus: Laukiama Eilėje
+"youareleaderofapartyuse/partydisbandtobeabletodothis": "You are leader of a party, use &e/party disband &cto be able to do this."
 
-warped1partymemberstoyourlocation: Warped &e&l$1$ &eparty members to your location!
+"youarenowamemberof1team": "Dabar jūs esate $1$ &ekomandos narys!"
 
-waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater: Water is
-    finite here, so you are going to need to build farms close to big sources of water.
+"youarenowjuggernaut": "You are now Juggernaut!"
 
-winspercentage: Laimėjimų Procentas
+"youarentinaparty": "Jūs nesate grupėje!"
 
-wins: Laimėjimai
+"youarenttheleaderoftheparty": "Jūs nesate grupės lyderis!"
 
-woodcannon: '&aMedinė Patranka'
+"youcanchatonlyonceevery15second": "You can chat only once every 1.5 second!"
 
-youalreadyhavevotedforamap: You already have voted for a map!
+"youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
 
-youarealreadyinapartyof1: Jūs jau esate grupėje žaidėjo &a$1$&c!
+"youcanfindfriendlysurvivalwikiin1": "You can find Friendly Survival wiki in: $1$"
 
-youarealreadyon1team: Jūs jau esate $1$ &ckomandoje!
+"youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone": "You can lock your containers and doors with signs, if you want to protect land you can join a group or create one."
 
-youareleaderofapartyuse/partydisbandtobeabletodothis: You are leader of a party, use
-    &e/party disband &cto be able to do this.
+"youcannothavemorethanonesnowmanininventoryatthesametime": "You cannot have more than one &fSnowman &cin inventory at the same time."
 
-youarenowamemberof1team: Dabar jūs esate $1$ &ekomandos narys!
+"youcannotpartywarpintothisgame": "You cannot party warp into this game!"
 
-youarenowjuggernaut: You are now Juggernaut!
+"youcanonlybuythisingame": "You can only buy this in-game!"
 
-youarentinaparty: Jūs nesate grupėje!
+"youcanonlyvotewhentheresenoughplayerstostartthegame": "Jūs galite balsuoti tik tada kai žaidime yra pakankamai žaidėjų."
 
-youarenttheleaderoftheparty: Jūs nesate grupės lyderis!
+"youcansendcarepackagestosupportaliveplayerswith/carepackage<player>": "Jūs galite siųsti daiktus kad palaikyti gyvus žaidėjus su &e&l/carepackage <žaidėjas>"
 
-youcanchatonlyonceevery15second: You can chat only once every 1.5 second!
+"youcantoggledisplayoftheanimationofftoreduceyourfpslag": "Jūs galite išjungti krentančių blokų animacija kad sumažinti FPS lagą!"
 
-youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor: You can die from cold
-    during night in &bHoth&r if you do not have leather armor.
+"youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions": "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
 
-youcanfindfriendlysurvivalwikiin1: 'You can find Friendly Survival wiki in: $1$'
+"youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave": "You could not be warped to your party leader's location, because you are in a game. Use &e/q &cto leave."
 
-youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone: You
-    can lock your containers and doors with signs, if you want to protect land you
-    can join a group or create one.
+"youdonated1snowballto1": "You donated &e&l1 &fSnowball &eto &a$1$&e!"
 
-youcannothavemorethanonesnowmanininventoryatthesametime: You cannot have more than
-    one &fSnowman &cin inventory at the same time.
+"youdonothaveenoughemeralds": "Jūs neturite pakankamai  &aSmaragdų&c!"
 
-youcannotpartywarpintothisgame: You cannot party warp into this game!
+"youdonothaveenoughmelons": "You do not have enough melons!"
 
-youcanonlybuythisingame: You can only buy this in-game!
+"yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin": "Jūs gaunate taškus už užgrobtas vėliavas, jūsų komanda turi pasiekti tam tikrą skaičiu taškų laimėjimui."
 
-youcanonlyvotewhentheresenoughplayerstostartthegame: Jūs galite balsuoti tik tada
-    kai žaidime yra pakankamai žaidėjų.
+? "yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin"
+: "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut. You need to reach the needed amount of points to win."
 
-youcansendcarepackagestosupportaliveplayerswith/carepackage<player>: Jūs galite siųsti
-    daiktus kad palaikyti gyvus žaidėjus su &e&l/carepackage <žaidėjas>
+"yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin": "Jūs gaunate taškus už nužudymus, jums reikia pasiekti tam tikra skaičiu taškų laimėjimui."
 
-youcantoggledisplayoftheanimationofftoreduceyourfpslag: Jūs galite išjungti krentančių
-    blokų animacija kad sumažinti FPS lagą!
+"yougetpointsforkillsyourteamneedstoreachtheneededamountofpointstowin": "Jūs gaunate taškus už nužudymus, tavo komandai reikia pasiekti tam tikra skaičiu taškų laimėjimui."
 
-youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions: You can use
-    &5Dimensional Warp&r to warp to many beautiful and interesting dimensions.
+"yougotaenchantedsnowballfromyourkill": "You got a &lEnchanted Snowball &bfrom your kill!"
 
-youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave: You
-    could not be warped to your party leader's location, because you are in a game.
-    Use &e/q &cto leave.
+"youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay": "You have agreed with the survival rules, follow them and everything will be okay!"
 
-youdonated1snowballto1: You donated &e&l1 &fSnowball &eto &a$1$&e!
+"youhavealreadyinvited1intoyourparty": "Jūs jau esate pakvietę $1$ &cį savo grupę!"
 
-youdonothaveenoughemeralds: Jūs neturite pakankamai  &aSmaragdų&c!
+"youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday": "Jūs jau balsavote už žemėlapį šiandien, paremkite serverį pirkdami &a&lVIP &cjei norite balsuoti neribojamą kiekį kartų per dieną."
 
-youdonothaveenoughmelons: You do not have enough melons!
+"youhavealreadyvotedforamode": "Jūs jau balsavote už rėžimą!"
 
-yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin: Jūs gaunate
-    taškus už užgrobtas vėliavas, jūsų komanda turi pasiekti tam tikrą skaičiu taškų
-    laimėjimui.
+"youhavealreadyvotedforthismodifier": "Jūs jau balsavote už šį modifikatorių!"
 
-? yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin
-: You get points for kills, one player is chosen to be juggernaut and then all the
-    players are against them, if you kill the juggernaut - you will become the juggernaut.
-    You need to reach the needed amount of points to win.
+"youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools": "You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!"
 
-yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin: Jūs gaunate taškus
-    už nužudymus, jums reikia pasiekti tam tikra skaičiu taškų laimėjimui.
+"youhavejoinedpartyof1": "Jūs atėjote į &a$1$ &egrupę!"
 
-yougetpointsforkillsyourteamneedstoreachtheneededamountofpointstowin: Jūs gaunate
-    taškus už nužudymus, tavo komandai reikia pasiekti tam tikra skaičiu taškų laimėjimui.
+"youhaveleftpartyof1": "Jūs išėjote iš &a$1$ &egrupės!"
 
-yougotaenchantedsnowballfromyourkill: You got a &lEnchanted Snowball &bfrom your kill!
+"youhavepurchased1": "You have purchased $1$&6!"
 
-youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay: You have agreed
-    with the survival rules, follow them and everything will be okay!
+"youhavereachedthelimitof1powerupspermatch": "You have reached the limit of &e&l$1$ &cpowerups per match!"
 
-youhavealreadyinvited1intoyourparty: Jūs jau esate pakvietę $1$ &cį savo grupę!
+"youhavereachedthelimitofsnowballs": "You have reached the limit of snowballs!"
 
-youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday: Jūs
-    jau balsavote už žemėlapį šiandien, paremkite serverį pirkdami &a&lVIP &cjei norite
-    balsuoti neribojamą kiekį kartų per dieną.
+"youhavereceivedsnowmanforreachingkillstreakof5": "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
 
-youhavealreadyvotedforamode: Jūs jau balsavote už rėžimą!
+"youhavereflectedsnowballof1": "You have reflected snowball of $1$&f!"
 
-youhavealreadyvotedforthismodifier: Jūs jau balsavote už šį modifikatorių!
+"youhaveremovedyourlastratingofthismap": "You have removed your last rating of this map."
 
-youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools: You have
-    FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!
+"youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules": "You have to read and agree with the rules of survival to be able to break/place blocks, use &e/survivalrules"
 
-youhavejoinedpartyof1: Jūs atėjote į &a$1$ &egrupę!
+"youhaveupgraded1to2": "Jūs pagerinote &a$1$ &6į &a$2$&6!"
 
-youhaveleftpartyof1: Jūs išėjote iš &a$1$ &egrupės!
+"youhaveupgraded1": "Jūs pagerinote &a$1$&6!"
 
-youhavepurchased1: You have purchased $1$&6!
+"youmustbeleaderofapartytousethis": "Jūs turite būti grupės lyderis kad tai naudoti!"
 
-youhavereachedthelimitof1powerupspermatch: You have reached the limit of &e&l$1$ &cpowerups
-    per match!
+"yourarmyisunderattack": "Your army is under attack!"
 
-youhavereachedthelimitofsnowballs: You have reached the limit of snowballs!
+"youropponentisblindedbyyourperk": "Jūsų oponentas tapo aklas nuo jūsų priedo!"
 
-youhavereceivedsnowmanforreachingkillstreakof5: You have received &fSnowman &efor
-    reaching killstreak of &e&l5&e!
+"youropponentisignitedbyyourperk": "Jūsų oponentas įsiliepsnojo nuo jūsų priedo!"
 
-youhavereflectedsnowballof1: You have reflected snowball of $1$&f!
+"youropponentisslowedbyyourperk": "Jūsų oponentas tapo lėtas nuo jūsų priedo!"
 
-youhaveremovedyourlastratingofthismap: You have removed your last rating of this map.
+"yourpartyinviteto1hasexpired": "Tavo grupės pakvietimas $1$ &epasibaigė."
 
-youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules: You
-    have to read and agree with the rules of survival to be able to break/place blocks,
-    use &e/survivalrules
+"yourpartyleaderhaswarpedyoutotheirlocation": "Your party leader has warped you to their location!"
 
-youhaveupgraded1to2: Jūs pagerinote &a$1$ &6į &a$2$&6!
+"yourradarbreakereffectisover": "Your Radar Breaker effect is over!"
 
-youhaveupgraded1: Jūs pagerinote &a$1$&6!
+"yoursnowballhit1": "Your snowball hit $1$&f!"
 
-youmustbeleaderofapartytousethis: Jūs turite būti grupės lyderis kad tai naudoti!
+"yoursnowballhitboatof1": "Your snowball hit boat of $1$&f!"
 
-yourarmyisunderattack: Your army is under attack!
+"yoursnowmanssnowballhit1": "Your snowman's snowball hit $1$&f!"
 
-youropponentisblindedbyyourperk: Jūsų oponentas tapo aklas nuo jūsų priedo!
+"yourteam": "TAVO KOMANDA"
 
-youropponentisignitedbyyourperk: Jūsų oponentas įsiliepsnojo nuo jūsų priedo!
+"1kicked2fromtheparty": "$1$ &ekicked $2$ &efrom the party!"
 
-youropponentisslowedbyyourperk: Jūsų oponentas tapo lėtas nuo jūsų priedo!
+"youhavealreadyusedthispowerupinthislife": "You have already used this power-up in this life!"
 
-yourpartyinviteto1hasexpired: Tavo grupės pakvietimas $1$ &epasibaigė.
+"swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
 
-yourpartyleaderhaswarpedyoutotheirlocation: Your party leader has warped you to their
-    location!
+"1hastransferredpartyleaderto2": "$1$ &ehas transferred party leader to $2$&e!"
 
-yourradarbreakereffectisover: Your Radar Breaker effect is over!
+"1isnotinyourparty": "$1$ &cis not in your party!"
 
-yoursnowballhit1: Your snowball hit $1$&f!
+"youcanbuythisitemonlyonceperlife": "You can buy this item only once per life."
 
-yoursnowballhitboatof1: Your snowball hit boat of $1$&f!
+"youhavegainedextralifefromyourimmortalityperk": "You have gained extra life from your &aImmortality Perk&e!"
 
-yoursnowmanssnowballhit1: Your snowman's snowball hit $1$&f!
+"rightclicktoactivategamemodifiers": "Right click to activate game modifiers!"
 
-yourteam: TAVO KOMANDA
+"youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
 
-1kicked2fromtheparty: $1$ &ekicked $2$ &efrom the party!
+"locked": "LOCKED"
 
-youhavealreadyusedthispowerupinthislife: You have already used this power-up in this
-    life!
+"1hasgainedanextralifefromtheirimmortalityperk": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
 
-swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo: Swearing
-    is completely forbidden in our server, you will get an automatically issued punishment
-    if you do.
+"/msgplayersendaprivatemessagetoaplayer": "   /msg <player> &2- &aSend a private message to a player."
 
-1hastransferredpartyleaderto2: $1$ &ehas transferred party leader to $2$&e!
+"/statsplayerviewplayersstats": "   /stats <player> &2- &aView player's stats."
 
-1isnotinyourparty: $1$ &cis not in your party!
+"/joingamelobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <game> [lobbyname] &2- &aTo join a public game by a command or private game by specifying lobby name."
 
-youcanbuythisitemonlyonceperlife: You can buy this item only once per life.
+"/partyinviteplayertoinviteaplayertoparty": "   /party invite <player> &2- &aTo invite a player to party."
 
-youhavegainedextralifefromyourimmortalityperk: You have gained extra life from your
-    &aImmortality Perk&e!
+"/partyacceptplayertoacceptanpartyinvite": "   /party accept <player> &2- &aTo accept an party invite."
 
-rightclicktoactivategamemodifiers: Right click to activate game modifiers!
+"/partykickplayertokickaplayerfromyourparty": "   /party kick <player> &2- &aTo kick a player from your party."
 
-youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow: You have
-    logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged
-    in a row.
+"/partytransferplayertotransferpartyleadertoothermember": "   /party transfer <player> &2- &aTo transfer party leader to other member."
 
-locked: LOCKED
+"/partyjoinplayertojoinpublicpartyofaplayer": "   /party join <player> &2- &aTo join public party of a player."
 
-1hasgainedanextralifefromtheirimmortalityperk: '&a$1$ &ehas gained an extra life from
-    their &aImmortality Perk&e!'
+"ifyouwanttospectateotherplayertype/stpplayer": "If you want to spectate other player type &e/stp <player>"
+
+"yourpartyisnowopenforpublicjoinotherplayerscando/pjoin1tojoinit": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
+
+"youcansendcarepackagestosupportaliveplayerswith/carepackageplayer": "You can send care packages to support alive players with &e&l/carepackage <player>"
+
+"enchantedironcannon": "&bEnchanted &7&lIron Cannon"
+
+"castlewars1v1govindassurvivalgamesminiskywallsspleentknockoutsnowballcheckersbombermanelementalarchers": "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+
+? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenfurnituretoimproveyourbuilds"
+: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
