@@ -1,0 +1,162 @@
+function YAMLtoSQL():
+	loop {languageslist::*}:
+		load yaml "plugins/Skript/scripts/languages/Language%loop-value in lowercase%.yml" as "lang%loop-value in lowercase%"
+	execute "TRUNCATE TABLE `languages`" in {-sql}
+	send last sql error to console if last sql error is set
+	wait a tick
+	loop yaml nodes from "langen":
+		loop {languageslist::*}:
+			set {_list::%loop-value-2%} to yaml value loop-value-1 from "lang%loop-value-2 in lowercase%"
+		execute "INSERT INTO `languages` VALUES (%{_list::en}%, %{_list::lt}%, %{_list::ru}%, %{_list::es}%, %{_list::da}%, %{_list::pt}%, %{_list::CN_Simplified}%)" in {-sql}
+		send last sql error to console if last sql error is set
+#load languages from mysql
+function loadSQLLanguages():
+	execute "SELECT * FROM `languages`" in {-sql} and store the result in {_l::*}
+	loop indexes of {_l::*}:
+		set {_list::%loop-value%} to loop-value
+		
+	#done to make it the first index
+	set {_list::1} to "en"
+	delete {_list::en}
+	loop {_list::*}:
+		loop {_l::%loop-value%::*}:
+			if loop-value-1 is "en":
+				set {_index::%loop-index-2%} to loop-value-2
+			set {langmsg::%loop-value-1%::%{_index::%loop-index-2%}%} to loop-value-2
+on script load:
+	wait a tick
+	loadSQLLanguages()
+function SQLtoYAML():
+	execute "SELECT * FROM `languages`" in {-sql} and store the result in {_l::*}
+	send last sql error to console if last sql error is set
+	loop indexes of {_l::*}:
+		unload yaml "lang%loop-value%"
+		load yaml "plugins/Skript/scripts/languages/Language%loop-value%.yml" as "lang%loop-value%"
+		set {_list::%loop-value%} to loop-value
+		
+	#done to make it the first index
+	set {_list::1} to "en"
+	delete {_list::en}
+	loop {_list::*}:
+		loop {_l::%loop-value%::*}:
+			if loop-value-1 is "en":
+				set {_index::%loop-index-2%} to loop-value-2
+			set yaml value "%{_index::%loop-index-2%}%" from "lang%loop-value-1%" to "%loop-value-2%"
+		save yaml "lang%loop-value%"
+on script load:
+	send "LOADING GLOBAL LANGUAGE FILES" to console
+	set {_languages::*} to "EN", "LT", "RU", "ES", "DA", "PT", "CN_Simplified"
+	loop {_languages::*}:
+		set {languageslist::%loop-value%} to loop-value
+expression:
+	patterns:
+		translate %string% [for %player/string%] [with variables %-strings%]
+		translate %string% [with variables %-strings%] [for %player/string%]
+	get:
+		if expressions 3 is not set:
+			return translate(expression 1, expression 2)
+		else:
+			return translate(expression 1, expression 2, expressions 3)
+function insertlater(m: text):
+	execute "INSERT INTO `languages` VALUES (%{_m}%, %{_m}%, %{_m}%, %{_m}%, %{_m}%, %{_m}%, %{_m}%)" in {-sql}
+function translate(m: text, p: object, variables: strings = "null") :: text:
+
+	#support both UUIDS and player names for getting language of the player
+	
+	set {_uuid} to {uuid::%{_p}%} if {name::%{_p}%} is not set else {_p}
+		
+	set {_lang} to epic variable "%{_uuid}%::language" ? "EN"
+	if {langmsg::%{_lang}%::%{_m}%} is not set:
+			
+		set {langmsg::%{_lang}%::%{_m}%} to {_m}
+		insertlater({_m})
+	
+
+	#replace $1$, $2$, etc. stuff into proper values (function provides arguments for it)
+	if {_variables::1} is not "null":
+		set {_msg} to {langmsg::%{_lang}%::%{_m}%}
+		loop {_variables::*}:
+			{_msg} contains "$%loop-index%$":
+				replace "$%loop-index%$" with loop-value in {_msg}
+			else:
+				exit loop
+		return {_msg}
+				
+	#Translation Mode 1, return the message (MOST USEFUL!)
+	return {langmsg::%{_lang}%::%{_m}%}
+	
+function getSlotFromLanguage(lang: text) :: number:
+	switch {_lang}:
+		case "EN":
+			return 0
+		case "LT":
+			return 1
+		case "RU":
+			return 2
+		case "DA":
+			return 3
+		case "PT":
+			return 4
+		case "CN_Simplified":
+			return 5
+command /languages [<text>]:
+	description: Set your language
+	usage: /languages
+	trigger:
+		wait a tick
+		open chest with 1 row named "&6- &a&lSelect language &6-" to player
+		set {_inventory} to player's current inventory
+		
+		#diamond block is displayed if the banner variable isn't set
+		set slot 0 of {_inventory} to ({banners::english} ? diamond block) named "&aEnglish" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 1 of {_inventory} to ({banners::lithuania} ? diamond block) named "&aLietuvių" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 2 of {_inventory} to ({banners::russia} ? diamond block) named "&aРусский" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 3 of {_inventory} to ({banners::denmark} ? diamond block) named "&aDansk" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 4 of {_inventory} to ({banners::portugal} ? diamond block) named "&aPortuguês" with lore "&e&lCLICK TO SELECT" with no nbt
+		set slot 5 of {_inventory} to ({banners::china} ? diamond block) named "&aChinese (Simplified)" with lore "&e&lCLICK TO SELECT" with no nbt
+		
+		set {_slot} to getSlotFromLanguage(epic variable "%uuid of player%::language")
+		set {_item} to {_inventory}.getItem({_slot})
+		
+		set lore of {_item} to "&a&lSELECTED"
+		
+		set slot {_enchantslot} of {_inventory} to {_item}
+		
+		
+		
+
+		set {_sp} to "Automatically detects your language based on your location."
+		
+		if {forcedenglish::%uuid of player%} is not set:
+			set slot 8 of {_inventory} to glowing redstone dust named "&eAutomatic Language Detection &2[&a&lON&2]" with lore "&7%{_sp}%", "&7This is enabled by default.", "&a", "&a&lCLICK TO TOGGLE"
+		else:
+			set slot 8 of {_inventory} to redstone dust named "&eAutomatic Language Detection &2[&c&lOFF&2]" with lore "&7%{_sp}%", "&7This is enabled by default.", "&a", "&a&lCLICK TO TOGGLE"
+
+on inventory click:
+	inventory name of player's current inventory = "&6- &a&lSelect language &6-"
+	clicked inventory is not player's inventory
+	set {_l} to epic variable "%uuid of player%::language"
+	switch clicked slot:
+		case 0:
+			set {_lang} to "EN"
+		case 1:
+			set {_lang} to "LT"
+		case 2:
+			set {_lang} to "RU"
+		case 3:
+			set {_lang} to "DA"
+		case 4:
+			set {_lang} to "PT"
+		case 5:
+			set {_lang} to "CN_Simplified"
+		case 8:
+			{forcedenglish::%uuid of player%} is not set:
+				set {forcedenglish::%uuid of player%} to true
+				send "&cAutomatic language detection has been disabled."
+			else:
+				delete {forcedenglish::%uuid of player%}
+				send "&aAutomatic language detection has been enabled back."
+	{_l} is not {_lang}:
+		set epic variable "%uuid of player%::language" to {_lang}
+		send "&eYou have selected &a%{_lang}% &elanguage!"
+	close inventory of player

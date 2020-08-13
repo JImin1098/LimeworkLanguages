@@ -1,811 +1,837 @@
-"/chatpartytotogglepartychat": "   /chat party &2- &aFor at slå party-chat til."
+"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aFor at slå party-chat til."
 
-"/donateviewwaystodonatemoneytoourserver": "   /donate &2- &aView ways to donate money to our server."
+"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aView ways to donate money to our server."
 
-"/groupaccept<group>acceptagroupinvitation": "   /group accept <gruppe> &2- &aAccepter en gruppe-invitation."
+"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <gruppe> &2- &aAccepter en gruppe-invitation."
 
-"/groupchunks<group>browseclaimedchunksofagroup": "   /group chunks <gruppe> &2- &aGennemse gruppens dele."
+"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <gruppe> &2- &aGennemse gruppens dele."
 
-"/groupclaim<group>claimachunktoagroup": "   /group claim <gruppe> &2- &aKræv en del til en gruppe."
+"   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <gruppe> &2- &aKræv en del til en gruppe."
 
-"/groupcreate<group>createagroup": "   /group create <gruppe> &2- &aLav en gruppe."
+"   /group create <group> §2- §aCreate a group": "   /group create <gruppe> &2- &aLav en gruppe."
 
-"/groupdemote<player><group>demoteaplayerinagroup": "   /group demote <spiller> <gruppe> &2- &aDegrader en spiller i gruppen."
+"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <spiller> <gruppe> &2- &aDegrader en spiller i gruppen."
 
-"/groupinfo<group>viewinformationaboutagroup": "   /group info <gruppe> &2- &aSe information om en gruppe."
+"   /group info <group> §2- §aView information about a group": "   /group info <gruppe> &2- &aSe information om en gruppe."
 
-"/groupinvite<player><group>inviteaplayertoagroup": "   /group invite <spiller> <gruppe> &2- &aInviter en spiller til gruppen."
+"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <spiller> <gruppe> &2- &aInviter en spiller til gruppen."
 
-"/groupkick<player><group>kickaplayerfromagroup": "   /group kick <spiller> <gruppe> &2- &aSmid en spiller ud af gruppen."
+"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <spiller> <gruppe> &2- &aSmid en spiller ud af gruppen."
 
-"/groupleave<group>leaveagroup": "   /group leave <Gruppe> &2- &aForlad en gruppe."
+"   /group leave <group> §2- §aLeave a group": "   /group leave <Gruppe> &2- &aForlad en gruppe."
 
-"/grouplistlistthegroupsyouarein": "   /group list &2- &aEn liste med grupperne du er i."
+"   /group list §2- §aList the groups you are in": "   /group list &2- &aEn liste med grupperne du er i."
 
-"/grouppromote<player><group>promoteaplayerinagroup": "   /group promote <spiller> <Gruppe> &2- &aForfrem en spiller i gruppen."
+"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <spiller> <Gruppe> &2- &aForfrem en spiller i gruppen."
 
-"/groupunclaimunclaimachunk": "   /group unclaim &2- &aAfkræv et stykke."
+"   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aAfkræv et stykke."
 
-"/groupupgrade<group>upgradeagroup": "   /group upgrade <gruppe> &2- &aOpgrader en gruppe."
+"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <gruppe> &2- &aOpgrader en gruppe."
 
-"/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <spil> [lobbynavn] &2- &aFor at joine et offentligt spil med en kommando, eller privat spil ved at oplyse lobby-navnet."
+"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <spil> [lobbynavn] &2- &aFor at joine et offentligt spil med en kommando, eller privat spil ved at oplyse lobby-navnet."
 
-"/listviewinformationaboutallonlineplayers": "   /list &2- &aSe information om alle online Spillere."
+"   /list §2- §aView information about all online players": "   /list &2- &aSe information om alle online Spillere."
 
-"/msg<player>sendaprivatemessagetoaplayer": "   /msg <spiller> &2- &aSend en privat besked til en spiller."
+"   /msg <player> §2- §aSend a private message to a player": "   /msg <spiller> &2- &aSend en privat besked til en spiller."
 
-"/partyaccept<player>toacceptanpartyinvite": "   /party accept <spiller> &2- &aFor at acceptere en party-invitation."
+"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <spiller> &2- &aFor at acceptere en party-invitation."
 
-"/partydisbandtodisbandyourparty": "   /party disband &2- &aFor at opløse partyet."
+"   /party disband §2- §aTo disband your party": "   /party disband &2- &aFor at opløse partyet."
 
-"/partyinvite<player>toinviteaplayertoparty": "   /party invite <spiller> &2- &aFor at invitere en spiller til partyet."
+"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <spiller> &2- &aFor at invitere en spiller til partyet."
 
-"/partyjoin<player>tojoinpublicpartyofaplayer": "   /party join <spiller> &2- &aFor at tilslutte sig et offentligt party."
+"   /party join <player> §2- §aTo join public party of a player": "   /party join <spiller> &2- &aFor at tilslutte sig et offentligt party."
 
-"/partykick<player>tokickaplayerfromyourparty": "   /party kick <spiller> &2- &aFor at smide en spiller ud af dit party."
+"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <spiller> &2- &aFor at smide en spiller ud af dit party."
 
-"/partyleavetoleaveaparty": "   /party leave &2- &aFor at forlade partyet."
+"   /party leave §2- §aTo leave a party": "   /party leave &2- &aFor at forlade partyet."
 
-"/partylisttoviewmembersofyourpartylist": "   /party list &2- &aFor at se alle der er med i dit party."
+"   /party list §2- §aTo view members of your party list": "   /party list &2- &aFor at se alle der er med i dit party."
 
-"/partyopentoopenyourpartyforpublicjoin": "   /party open &2- &aFor at tillade alle at tilslutte sig partyet."
+"   /party open §2- §aTo open your party for public join": "   /party open &2- &aFor at tillade alle at tilslutte sig partyet."
 
-"/partytransfer<player>totransferpartyleadertoothermember": "   /party transfer <spiller> &2- &aFor at gøre en anden spiller til partyets leder."
+"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <spiller> &2- &aFor at gøre en anden spiller til partyets leder."
 
-"/partyviewpartyhelp": "   /party &2- &aSe party hjælp."
+"   /party §2- §aView party help": "   /party &2- &aSe party hjælp."
 
-"/partywarptowarpyourpartymemberstoyourgamelobby": "   /party warp &2- &aFor at teleportere alle partyets medlemmer til lobbyen."
+"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aFor at teleportere alle partyets medlemmer til lobbyen."
 
-"/rulesreadserverrules": "   /rules &2- &aLæs serverens regler."
+"   /rules §2- §aRead server rules": "   /rules &2- &aLæs serverens regler."
 
-"/spectateenterspectatemode": "   /spectate &2- &aBliv tilskuer."
+"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aBliv tilskuer."
 
-"/staffviewstafflist": "   /staff &2- &aSe staff listen."
+"   /staff §2- §aView staff list": "   /staff &2- &aSe staff listen."
 
-"/stats<player>viewplayersstats": "   /stats <spiller> &2- &aSe en spillers status."
+"   /stats <player> §2- §aView player's stats": "   /stats <spiller> &2- &aSe en spillers status."
 
-"1arrowonknockout": "1 Pil når du knockouter!"
+"1 arrow on knockout!": "1 Pil når du knockouter!"
 
-"1defeated2": "$1$ &cdefeated &6$2$"
+"$1$ §cdefeated §6$2$": "$1$ &cdefeated &6$2$"
 
-"1flaghasbeendropped": "$1$ &eflag has been dropped!"
+"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &cdefeated &6$2$"
 
-"1gotfirstkillofthegame": "&a$1$ &eFik første drab i spillet!"
+"$1$ §eflag has been dropped!": "$1$ &eflag has been dropped!"
 
-"1hascaptured2flag": "$1$ &ehas captured $2$ &eflag!"
+"§a$1$ §egot first kill of the game!": "&a$1$ &eFik første drab i spillet!"
 
-"1hasdisbandedtheparty": "$1$ &ehar opløst partyet!"
+"$1$ §ehas captured $2$ §eflag!": "$1$ &ehas captured $2$ &eflag!"
 
-"1hasinvitedyouintoaparty": "$1$ &ehar inviteret dig til et party!"
+"$1$ §ehas disbanded the party!": "$1$ &ehar opløst partyet!"
 
-"1hasjoinedyourparty": "$1$ &ehar tilsluttet sig dit party!"
+"$1$ §ehas invited you into a party!": "$1$ &ehar inviteret dig til et party!"
 
-"1hasjoined": "$1$ &ehar tilsluttet sig!"
+"$1$ §ehas joined your party!": "$1$ &ehar tilsluttet sig dit party!"
 
-"1haslefttheparty": "$1$ &eher forladt partyet!"
+"$1$ §ehas joined!": "$1$ &ehar tilsluttet sig!"
 
-"1hasleft": "$1$ &cer gået!"
+"$1$ §ehas left the party!": "$1$ &eher forladt partyet!"
 
-"1hasnotinvitedyouintoaparty": "$1$ &ehar ikke inviteret dig til et party!"
+"$1$ §chas left!": "$1$ &cer gået!"
 
-"1haspickedup2flag": "$1$ &ehas picked up $2$ &eflag!"
+"$1$ §ehas not invited you into a party!": "$1$ &ehar ikke inviteret dig til et party!"
 
-"1hasreachedthemaxsticklevel": "$1$ &ehar opnået det højeste pinde niveau!"
+"$1$ §ehas picked up $2$ §eflag!": "$1$ &ehas picked up $2$ &eflag!"
 
-"1hasreturned2flag": "$1$ &ehas returned $2$ &eflag!"
+"$1$ §ehas reached the max stick level!": "$1$ &ehar opnået det højeste pinde niveau!"
 
-"1hasvotedfor2map": "$1$ &eher stemt på &b&l$2$ &ebanen!"
+"$1$ §ehas returned $2$ §eflag!": "$1$ &ehas returned $2$ &eflag!"
 
-"1hasvotedfor2mode": "$1$ &ehas voted for &b&l$2$ &emode!"
+"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &eher stemt på &b&l$2$ &ebanen!"
 
-"1hasvotedforbalancedteamsmodifier": "$1$ &ehar stemt på &b&lBalanceret Hold &emodifier!"
+"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &ehas voted for &b&l$2$ &emode!"
 
-"1hasvotedfordoublejumpmodifier": "$1$ &ehar stemt på &b&lDobbelthop &emodifierer!"
+"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &ehar stemt på &b&lBalanceret Hold &emodifier!"
 
-"1hasvotedforfastsnowballsmodifier": "$1$ &ehar stemt på &b&lHurtige Snebolde &emodifier!"
+"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &ehar stemt på &b&lDobbelthop &emodifierer!"
 
-"1hasvotedforinstakillsnowballsmodifier": "$1$ &ehar stemt på &b&Øjeblikkeligt Dræbende Snebolde &emodifier!"
+"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &ehar stemt på &b&lHurtige Snebolde &emodifier!"
 
-"1hasvotedfornocompassmodifier": "$1$ &ehar stemt på &b&lIntet Kompas &emodifier!"
+"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &ehar stemt på &b&Øjeblikkeligt Dræbende Snebolde &emodifier!"
 
-"1hasvotedforreflectsnowballsmodifier": "$1$ &ehar stemt på &b&lReflektere snebolde &emodifier!"
+"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &ehar stemt på &b&lIntet Kompas &emodifier!"
 
-"1isalreadyinyourparty": "$1$ &cis already in your party!"
+"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &ehar stemt på &b&lReflektere snebolde &emodifier!"
 
-"1isnotyourfriendadd1tofriendswith/fadd2": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
+"$1$ §cis already in your party!": "$1$ &cis already in your party!"
 
-"1ofplayersneedstovotetoenable": "$1$ &7af spillere skal stemme for at  slå dette til"
+"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
 
-"1teamisfull": "$1$ &chold er fuldt!"
+"$1$ §7of players needs to vote to enable": "$1$ &7af spillere skal stemme for at  slå dette til"
 
-"accept": "[ACCEPTER]"
+"$1$ §cteam is full!": "$1$ &chold er fuldt!"
 
-"achancetospawncreeperwhereyoursnowballlands": "En chance for at spawne en creeper, hvor din snebold lander."
+"[ACCEPT]": "[ACCEPTER]"
 
-"activatedmodifiers": "Aktiverede Modifiers"
+"A chance to spawn creeper where your snowball lands": "En chance for at spawne en creeper, hvor din snebold lander."
 
-"allowstodoublejumpbypressingthesneakbuttoninmidair": "Allows to double jump by pressing the sneak button in mid-air."
+"Activated Modifiers": "Aktiverede Modifiers"
 
-"animationiscurrentlydisabled": "Animation er lige nu &c&lSLÅET FRA&e."
+"Allows to double jump by pressing the sneak button in mid-air": "Allows to double jump by pressing the sneak button in mid-air."
 
-"animationiscurrentlyenabled": "Animation er lige nu &a&lSLÅET TIL&e."
+"Animation is currently §c§lDISABLED§e": "Animation er lige nu &c&lSLÅET FRA&e."
 
-"areyouseriouslygoingintoapartywithyourselfinvitesomeone": "Prøver du seriøst at tilslutte dig dit eget party? Inviter dog nogen!"
+"Animation is currently §a§lENABLED§e": "Animation er lige nu &a&lSLÅET TIL&e."
 
-"areyousureyouwanttoleavetype/qtoconfirm": "Er du sikker på at du vil gå? Skriv &e/q &6hvis du er sikker."
+"Are you seriously going into a party with yourself? Invite someone!": "Prøver du seriøst at tilslutte dig dit eget party? Inviter dog nogen!"
 
-"armor": "Rustning"
+"Are you sure you want to leave? Type §e/q §6to confirm": "Er du sikker på at du vil gå? Skriv &e/q &6hvis du er sikker."
 
-"arrowaccuracy": "Pile Præcision"
+"Armor": "Rustning"
 
-"arrowbonusperk": "Pil Bonus Perk"
+"Arrow Accuracy": "Pile Præcision"
 
-"arrowsfired": "Affyrede Pile"
+"Arrow Bonus Perk": "Pil Bonus Perk"
 
-"arrowsleft": "Venstre pile"
+"Arrows Fired": "Affyrede Pile"
 
-"asnowmanwhichshootsenemies": "En snemand som skyder fjender!"
+"Arrows left": "Venstre pile"
 
-"averagerating": "Gennemsnitlig vurdering:"
+"A snowman which shoots enemies!": "En snemand som skyder fjender!"
 
-"balancedteamsmodifier": "Balancerede Hold Modifier"
+"Average Rating:": "Gennemsnitlig vurdering:"
 
-"becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating": "&7&lFordi der er for mange aktiverede modifiers, vil dette spil ikke påvirke din status."
+"Balanced Teams Modifier": "Balancerede Hold Modifier"
 
-"bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin": "&e&lLed en kæmpe hær og overvind alle de fjendtlige konger med din hær for at vinde!"
+"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lFordi der er for mange aktiverede modifiers, vil dette spil ikke påvirke din status."
 
-"bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
+"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lLed en kæmpe hær og overvind alle de fjendtlige konger med din hær for at vinde!"
 
-"blindnessperk": "Blindheds Perk"
+"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
 
-"blockssnowballs50chancetobreakonfirsthit100onsecondhit": "Blokkerer snebolde. &e&l50% &7chance for at god i stykker på første slag, &e&l100% &på andet slag."
+"Blindness Perk": "Blindheds Perk"
+
+"Blocks snowballs":
+    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blokkerer snebolde. &e&l50% &7chance for at god i stykker på første slag, &e&l100% &på andet slag."
 
 "blocks": "blokke"
 
-"bombsfired": "Affyrede bomber"
+"Bombs fired": "Affyrede bomber"
 
-"bombsplaced": "Bomber placeret"
+"Bombs placed": "Bomber placeret"
 
-"bonussnowballsonknockout": "Bonus snebolde når du knockouter"
+"Bonus snowballs on knockout": "Bonus snebolde når du knockouter"
 
-"burningstickperk": "Brændende pind Perk"
+"Burning Stick Perk": "Brændende pind Perk"
 
-"burns1oftargetssnowballs": "Brænder &e&l$1$ &7af målets snebolde."
+"Burns §e§l$1$ §7of target's snowballs": "Brænder &e&l$1$ &7af målets snebolde."
 
-"burnstargetonhit": "Brænder målet når du rammer."
+"Burns target on hit": "Brænder målet når du rammer."
 
-"cantfindaplayerbythenameof1": "Kan ikke finde en spiller med navnet '$1$'."
+"Can't find a player by the name of '$1$'": "Kan ikke finde en spiller med navnet '$1$'."
 
-"cantshootfarbecausesnowballsmeltintheair": "Kan ikke skyde langt fordi sneboldene smelter i luften."
+"Can't shoot far because snowballs melt in the air": "Kan ikke skyde langt fordi sneboldene smelter i luften."
 
-"chanceofcreeperspawn": "Chance of creeper spawn"
+"chance of creeper spawn": "Chance of creeper spawn"
 
-"chanceofdoubleexperience": "chance for dobbelt erfaring"
+"chance of double experience": "chance for dobbelt erfaring"
 
-"chanceofdoublemelons": "chance for dobbelt meloner."
+"chance of double melons": "chance for dobbelt meloner."
 
-"chanceofenchantedsnowballgainafterkill": "chance for at få en &bEnchanted Snowball &7efter drab."
+"chance of §bEnchanted Snowball §7gain after kill": "chance for at få en &bEnchanted Snowball &7efter drab."
 
-"chanceofreflection": "chance for at reflektere."
+"chance of reflection": "chance for at reflektere."
 
-"chancetoblindopponentonhit": "Chance for at blinde modstander når du rammer"
+"Chance to blind opponent on hit": "Chance for at blinde modstander når du rammer"
 
-"chancetoburnopponentonhit": "Chance for at brænde modstander når du rammer"
+"Chance to burn opponent on hit": "Chance for at brænde modstander når du rammer"
 
-"chancetonotlosealife": "Chance for ikke at miste et liv"
+"Chance to not lose a life": "Chance for ikke at miste et liv"
 
-"chancetoslowslowness1opponentonhit": "chance for at gøre din modstander langsom(Slowness $1$) når du rammer ham."
+"chance to slow(Slowness $1$) opponent on hit": "chance for at gøre din modstander langsom(Slowness $1$) når du rammer ham."
 
-"chancetoslowslownessiiopponentonhit": "Chance for at gøre din modstander langsom, når du rammer(Slowness II)"
+"Chance to slow(Slowness II) opponent on hit": "Chance for at gøre din modstander langsom, når du rammer(Slowness II)"
 
-"checkersinminecraftlikethepopularboardgame": "Dam i Minecraft! ligesom det populære brætspil."
+"Checkers in Minecraft! Like the popular board game": "Dam i Minecraft! ligesom det populære brætspil."
 
-"checkers": "Brikker"
+"Checkers": "Brikker"
 
-"checkpoint": "Checkpoint"
+"Checkpoint": "Checkpoint"
 
-"chestslooted": "Lootede kister"
+"Chests looted": "Lootede kister"
 
 "classes": "Klasser"
 
-"clickheretojoin1": "Klik her for at tilslutte $1$!"
+"Click here to join $1$!": "Klik her for at tilslutte $1$!"
 
-"clicktoacceptthepartyinvite": "Klik for at acceptere party invitationen!"
+"Click to accept the party invite!": "Klik for at acceptere party invitationen!"
 
-"clicktobuy": "Klik for at købe!"
+"Click to buy!": "Klik for at købe!"
 
-"clicktojoin": "[KLIK FOR AT TILSLUTTE]"
+"[CLICK TO JOIN]": "[KLIK FOR AT TILSLUTTE]"
 
-"clicktoopenmenu": "KLIK FOR AT ÅBNE MENUEN"
+"CLICK TO OPEN MENU": "KLIK FOR AT ÅBNE MENUEN"
 
-"clicktoplay": "KLIK FOR AT SPILLE"
+"CLICK TO PLAY": "KLIK FOR AT SPILLE"
 
-"clicktoratethismap": "Click to rate this map"
+"Click to rate this map": "Click to rate this map"
 
-"clicktoundothisrating": "Klik for at fortryde din stemme!"
+"Click to undo this rating!": "Klik for at fortryde din stemme!"
 
-"clicktovotefor1mode": "Klik for at stemme på $1$ &amode!"
+"Click to vote for $1$ §amode!": "Klik for at stemme på $1$ &amode!"
 
-"clicktovoteforthismap": "Klik for at stemme på denne bane!"
+"Click to vote for this map!": "Klik for at stemme på denne bane!"
 
-"clicktovoteforthismode": "Klik for at stemme på dette mode!"
+"Click to vote for this mode!": "Klik for at stemme på dette mode!"
 
-"clicktovoteforthismodifier": "Klik for at stemme på denne modifier!"
+"Click to vote for this modifier!": "Klik for at stemme på denne modifier!"
 
-"completeparkourracesearnprizesandcompeteinleaderboards": "Færdiggør parkour løb, vind priser og konkurer i leaderboardet!"
+"Complete parkour races, earn prizes and compete in leaderboards!": "Færdiggør parkour løb, vind priser og konkurer i leaderboardet!"
 
-"cooldown": "Nedkølning"
+"Cooldown": "Nedkølning"
 
-"crackedplayerscanjoinourservertheycanapplyat1tojoin": "Cracked players can join our server! They can apply at $1$ &rto join."
+"Cracked players can join our server! They can apply at $1$ §rto join": "Cracked players can join our server! They can apply at $1$ &rto join."
 
-? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps"
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
 : "Kreativ verden med en masse brugbare funktioner! WorldEdit, VoxelSniper, goBrush, goPaint, en stor kollektion af spillerhoveder og endda et brugerdefineret programmeringssprog, til at lave dine egne baner!"
 
-"creeperchanceperk": "Creeper Chance Perk"
+"Creeper Chance Perk": "Creeper Chance Perk"
 
-"crystal": "Krystaller"
+"Crystal": "Krystaller"
 
-"current": "Nuværende"
+"Current": "Nuværende"
 
-"damagedealt": "Skade Givet"
+"Damage Dealt": "Skade Givet"
 
-"damagetaken": "Skade Taget"
+"Damage Taken": "Skade Taget"
 
-"day": "Dag"
+"Day": "Dag"
 
-"deaths": "Døde"
+"Deaths": "Døde"
 
-"defeat": "DU TABTE"
+"DEFEAT": "DU TABTE"
 
-"defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander": "Beskyt dit slot, angrib andre slotte, led din hær og bliv den bedste kommandør!"
+"Defend your castle, attack other castles, command your army and become the best commander!": "Beskyt dit slot, angrib andre slotte, led din hær og bliv den bedste kommandør!"
 
-"destroyingotherplayercreationsorruiningtheminanywayisnotallowed": "Det er på ingen måde tilladt at ødelægge andre folks ting!"
+"Destroying other player creations or ruining them in any way is not allowed!": "Det er på ingen måde tilladt at ødelægge andre folks ting!"
 
-"destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed": "Det er ikke tilladt at ødelægge terrænet, bygge 1x1 tårne eller gøre noget som helst andet, som får det til at se grimt ud."
+"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Det er ikke tilladt at ødelægge terrænet, bygge 1x1 tårne eller gøre noget som helst andet, som får det til at se grimt ud."
 
-"didyouknow": "Did you know?"
+"Did you know?": "Did you know?"
 
-? "differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin"
-: "&e&lForskellige elementalklasser kæmper med hinanden i bueskydnings evner. Brug din klasses fascinerende evner til at besejre andre spillere og vinde!"
+"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
+    " Use fasciniting abilities of your class to defeat other players and win!": "&e&lForskellige elementalklasser kæmper med hinanden i bueskydnings evner. Brug din klasses fascinerende evner til at besejre andre spillere og vinde!"
 
-"dissappearsafter10soflanding": "Forsvinder &e&l10s &7efter at den lander."
+"Dissappears after §e§l10s §7of landing": "Forsvinder &e&l10s &7efter at den lander."
 
-"doubleemeralds": "Dobbelt Smaragd"
+"Double Emeralds": "Dobbelt Smaragd"
 
-"doublejumpmodifier": "Dobbelthop Modifier"
+"Double Jump Modifier": "Dobbelthop Modifier"
 
-"doublemelonsperk": "Dobbelt Meloner Perk"
+"Double Melons Perk": "Dobbelt Meloner Perk"
 
-"emeraldstotalearned": "Alle tjente smaragder"
+"Emeralds total earned": "Alle tjente smaragder"
 
-"emeralds": "Smaragder"
+"Emeralds": "Smaragder"
 
-"emerald": "Smaragd"
+"Emerald": "Smaragd"
 
-"enchanteddiamondcannon": "&bFortryllet &b&lDiamant-Kanon"
+"§bEnchanted §b§lDiamond Cannon": "&bFortryllet &b&lDiamant-Kanon"
 
-"enchantedsnowballperk": "Fortryllet Snebold Perk"
+"Enchanted Snowball Perk": "Fortryllet Snebold Perk"
 
-"enchantedstonecannon": "&bFortryllet &7Sten-Kanon"
+"§bEnchanted §7Stone Cannon": "&bFortryllet &7Sten-Kanon"
 
-"enchantedwoodcannon": "Fortryllet &aTræ-Kanon"
+"Enchanted §aWood Cannon": "Fortryllet &aTræ-Kanon"
 
-"enemyteam": "MODSTANDERENS HOLD"
+"ENEMY TEAM": "MODSTANDERENS HOLD"
 
-"everyplayergets3liveseliminateenemyteamtowin": "Alle spillere har 3 liv. Udslet modstander-holdene, for at vinde!"
+"Every player gets 3 lives, eliminate enemy team to win": "Alle spillere har 3 liv. Udslet modstander-holdene, for at vinde!"
 
-"everyplayergets3liveseliminateotherplayerstowin": "Alle spillere har 3 liv. Udslet modstanderne, for at vinde!"
+"Every player gets 3 lives, eliminate other players to win": "Alle spillere har 3 liv. Udslet modstanderne, for at vinde!"
 
-"experiencebonusperk": "Erfarings Bonus Perk"
+"Experience Bonus Perk": "Erfarings Bonus Perk"
 
-"explodeyourwaytootherplayersandexplodethem": "Spræng din vej til andre spillere, og spræng dem!"
+"Explode your way to other players and explode them!": "Spræng din vej til andre spillere, og spræng dem!"
 
-"exploringthevoidmayrevealmysterioussecrets": "Exploring the void may reveal mysterious secrets!"
+"Exploring the void may reveal mysterious secrets!": "Exploring the void may reveal mysterious secrets!"
 
-"explosionradius": "Eksplosions-Radius"
+"Explosion Radius": "Eksplosions-Radius"
 
-"fallingblocksanimation": "Faldende Blokke Animation"
+"Falling Blocks Animation": "Faldende Blokke Animation"
 
-"fastsnowballsmodifier": "Hurtige Snebolde Modifier"
+"Fast Snowballs Modifier": "Hurtige Snebolde Modifier"
 
-"feelfreetoinviteotherplayersbyusingthechat": "Du må gerne invitere andre spillere, ved hjælp af chatten."
+"Feel free to invite other players by using the chat": "Du må gerne invitere andre spillere, ved hjælp af chatten."
 
-"finalkills": "Afsluttende Drab"
+"Final Kills": "Afsluttende Drab"
 
-"flamethrower": "Flammekaster"
+"Flamethrower": "Flammekaster"
 
-"friendcommands": "   &2&l--=-= &a&lVenne-Kommandoer &2&l=-=--"
+"Free!": "Flammekaster"
 
-"friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore": "Venlig overlevelse med teknologi og magi! Udforsk mange dimensioner, gro smukke træer og mere!"
+"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lVenne-Kommandoer &2&l=-=--"
 
-"gameendedinadraw": "SPILLET BLEV UAFGJORDT"
+"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Venlig overlevelse med teknologi og magi! Udforsk mange dimensioner, gro smukke træer og mere!"
 
-"gameend": "SPILLETS SLUTNING"
+"GAME ENDED IN A DRAW": "SPILLET BLEV UAFGJORDT"
 
-"gamehasstarted": "Spillet er startet!"
+"GAME END": "SPILLETS SLUTNING"
 
-"gameisstarting": "Spillet starter"
+"Game has started!": "Spillet er startet!"
 
-"gamestartsin1seconds": "Spillet starter om &e&l$1$ &esekunder"
+"Game is starting": "Spillet starter"
 
-"gamestartsin": "Spillet starter om"
+"Game starts in §e§l$1$ §eseconds": "Spillet starter om &e&l$1$ &esekunder"
 
-"gamestatistics": "Spil Statistikker"
+"Game starts in": "Spillet starter om"
 
-"gametime": "Spil-tid"
+"Game Statistics": "Spil Statistikker"
 
-"gamewillendin1minutes": "Spillet slutter om &e&l$1$ &eminutter."
+"Game time": "Spil-tid"
 
-"gamewillendin1minute": "Game will end in &e&l$1$ &eminute."
+"Game will end in §e§l$1$ §eminutes": "Spillet slutter om &e&l$1$ &eminutter."
 
-"gamewillstartin1seconds": "&eSpillet starter om &e&l$1$ &esekunder"
+"Game will end in §e§l$1$ §eminute": "Game will end in &e&l$1$ &eminute."
 
-"gamewillstartin1second": "&eSpillet starter om &e&l$1$ &esekunder"
+"§eGame will start in §e§l$1$ §eseconds": "&eSpillet starter om &e&l$1$ &esekunder"
 
-"gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame": "Få ressourcer, gør dig klar til kamp, beskyt din Livskrystal, angrib andre krystaller og vind spillet!"
+"§eGame will start in §e§l$1$ §esecond": "&eSpillet starter om &e&l$1$ &esekunder"
 
-"gravityhasnoeffectonblocksheresoyoucanbuildinthesky": "Gravity has no effect on blocks here, so you can build in the sky!"
+"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Få ressourcer, gør dig klar til kamp, beskyt din Livskrystal, angrib andre krystaller og vind spillet!"
 
-"groupcommands": "   &2&l   --=-= &a&lGruppe-Kommandoer &2&l=-=--"
+"Gravity has no effect on blocks here, so you can build in the sky!": "Gravity has no effect on blocks here, so you can build in the sky!"
 
-"havefun": "Hav det sjovt!"
+"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lGruppe-Kommandoer &2&l=-=--"
 
-"health": "Helbred"
+"Have fun!": "Hav det sjovt!"
 
-"hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends": "Her kan du finde spil som du både kan spille alene og sammen med dine venner!"
+"Health": "Helbred"
 
-"hereyoucanfindgameswhichcanbeplayedonlywithfriends": "Her kan du finde spil der kun kan spilles med venner!"
+"Here you can find games which can be played both alone and with friends!": "Her kan du finde spil som du både kan spille alene og sammen med dine venner!"
 
-"hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun": "Her kan du finde små GUI minigames, disse minigames i modsætnig til andre, er ikke lavet af os. Det er bare et downloadet plugin, men de er stadig sjove!"
+"Here you can find games which can be played only with friends!": "Her kan du finde spil der kun kan spilles med venner!"
 
-"hereyoucanusevariousabilitiestoexplodethemapandotherplayers": "Her kan du bruge forskellige evner til at sprænge banen og andre spillere!"
+? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
+: "Her kan du finde små GUI minigames, disse minigames i modsætnig til andre, er ikke lavet af os. Det er bare et downloadet plugin, men de er stadig sjove!"
 
-"hitstaken": "Slag Taget"
+"Here you can use various abilities to explode the map and other players!": "Her kan du bruge forskellige evner til at sprænge banen og andre spillere!"
 
-"hits": "Slag"
+"Hits Taken": "Slag Taget"
 
-"hittolevelupyourstickandknockotherplayersintothevoid": "Ram for at få din pind til at gå et niveau op, og skub andre spillere i the void!"
+"Hits": "Slag"
+
+"Hit to level up your stick and knock other players in to the void!": "Ram for at få din pind til at gå et niveau op, og skub andre spillere i the void!"
 
 "hours": "timer"
 
-"howtoplay": "&b&lHvordan Spiller Man?"
+"§b§lHow To Play": "&b&lHvordan Spiller Man?"
 
-"ifyouwanttogetoutofthespectatormodetype/q": "Hvis du vil ud af &eTilskuer-Mode &cskriv &e/q"
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "Hvis du vil ud af &eTilskuer-Mode &cskriv &e/q"
 
-"ifyouwanttoleavethegametype/q": "Hvis du vil forlade spillet, skriv &e/q&6."
+"If you want to leave the game type §e/q§6": "Hvis du vil forlade spillet, skriv &e/q&6."
 
-"ifyouwanttospectateotherplayertype/stp<player>": "Hvis du vil kigge på andre spillere spille, skriv &e/stp <spiller>"
+"If you want to spectate other player type §e/stp <player>": "Hvis du vil kigge på andre spillere spille, skriv &e/stp <spiller>"
 
-"immortalityperk": "Udødeligheds Perk"
+"Immortality Perk": "Udødeligheds Perk"
 
-"increasesthechancetoreflectasnowballto100": "Forøger chancen for at reflektere en snebold til 100%"
+"Increases the chance to reflect a snowball to 100%": "Forøger chancen for at reflektere en snebold til 100%"
 
-"increasesthedamageofsnowballsto10hearts": "Forøg skaden for snebolde med 10 hjerter."
+"Increases the damage of snowballs to 10 hearts": "Forøg skaden for snebolde med 10 hjerter."
 
-"increasesyourspeedby1": "Gør dig $1$ gange hurtigere"
+"Increases your speed by $1$": "Gør dig $1$ gange hurtigere"
 
-"instakillsnowballsmodifier": "Øjeblikkeligt dræbende Snebolde Modifier"
+"Instakill Snowballs Modifier": "Øjeblikkeligt dræbende Snebolde Modifier"
 
-"invalidcode": "Invalid kode."
+"Invalid code": "Invalid kode."
 
-"ironcannon": "&7&lJern-Kanon"
+"§7§lIron Cannon": "&7&lJern-Kanon"
 
-"itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater": "It's very hot in Mustafar, you gonna need to drink twice as much water."
+"It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
 
-"jumps": "Hop"
+"Jumps": "Hop"
 
-"killer": "Morder"
+"Killer": "Morder"
 
-"killsanynormalopponentevenwitharmor": "Dræber alle normale modstandere, selv hvis de har rustning på."
+"Kills any normal opponent, even with armor": "Dræber alle normale modstandere, selv hvis de har rustning på."
 
-"killstreak": "Drabsserie"
+"Killstreak": "Drabsserie"
 
-"kills": "Drab"
+"Kills": "Drab"
 
-"king": "King"
+"King": "King"
 
-"knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback": "&e&lSkub andre spillere ud over platformen. Hver gang du rammer en spiller, skubber du den lidt længere tilbage."
+"§e§lKnock other players off the platform":
+    " As you hit players, you deal more knockback": "&e&lSkub andre spillere ud over platformen. Hver gang du rammer en spiller, skubber du den lidt længere tilbage."
 
-"level": "Niveau"
+"Level": "Niveau"
 
-"listofgames": "Liste med spil"
+"List of Games": "Liste med spil"
 
-"lives": "Liv"
+"Lives": "Liv"
 
-"lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs": "Loot kister, kæmp mod andre spillere, find tilfældigt genereret loot med interessante evnerog kast med mob-æg som pokeballs!"
+? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
+: "Loot kister, kæmp mod andre spillere, find tilfældigt genereret loot med interessante evnerog kast med mob-æg som pokeballs!"
 
-"lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
+"§e§lLoot randomly generated chests with unique items":
+    " Use them to eliminate your enemies":
+        " Be the only survivor to win": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
 
-"losses": "Tab"
+"Losses": "Tab"
 
-"makesallofyoursnowballsburn": "Får alle dine snebolde til at brænde."
+"Makes all of your snowballs burn": "Får alle dine snebolde til at brænde."
 
-"makesyoursnowballssuperfast": "Gør dine snebolde super hurtige."
+"Makes your snowballs super fast": "Gør dine snebolde super hurtige."
 
-"maxlevelreached": "Nået højeste niveau"
+"Max level reached": "Nået højeste niveau"
 
-"maxlevel": "HØJESTE NIVEAU:"
+"MAX LEVEL:": "HØJESTE NIVEAU:"
 
-"melonsearned": "Optjente meloner"
+"Melons earned": "Optjente meloner"
 
-"melonsspent": "Brugte meloner"
+"Melons spent": "Brugte meloner"
 
-"melons": "Meloner"
+"Melons": "Meloner"
 
-"melon": "Melon"
+"Melon": "Melon"
 
-"mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves": "Udgrav malm, opgrader hakker, køb seje opgraderinger og opdag nye grotter!"
+"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Udgrav malm, opgrader hakker, køb seje opgraderinger og opdag nye grotter!"
 
 "minutes": "minutter"
 
-"mode": "Mode"
+"Mode": "Mode"
 
-"movetimeleft": "Bevægelsestid tilbage"
+"Move time left": "Bevægelsestid tilbage"
 
-"mustbeatlowerfloor": "Skal være på nederste etage"
+"Must be at lower floor": "Skal være på nederste etage"
 
-"mustnothaveanysuperjumps": "Må ikke have nogle Superhop"
+"Must not have any Super Jumps": "Må ikke have nogle Superhop"
 
-"newrecord": "NY REKORD!"
+"New Rating": "Må ikke have nogle Superhop"
 
-"new": "NEW!"
+"NEW RECORD!": "NY REKORD!"
 
-"nextsuperjumpin": "Næste Super Hop Om"
+"NEW!": "NEW!"
 
-"next": "Næste"
+"Next Super Jump In": "Næste Super Hop Om"
 
-"night": "Nat"
+"Next": "Næste"
 
-"nocompassmodifier": "Intet Kompas Modifier"
+"Night": "Nat"
 
-"notenoughmelons": "Ikke nok meloner!"
+"No Compass Modifier": "Intet Kompas Modifier"
 
-"note": "Note:"
+"Not enough melons!": "Ikke nok meloner!"
 
-"nowblockswillstartbreakingwhenyousteponthem": "Nu vil blokke gå i stykker, når du træder på dem!"
+"Note:": "Note:"
 
-"oldrecord": "Gamle Rekord"
+"Now blocks will start breaking when you step on them!": "Nu vil blokke gå i stykker, når du træder på dem!"
 
-"parkourcourse": "Parkour Bane"
+"Old Record": "Gamle Rekord"
 
-"participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther": "&e&lDeltag i en kæmpe sneboldskamp, og brug powerups for at gøre din tilværelse lettere! At forsinke snebolde gør så du kan kaste dem længere."
+"Parkour Course": "Parkour Bane"
 
-"partycommands": "   &2&l   --=-= &a&lParty-Kommandoer &2&l=-=--"
+? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
+: "&e&lDeltag i en kæmpe sneboldskamp, og brug powerups for at gøre din tilværelse lettere! At forsinke snebolde gør så du kan kaste dem længere."
 
-"partyinvitefrom1hasexpired": "Party-invitation fra $1$ &eer udløbet."
+"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lParty-Kommandoer &2&l=-=--"
 
-"partyleader": "Party Leder"
+"Party invite from $1$ §ehas expired": "Party-invitation fra $1$ &eer udløbet."
 
-"partymembers": "Party Medlemmer"
+"Party Leader": "Party Leder"
 
-"partyof1isnotopenforpublicjoin": "Partyet ejet af &a$1$ &cer ikke offentligt."
+"Party Members": "Party Medlemmer"
 
-"placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents": "&e&lPlacer bomber og spræng blokke rundt om dem i en + form. Brug powerups som fordele mod dine fjender."
+"Party of §a$1$ §cis not open for public join": "Partyet ejet af &a$1$ &cer ikke offentligt."
 
-"playercommands": "   &2&l   --=-= &a&lSpiller Kommandoer&2&l=-=--"
+"§e§lPlace bombs and explode blocks around it in a + shape":
+    " Use powerups to take advantage over opponents": "&e&lPlacer bomber og spræng blokke rundt om dem i en + form. Brug powerups som fordele mod dine fjender."
 
-"playeriswaiting": "Spiller Venter"
+"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "   &2&l   --=-= &a&lSpiller Kommandoer&2&l=-=--"
 
-"playernotfound": "Player not found."
+"Player died $1$ times in a row without kills": "   &2&l   --=-= &a&lSpiller Kommandoer&2&l=-=--"
 
-"playersarewaiting": "Spillere venter"
+"Player is waiting": "Spiller Venter"
 
-"playersin": "Spillere på"
+"Player not found": "Player not found."
 
-"playersleft": "Spillere tilbage"
+"Players are waiting": "Spillere venter"
 
-"playerswaiting": "Spillere Venter"
+"Players in": "Spillere på"
 
-"players": "Spillere"
+"Players left": "Spillere tilbage"
 
-"playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes": "Spil forskellige klasser, med forskellige evner og brug dine bue-evner,til at vinde i  mange forskellige modes!"
+"Players Waiting": "Spillere Venter"
 
-"pleaseratethismapbyclicking": "Please rate this map by clicking:"
+"Players": "Spillere"
 
-"pleasespecifygroupname": "Skriv gruppenavnet!"
+"Player was on $1$ killstreak": "Spillere"
 
-"pleasespecifyplayername": "Vær sød at skrive spillerens navn!"
+"Play various classes with different abilities and use your bow skills to win in many different modes!": "Spil forskellige klasser, med forskellige evner og brug dine bue-evner,til at vinde i  mange forskellige modes!"
 
-"plotname": "Plot Navn"
+"Please rate this map by clicking:": "Please rate this map by clicking:"
 
-"plotowner": "Plot Ejer"
+"Please specify group name!": "Skriv gruppenavnet!"
 
-"points": "Point"
+"Please specify player name!": "Vær sød at skrive spillerens navn!"
 
-"powerups": "Powerups"
+"Plot Name": "Plot Navn"
 
-"price": "Pris:"
+"Plot Owner": "Plot Ejer"
 
-"quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers": "Test dine skills hurtigt,  ved at kæmpe mod andre spillere med en masse, forskellige modifiers!"
+"Points": "Point"
 
-"radarbreaker": "Radar Ødelægger"
+"Powerups": "Powerups"
 
-"rainisabletorefillwatersources": "Rain is able to refill water sources."
+"Price:": "Pris:"
 
-"rapidfirepoweruphasspawnedatmiddleofthemap": "&6&lHurtige Skud &bpowerup er spawned I midten af mappet!"
+"Quickly test your skill by fighting other players with a huge variety of modifiers!": "Test dine skills hurtigt,  ved at kæmpe mod andre spillere med en masse, forskellige modifiers!"
 
-"rating": "Bedømmelse"
+"Radar Breaker": "Radar Ødelægger"
 
-"reflectionperk": "Reflektions Perk"
+"Rain is able to refill water sources": "Rain is able to refill water sources."
 
-"reflectsasnowballreducingdamagetakenby1": "Reflekterer en snebold, formindsker skaden med $1$."
+"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "&6&lHurtige Skud &bpowerup er spawned I midten af mappet!"
 
-"reflectsnowballsmodifier": "Reflekter Snebolde Modifier"
+"Rating": "Bedømmelse"
 
-"regeneratesyourhealth1": "Regenererer dit liv $1$"
+"Reflection Perk": "Reflektions Perk"
 
-"regeneration": "Regenererer"
+"Reflects a snowball, reducing damage taken by $1$": "Reflekterer en snebold, formindsker skaden med $1$."
 
-"removescompassfromthegame": "Fjerner kompasset fra spillet."
+"Reflect Snowballs Modifier": "Reflekter Snebolde Modifier"
 
-"resources": "Ressourcer"
+"Regenerates your health $1$": "Regenererer dit liv $1$"
 
-"respawningin": "Respawning in"
+"Regeneration": "Regenererer"
 
-"serverrulescanbereadin/rulesmakesuretofollowthem": "Serverens regler kan læses på &a/rules&e. Husk at overholde dem!"
+"Removes compass from the game": "Fjerner kompasset fra spillet."
 
-"shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers": "&e&lSkyd kyllinger og få flest drab, for at vinde! Pas på: Dumme zombier og creepere!"
+"Resources": "Ressourcer"
 
-"shootchickensasfastasyoucan": "Skyd kyllinger så hurtigt du kan!"
+"Respawning in": "Respawning in"
 
-"shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes": "Skyd andre spillere med snebolde, køb powerups med meloner og spil i mange forskellige modes!"
+"Server rules can be read in §a/rules§e, make sure to follow them!": "Serverens regler kan læses på &a/rules&e. Husk at overholde dem!"
 
-"shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak": "&e&lSkyd TNT med din kanon og skub modstandere i void, eller spræng dem. Red dig selv fra farer ved hjælp af superhop. [Snig]"
+"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&lSkyd kyllinger og få flest drab, for at vinde! Pas på: Dumme zombier og creepere!"
 
-"slowballs": "Langsomme Snebolde"
+"Shoot chickens as fast as you can!": "Skyd kyllinger så hurtigt du kan!"
 
-"slownessionhit": "Slowness I på slag"
+"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "Skyd andre spillere med snebolde, køb powerups med meloner og spil i mange forskellige modes!"
 
-"slownessperk": "Langsomheds Perk"
+"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
+    " Save yourself from hazards using Super Jumps":
+        " [Sneak]": "&e&lSkyd TNT med din kanon og skub modstandere i void, eller spræng dem. Red dig selv fra farer ved hjælp af superhop. [Snig]"
 
-"sneaktouse": "Snig for at bruge"
+"Slowballs": "Langsomme Snebolde"
 
-"snowballaccuracy": "Sneboldspræcision"
+"Slowness I on hit": "Slowness I på slag"
 
-"snowballsfired": "Kastede snebolde"
+"Slowness Perk": "Langsomheds Perk"
 
-"snowmanperk": "Snemands Perk"
+"Sneak to use": "Snig for at bruge"
 
-"snowman": "Snemand"
+"Snowball Accuracy": "Sneboldspræcision"
 
-"sortsteamsbasedonkillscountforfairness": "Sorter hold baseret på drabsoptælling på grund af retfærdighed."
+"Snowballs fired": "Kastede snebolde"
 
-"spawnpointswitch": "Spawnpoint Switch"
+"Snowman Perk": "Snemands Perk"
 
-"speed": "Fart"
+"Snowman": "Snemand"
 
-"spleeftntspleentexplodeotherplayersintothevoid": "Spleef + TNT = Spleent! Spræng andre spillere i void!"
+"Sorts teams based on kills count for fairness": "Sorter hold baseret på drabsoptælling på grund af retfærdighed."
 
-"statistics": "Statistikker"
+"Spawnpoint Switch": "Spawnpoint Switch"
 
-"stonecannon": "&7Sten-Kanon"
+"Speed": "Fart"
 
-"succesfullysentpartyinviteto1": "Har succesfuldt sendt en party invitation til $1$!"
+"Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent! Spræng andre spillere i void!"
 
-"superjumps": "Super Hop"
+"Statistics": "Statistikker"
 
-"superjump": "Superhop"
+"§7Stone Cannon": "&7Sten-Kanon"
 
-"survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty": "Overlevelse baseret på Gammle Minecraft versioner mellem alpha 1.2 og beta 1.7.3.||&cAdvarsel: &7NOSTALGI GARANTERET."
+"Succesfully sent party invite to $1$!": "Har succesfuldt sendt en party invitation til $1$!"
 
-"survivalrules": "Overlevelses Regler"
+"Super Jumps": "Super Hop"
 
-"team": "Hold"
+"Super Jump": "Superhop"
 
-"thankyouforratingthismap": "Tak for at stemme på denne bane"
+"Survival based on old Minecraft versions between alpha 1":
+    "2 and beta 1":
+        "7":
+            "3":
+                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Overlevelse baseret på Gammle Minecraft versioner mellem alpha 1.2 og beta 1.7.3.||&cAdvarsel: &7NOSTALGI GARANTERET."
 
-"theknockbackstick": "Knockback Pind"
+"Survival Rules": "Overlevelses Regler"
 
-"therearemanyspecialrecipescheckthemoutin/recipes": "There are many special recipes! Check them out in: &e/recipes&r"
+"Team": "Hold"
 
-"thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1": "There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$"
+"Thank you for rating this map": "Tak for at stemme på denne bane"
 
-"thisgamecanbeplayedalone": "&aDette spil kan spilles &e&lalene&a."
+"The Knockback Stick": "Knockback Pind"
 
-"thisgamecanbeplayedwith2players": "Dette spil kan blive spillet med &e&l2&a&l+ &aspillere."
+"There are many special recipes! Check them out in: §e/recipes§r": "There are many special recipes! Check them out in: &e/recipes&r"
 
-"thisgamecanbeplayedwithonly2players": "Dette spil kan kun spilles med &e&l2 &aspillere."
+"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$"
 
-"thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players": "Dette spil starter tidligt. Du får ikke smaragder og din status, resultater tæller ikke, hvis spillet starter med mindre end &e&l$1$ &6spillere."
+"§aThis game can be played §e§lalone§a": "&aDette spil kan spilles &e&lalene&a."
 
-"thispowerupisalreadyactive": "This power-up is already active!"
+"This game can be played with §e§l2§a§l+ §aplayers": "Dette spil kan blive spillet med &e&l2&a&l+ &aspillere."
 
-"thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges": "Denne runde 1v1, nåede ikke betingelserne for at vinde belønninger, og bedømmelses ændringer."
+"This game can be played with only §e§l2 §aplayers": "Dette spil kan kun spilles med &e&l2 &aspillere."
 
-"throwablecobweb": "Kasteligt Edderkoppespind"
+? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+: "Dette spil starter tidligt. Du får ikke smaragder og din status, resultater tæller ikke, hvis spillet starter med mindre end &e&l$1$ &6spillere."
 
-"timeelapsed": "Tid gået"
+"This power-up is already active!": "This power-up is already active!"
 
-"timesincelastupdate": "Tid siden sidste opdatering"
+"This round of 1v1 did not meet the requirements for win rewards and rating changes": "Denne runde 1v1, nåede ikke betingelserne for at vinde belønninger, og bedømmelses ændringer."
 
-"totalplaytime": "Samlet spilletid"
+"Throwable Cobweb": "Kasteligt Edderkoppespind"
 
-"troopsalive": "Levende tropper"
+"Time elapsed": "Tid gået"
 
-"troopskilled": "Tropper dræbt"
+"Time since last update": "Tid siden sidste opdatering"
 
-"troopslost": "Tabte tropper"
+"Total play time": "Samlet spilletid"
 
-"troops": "Tropper"
+"Troops alive": "Levende tropper"
 
-"turnsyoursnowballsintoslowballs": "Gør dine snebolde langsomme"
+"Troops killed": "Tropper dræbt"
 
-"turn": "Tur"
+"Troops lost": "Tabte tropper"
 
-"unlocked": "Unlocked"
+"Troops": "Tropper"
 
-"use/agree1toagreewithsurvivalrules": "Skriv /agree $1$  for at acceptere overlevelses reglerne."
+"Turns your snowballs into slowballs": "Gør dine snebolde langsomme"
 
-"usef5highfovtogetabetterviewofthegamefield": "Brug F5 + høj FOV for at få et bedre udsyn over spillebanen!"
+"Turn": "Tur"
 
-"utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory": "&e&lUdnyt forberedelses tiden, til at samle så mange ressourcer som muligt, forsvar din Livkrydstal og kæmp din vej til sejr."
+"UNLOCKED": "Unlocked"
 
-"victory": "DU VANDT"
+"Use /agree $1$  to agree with survival rules": "Skriv /agree $1$  for at acceptere overlevelses reglerne."
 
-"votes": "Stemmer:"
+"Use F5 + high FOV to get a better view of the game field!": "Brug F5 + høj FOV for at få et bedre udsyn over spillebanen!"
 
-"vote": "[STEM]"
+? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
+: "&e&lUdnyt forberedelses tiden, til at samle så mange ressourcer som muligt, forsvar din Livkrydstal og kæmp din vej til sejr."
 
-"waitingplayers": "Ventende Spillere"
+"VICTORY": "DU VANDT"
 
-"waitingqueuestatus": "Afventer Kø Status"
+"Votes:": "Stemmer:"
 
-"warped1partymemberstoyourlocation": "Teleporterede &e&l$1$ &epartymedlemmer til din lokation!"
+"[VOTE]": "[STEM]"
 
-"waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater": "Water is finite here, so you are going to need to build farms close to big sources of water."
+"Waiting Players": "Ventende Spillere"
 
-"winspercentage": "Sejr Procent"
+"Waiting Queue Status": "Afventer Kø Status"
 
-"wins": "Sejre"
+"Warped §e§l$1$ §eparty members to your location!": "Teleporterede &e&l$1$ &epartymedlemmer til din lokation!"
 
-"woodcannon": "Træ-Kanon"
+"Water is finite here, so you are going to need to build farms close to big sources of water": "Water is finite here, so you are going to need to build farms close to big sources of water."
 
-"youarealreadyinapartyof1": "Du er allerede i &a$1$&cs party!"
+"Wins Percentage": "Sejr Procent"
 
-"youarealreadyon1team": "Du er allerede på $1$ &chold!"
+"Wins": "Sejre"
 
-"youareleaderofapartyuse/partydisbandtobeabletodothis": "You are leader of a party, use &e/party disband &cto be able to do this."
+"Wood Cannon": "Træ-Kanon"
 
-"youarenowamemberof1team": "Du er nu medlem af $1$ &ehold!"
+"You already have voted for a map!": "Træ-Kanon"
 
-"youarenowjuggernaut": "Du er nu kæmpen!"
+"You are already in a party of §a$1$§c!": "Du er allerede i &a$1$&cs party!"
 
-"youarentinaparty": "Du er ikke en del af et party!"
+"You are already on $1$ §cteam!": "Du er allerede på $1$ &chold!"
 
-"youarenttheleaderoftheparty": "Du er ikke leder af partyet!"
+"You are leader of a party, use §e/party disband §cto be able to do this": "You are leader of a party, use &e/party disband &cto be able to do this."
 
-"youcanchatonlyonceevery15second": "You can chat only once every 1.5 second!"
+"You are now a member of $1$ §eteam!": "Du er nu medlem af $1$ &ehold!"
 
-"youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
+"You are now Juggernaut!": "Du er nu kæmpen!"
 
-"youcanfindfriendlysurvivalwikiin1": "You can find Friendly Survival wiki in: $1$"
+"You aren't in a party!": "Du er ikke en del af et party!"
 
-"youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone": "You can lock your containers and doors with signs, if you want to protect land you can join a group or create one."
+"You aren't the leader of the party!": "Du er ikke leder af partyet!"
 
-"youcannothavemorethanonesnowmanininventoryatthesametime": "You cannot have more than one &fSnowman &cin inventory at the same time."
+"You can chat only once every 1":
+    "5 second!": "You can chat only once every 1.5 second!"
 
-"youcannotpartywarpintothisgame": "You cannot party warp into this game!"
+"You can die from cold during night in §bHoth§r if you do not have leather armor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
 
-"youcanonlybuythisingame": "Du kan kun købe det her i spillet!"
+"You can find Friendly Survival wiki in: $1$": "You can find Friendly Survival wiki in: $1$"
 
-"youcanonlyvotewhentheresenoughplayerstostartthegame": "Du kan først stemme når der er nok spillere til at starte spillet."
+"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "You can lock your containers and doors with signs, if you want to protect land you can join a group or create one."
 
-"youcansendcarepackagestosupportaliveplayerswith/carepackage<player>": "Du kan sende hjælpepakker for at hjælpe spillere der er i live med &e&l/carepackage <spiller>"
+"You cannot have more than one §fSnowman §cin inventory at the same time": "You cannot have more than one &fSnowman &cin inventory at the same time."
 
-"youcantoggledisplayoftheanimationofftoreduceyourfpslag": "Du kan slå animations-display fra, for at formindske FPS lag!"
+"You cannot party warp into this game!": "You cannot party warp into this game!"
 
-"youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions": "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
+"You can only buy this in-game!": "Du kan kun købe det her i spillet!"
 
-"youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave": "Du kunne ikke blive teleporteret til din partyleders lokation, fordi du er i gang med et spil. Skriv &e/q &cfor at afslutte."
+"You can only vote when there's enough players to start the game": "Du kan først stemme når der er nok spillere til at starte spillet."
 
-"youdonothaveenoughemeralds": "Du har ikke nok &aSmaragder&c!"
+"You can send care packages to support alive players with §e§l/carepackage <player>": "Du kan sende hjælpepakker for at hjælpe spillere der er i live med &e&l/carepackage <spiller>"
 
-"youdonothaveenoughmelons": "You do not have enough melons!"
+"You can toggle display of the animation off to reduce your FPS lag!": "Du kan slå animations-display fra, for at formindske FPS lag!"
 
-"yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin": "Du får point for at \"\"fange flag\"\". Dit hold skal nå det nødvendige antal point for at vinde."
+"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
 
-? "yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin"
-: "Du får point for at dræbe. En spiller bliver valgt til at være kæmpen, og alle spiller er imod den. Hvis du dræber kæmpen bliver du selv til en kæmpe. Du skal nå det nødvendige antal point for at vinde."
+"You could not be warped to your party leader's location, because you are in a game":
+    " Use §e/q §cto leave": "Du kunne ikke blive teleporteret til din partyleders lokation, fordi du er i gang med et spil. Skriv &e/q &cfor at afslutte."
 
-"yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin": "Du får point for at dræbe. Du skal have nok point for at vinde!"
+"You donated §e§l1 §fSnowball §eto §a$1$§e!": "Du kunne ikke blive teleporteret til din partyleders lokation, fordi du er i gang med et spil. Skriv &e/q &cfor at afslutte."
 
-"yougetpointsforkillsyourteamneedstoreachtheneededamountofpointstowin": "Du får point for at dræbe. Dit hold skal have nok point for at vinde!"
+"You do not have enough §aEmeralds§c!": "Du har ikke nok &aSmaragder&c!"
 
-"youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay": "Du har accepteret overlevelsesreglerne. Følg dem, så skal alt nok gå!"
+"You do not have enough melons!": "You do not have enough melons!"
 
-"youhavealreadyinvited1intoyourparty": "Du har allerede inviteret $1$ &ctil dit party!"
+"You get points for flag captures, your team needs to reach the needed amount of points to win": "Du får point for at \"\"fange flag\"\". Dit hold skal nå det nødvendige antal point for at vinde."
 
-"youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday": "Du har allerade stemt på et map, i dette spil idag. Hjælp serveren  ved at købe &a&lVIP &chvis du vil kunne stemme uendelig gange, hver dag."
+? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
+:   " You need to reach the needed amount of points to win": "Du får point for at dræbe. En spiller bliver valgt til at være kæmpen, og alle spiller er imod den. Hvis du dræber kæmpen bliver du selv til en kæmpe. Du skal nå det nødvendige antal point for at vinde."
 
-"youhavealreadyvotedforamode": "Du har allerede stemt på en mode!"
+"You get points for kills, you need to reach the needed amount of points to win": "Du får point for at dræbe. Du skal have nok point for at vinde!"
 
-"youhavealreadyvotedforthismodifier": "Du har allerade stemt på denne modifier!"
+"You get points for kills, your team needs to reach the needed amount of points to win": "Du får point for at dræbe. Dit hold skal have nok point for at vinde!"
 
-"youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools": "You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!"
+"You got a §lEnchanted Snowball §bfrom your kill!": "Du får point for at dræbe. Dit hold skal have nok point for at vinde!"
 
-"youhavejoinedpartyof1": "Du har tilsluttet dig &a$1$&es party!"
+"You have agreed with the survival rules, follow them and everything will be okay!": "Du har accepteret overlevelsesreglerne. Følg dem, så skal alt nok gå!"
 
-"youhaveleftpartyof1": "Du har forladt &a$1$&es party!"
+"You have already invited $1$ §cinto your party!": "Du har allerede inviteret $1$ &ctil dit party!"
 
-"youhavereachedthelimitof1powerupspermatch": "You have reached the limit of &e&l$1$ &cpowerups per match!"
+? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+: "Du har allerade stemt på et map, i dette spil idag. Hjælp serveren  ved at købe &a&lVIP &chvis du vil kunne stemme uendelig gange, hver dag."
 
-"youhavereachedthelimitofsnowballs": "You have reached the limit of snowballs!"
+"You have already voted for a mode!": "Du har allerede stemt på en mode!"
 
-"youhaveremovedyourlastratingofthismap": "Du har fjernet din bedømmelse af dette map."
+"You have already voted for this modifier!": "Du har allerade stemt på denne modifier!"
 
-"youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules": "Du skal læse og acceptere overlevelsereglerne for at kunne ødelægge/sætte blokke. Skriv &e/survivalrules"
+"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!"
 
-"youhaveupgraded1to2": "Du har opgraderet &a$1$ &6til &a$2$&6!"
+"You have joined party of §a$1$§e!": "Du har tilsluttet dig &a$1$&es party!"
 
-"youhaveupgraded1": "Du har opgraderet &a$1$&6!"
+"You have left party of §a$1$§e!": "Du har forladt &a$1$&es party!"
 
-"youmustbeleaderofapartytousethis": "Du skal være partyets leder for at bruge dette!"
+"You have purchased $1$§6!": "Du har forladt &a$1$&es party!"
 
-"yourarmyisunderattack": "Din hær er under angreb!"
+"You have reached the limit of §e§l$1$ §cpowerups per match!": "You have reached the limit of &e&l$1$ &cpowerups per match!"
 
-"youropponentisblindedbyyourperk": "Din modstander er blind, på grund af din perk!"
+"You have reached the limit of snowballs!": "You have reached the limit of snowballs!"
 
-"youropponentisignitedbyyourperk": "Din modstander er antændt, af din perk!"
+"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "You have reached the limit of snowballs!"
 
-"youropponentisslowedbyyourperk": "Din modstander er blevet langsom, på grund af din perk!"
+"You have reflected snowball of $1$§f!": "You have reached the limit of snowballs!"
 
-"yourpartyinviteto1hasexpired": "Din party-invitation til $1$ &eer udløbet."
+"You have removed your last rating of this map": "Du har fjernet din bedømmelse af dette map."
 
-"yourpartyleaderhaswarpedyoutotheirlocation": "Din party leder har teleporteret dig til sin lokation!"
+"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "Du skal læse og acceptere overlevelsereglerne for at kunne ødelægge/sætte blokke. Skriv &e/survivalrules"
 
-"yourradarbreakereffectisover": "Your Radar Breaker effect is over!"
+"You have upgraded $1$ to $2$!": "Du har opgraderet &a$1$ &6til &a$2$&6!"
 
-"yoursnowballhitboatof1": "Your snowball hit boat of $1$&f!"
+"You have upgraded §a$1$§6!": "Du har opgraderet &a$1$&6!"
 
-"yourteam": "DIT HOLD"
+"You must be leader of a party to use this!": "Du skal være partyets leder for at bruge dette!"
 
-"1kicked2fromtheparty": "$1$ &ekicked $2$ &efrom the party!"
+"Your army is under attack!": "Din hær er under angreb!"
 
-"youhavealreadyusedthispowerupinthislife": "You have already used this power-up in this life!"
+"Your opponent is blinded by your perk!": "Din modstander er blind, på grund af din perk!"
 
-"swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
+"Your opponent is ignited by your perk!": "Din modstander er antændt, af din perk!"
 
-"1hastransferredpartyleaderto2": "$1$ &ehas transferred party leader to $2$&e!"
+"Your opponent is slowed by your perk!": "Din modstander er blevet langsom, på grund af din perk!"
 
-"1isnotinyourparty": "$1$ &cis not in your party!"
+"Your party invite to $1$ §ehas expired": "Din party-invitation til $1$ &eer udløbet."
 
-"youcanbuythisitemonlyonceperlife": "You can buy this item only once per life."
+"Your party leader has warped you to their location!": "Din party leder har teleporteret dig til sin lokation!"
 
-"youhavegainedextralifefromyourimmortalityperk": "You have gained extra life from your &aImmortality Perk&e!"
+"Your Radar Breaker effect is over!": "Your Radar Breaker effect is over!"
 
-"rightclicktoactivategamemodifiers": "Right click to activate game modifiers!"
+"Your snowball hit $1$§f!": "Your Radar Breaker effect is over!"
 
-"youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+"Your snowball hit boat of $1$§f!": "Your snowball hit boat of $1$&f!"
 
-"locked": "LOCKED"
+"Your snowman's snowball hit $1$§f!": "Your snowball hit boat of $1$&f!"
 
-"1hasgainedanextralifefromtheirimmortalityperk": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+"YOUR TEAM": "DIT HOLD"
 
-"/msgplayersendaprivatemessagetoaplayer": "   /msg <player> &2- &aSend a private message to a player."
+"$1$ §ekicked $2$ §efrom the party!": "$1$ &ekicked $2$ &efrom the party!"
 
-"/statsplayerviewplayersstats": "   /stats <player> &2- &aView player's stats."
+"You have already used this power-up in this life!": "You have already used this power-up in this life!"
 
-"/joingamelobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <game> [lobbyname] &2- &aTo join a public game by a command or private game by specifying lobby name."
+"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
 
-"/partyinviteplayertoinviteaplayertoparty": "   /party invite <player> &2- &aTo invite a player to party."
+"$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas transferred party leader to $2$&e!"
 
-"/partyacceptplayertoacceptanpartyinvite": "   /party accept <player> &2- &aTo accept an party invite."
+"$1$ §cis not in your party!": "$1$ &cis not in your party!"
 
-"/partykickplayertokickaplayerfromyourparty": "   /party kick <player> &2- &aTo kick a player from your party."
+"You can buy this item only once per life": "You can buy this item only once per life."
 
-"/partytransferplayertotransferpartyleadertoothermember": "   /party transfer <player> &2- &aTo transfer party leader to other member."
+"You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
 
-"/partyjoinplayertojoinpublicpartyofaplayer": "   /party join <player> &2- &aTo join public party of a player."
+"Right click to activate game modifiers!": "Right click to activate game modifiers!"
 
-"ifyouwanttospectateotherplayertype/stpplayer": "If you want to spectate other player type &e/stp <player>"
+"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
 
-"yourpartyisnowopenforpublicjoinotherplayerscando/pjoin1tojoinit": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
+"LOCKED": "LOCKED"
 
-"youcansendcarepackagestosupportaliveplayerswith/carepackageplayer": "You can send care packages to support alive players with &e&l/carepackage <player>"
+"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
 
-"enchantedironcannon": "&bEnchanted &7&lIron Cannon"
+"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
 
-"castlewars1v1govindassurvivalgamesminiskywallsspleentknockoutsnowballcheckersbombermanelementalarchers": "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
 
-? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenfurnituretoimproveyourbuilds"
+? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
 : "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"

@@ -1,837 +1,837 @@
-"/chatpartytotogglepartychat": "   /chat party &2- &aPara ligar/desligar o chat da party."
+"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aPara ligar/desligar o chat da party."
 
-"/donateviewwaystodonatemoneytoourserver": "   /donate &2- &aView ways to donate money to our server."
+"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aView ways to donate money to our server."
 
-"/groupaccept<group>acceptagroupinvitation": "   /group accept <group> &2- &aAceitar um convite."
+"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <group> &2- &aAceitar um convite."
 
-"/groupchunks<group>browseclaimedchunksofagroup": "   /group chunks <group> &2- &aProcurar chunks pertencentes ao grupo."
+"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <group> &2- &aProcurar chunks pertencentes ao grupo."
 
-"/groupclaim<group>claimachunktoagroup": "   /group claim <group> &2- &aObter uma chunk para o grupo."
+"   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <group> &2- &aObter uma chunk para o grupo."
 
-"/groupcreate<group>createagroup": "   /group create <group> &2- &aCriar um grupo."
+"   /group create <group> §2- §aCreate a group": "   /group create <group> &2- &aCriar um grupo."
 
-"/groupdemote<player><group>demoteaplayerinagroup": "   /group demote <jogador> <group> &2- &aRebaixar um jogador no grupo."
+"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <jogador> <group> &2- &aRebaixar um jogador no grupo."
 
-"/groupinfo<group>viewinformationaboutagroup": "   /group info <group> &2- &aVer informação de um grupo."
+"   /group info <group> §2- §aView information about a group": "   /group info <group> &2- &aVer informação de um grupo."
 
-"/groupinvite<player><group>inviteaplayertoagroup": "   /group invite <jogador> <group> &2- &aEnviar convite a um jogador."
+"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <jogador> <group> &2- &aEnviar convite a um jogador."
 
-"/groupkick<player><group>kickaplayerfromagroup": "   /group kick <jogador> <group> &2- &aKickar um jogador do grupo."
+"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <jogador> <group> &2- &aKickar um jogador do grupo."
 
-"/groupleave<group>leaveagroup": "   /group leave <group> &2- &aSair de um grupo."
+"   /group leave <group> §2- §aLeave a group": "   /group leave <group> &2- &aSair de um grupo."
 
-"/grouplistlistthegroupsyouarein": "   /group list &2- &aVer os grupos que você fáz parte"
+"   /group list §2- §aList the groups you are in": "   /group list &2- &aVer os grupos que você fáz parte"
 
-"/grouppromote<player><group>promoteaplayerinagroup": "   /group promote <jogador> <group> &2- &aPromover um jogador no grupo."
+"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <jogador> <group> &2- &aPromover um jogador no grupo."
 
-"/groupunclaimunclaimachunk": "   /group unclaim &2- &aAbandonar  uma chunk."
+"   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aAbandonar  uma chunk."
 
-"/groupupgrade<group>upgradeagroup": "   /group upgrade <group> &2- &aMelhorar o grupo."
+"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <group> &2- &aMelhorar o grupo."
 
-"/join<game>lobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <jogo> [nomedolobby] &2- &aPara se juntar a um jogo publico em um lobby especifico"
+"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <jogo> [nomedolobby] &2- &aPara se juntar a um jogo publico em um lobby especifico"
 
-"/listviewinformationaboutallonlineplayers": "   /list &2- &aVer informação sobre todos os jogadores online"
+"   /list §2- §aView information about all online players": "   /list &2- &aVer informação sobre todos os jogadores online"
 
-"/msg<player>sendaprivatemessagetoaplayer": "   /msg <jogador> &2- &aMandar uma mensagem privada a um jogador."
+"   /msg <player> §2- §aSend a private message to a player": "   /msg <jogador> &2- &aMandar uma mensagem privada a um jogador."
 
-"/partyaccept<player>toacceptanpartyinvite": "   /party accept <jogador> &2- &aAceitar um convite."
+"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <jogador> &2- &aAceitar um convite."
 
-"/partydisbandtodisbandyourparty": "   /party disband &2- &aExcluir a party."
+"   /party disband §2- §aTo disband your party": "   /party disband &2- &aExcluir a party."
 
-"/partyinvite<player>toinviteaplayertoparty": "   /party invite <jogador> &2- &aConvide um jogador."
+"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <jogador> &2- &aConvide um jogador."
 
-"/partyjoin<player>tojoinpublicpartyofaplayer": "   /party join <jogador> &2- &aEntre em uma party."
+"   /party join <player> §2- §aTo join public party of a player": "   /party join <jogador> &2- &aEntre em uma party."
 
-"/partykick<player>tokickaplayerfromyourparty": "   /party kick <jogador> &2- &aPara kickar um jogador na sua party."
+"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <jogador> &2- &aPara kickar um jogador na sua party."
 
-"/partyleavetoleaveaparty": "   /party leave &2- &aSair da party."
+"   /party leave §2- §aTo leave a party": "   /party leave &2- &aSair da party."
 
-"/partylisttoviewmembersofyourpartylist": "   /party list &2- &aVer jogadores na sua party."
+"   /party list §2- §aTo view members of your party list": "   /party list &2- &aVer jogadores na sua party."
 
-"/partyopentoopenyourpartyforpublicjoin": "   /party open &2- &aPermita qualquer um entrar na party."
+"   /party open §2- §aTo open your party for public join": "   /party open &2- &aPermita qualquer um entrar na party."
 
-"/partytransfer<player>totransferpartyleadertoothermember": "   /party transfer <jogador> &2- &aDar a liderança da sua party para alguém"
+"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <jogador> &2- &aDar a liderança da sua party para alguém"
 
-"/partyviewpartyhelp": "   /party &2- &aVer ajuda de Party."
+"   /party §2- §aView party help": "   /party &2- &aVer ajuda de Party."
 
-"/partywarptowarpyourpartymemberstoyourgamelobby": "   /party warp &2- &aPara trazer seus membros na party até o seu lobby"
+"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aPara trazer seus membros na party até o seu lobby"
 
-"/rulesreadserverrules": "   /rules &2- &aLer as regras do servidor."
+"   /rules §2- §aRead server rules": "   /rules &2- &aLer as regras do servidor."
 
-"/spectateenterspectatemode": "   /spectate &2- &aIr no modo espectador."
+"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aIr no modo espectador."
 
-"/staffviewstafflist": "   /staff &2- &aVer a lista da STAFF"
+"   /staff §2- §aView staff list": "   /staff &2- &aVer a lista da STAFF"
 
-"/stats<player>viewplayersstats": "   /stats <jogador> &2- &aVer estatisticas de um jogador"
+"   /stats <player> §2- §aView player's stats": "   /stats <jogador> &2- &aVer estatisticas de um jogador"
 
-"1arrowonknockout": "1 felcha no knockout!"
+"1 arrow on knockout!": "1 felcha no knockout!"
 
-"1defeated2": "$1$ &cderrotou &6$2$"
+"$1$ §cdefeated §6$2$": "$1$ &cderrotou &6$2$"
 
-"1donated1snowballtoyou": "$1$ &edoou &e&l1 &fSnowball &ea você!"
+"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &edoou &e&l1 &fSnowball &ea você!"
 
-"1flaghasbeendropped": "bandeira $1$ &efoi dropada!"
+"$1$ §eflag has been dropped!": "bandeira $1$ &efoi dropada!"
 
-"1gotfirstkillofthegame": "&a$1$ &eobteve a primeira kill do jogo!"
+"§a$1$ §egot first kill of the game!": "&a$1$ &eobteve a primeira kill do jogo!"
 
-"1hascaptured2flag": "$1$ &ecapturou a bandeira $2$ &e!"
+"$1$ §ehas captured $2$ §eflag!": "$1$ &ecapturou a bandeira $2$ &e!"
 
-"1hasdisbandedtheparty": "$1$ &eexcluiu a party!"
+"$1$ §ehas disbanded the party!": "$1$ &eexcluiu a party!"
 
-"1hasinvitedyouintoaparty": "$1$ &econvidou você para uma party!"
+"$1$ §ehas invited you into a party!": "$1$ &econvidou você para uma party!"
 
-"1hasjoinedyourparty": "$1$ &ejuntou-se á party!"
+"$1$ §ehas joined your party!": "$1$ &ejuntou-se á party!"
 
-"1hasjoined": "$1$ &eentrou!"
+"$1$ §ehas joined!": "$1$ &eentrou!"
 
-"1haslefttheparty": "$1$ &esaiu da party!"
+"$1$ §ehas left the party!": "$1$ &esaiu da party!"
 
-"1hasleft": "$1$ &csaiu!"
+"$1$ §chas left!": "$1$ &csaiu!"
 
-"1hasnotinvitedyouintoaparty": "$1$ &enão lhe convidou para uma party!"
+"$1$ §ehas not invited you into a party!": "$1$ &enão lhe convidou para uma party!"
 
-"1haspickedup2flag": "$1$ &epegou a bandeira $2$ &e!"
+"$1$ §ehas picked up $2$ §eflag!": "$1$ &epegou a bandeira $2$ &e!"
 
-"1hasreachedthemaxsticklevel": "$1$ &echegou ao nivel máximo de graveto!"
+"$1$ §ehas reached the max stick level!": "$1$ &echegou ao nivel máximo de graveto!"
 
-"1hasreturned2flag": "$1$ &eretornou a bandeira $2$ &e!"
+"$1$ §ehas returned $2$ §eflag!": "$1$ &eretornou a bandeira $2$ &e!"
 
-"1hasvotedfor2map": "$1$ &evotou no mapa: &b&l$2$&e!"
+"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &evotou no mapa: &b&l$2$&e!"
 
-"1hasvotedfor2mode": "$1$ &evotou para o modo &b&l$2$ &e!"
+"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &evotou para o modo &b&l$2$ &e!"
 
-"1hasvotedforbalancedteamsmodifier": "$1$ &evotou para a modificação: &b&lEquipas Balanceadas&e"
+"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &evotou para a modificação: &b&lEquipas Balanceadas&e"
 
-"1hasvotedfordoublejumpmodifier": "$1$ &evotou para &b&lDouble Jump &emodifier!"
+"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &evotou para &b&lDouble Jump &emodifier!"
 
-"1hasvotedforfastsnowballsmodifier": "$1$ &evotou para modificação: &b&lBolas de Neve Rápidas&e!"
+"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &evotou para modificação: &b&lBolas de Neve Rápidas&e!"
 
-"1hasvotedforinstakillsnowballsmodifier": "$1$ &evotou para a modificação: &b&lBolas de neve Insta Kill!!"
+"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &evotou para a modificação: &b&lBolas de neve Insta Kill!!"
 
-"1hasvotedfornocompassmodifier": "$1$ &evotou para modificação: &bSem bússula&e!"
+"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &evotou para modificação: &bSem bússula&e!"
 
-"1hasvotedforreflectsnowballsmodifier": "$1$ &evotou para a modificação: &b&lBolas de Neve reflectoras!!"
+"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &evotou para a modificação: &b&lBolas de Neve reflectoras!!"
 
-"1isalreadyinyourparty": "$1$ &cjá está na sua party!"
+"$1$ §cis already in your party!": "$1$ &cjá está na sua party!"
 
-"1isnotyourfriendadd1tofriendswith/fadd2": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
+"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
 
-"1ofplayersneedstovotetoenable": "$1$ &7jogadores precisam votar pata ativar"
+"$1$ §7of players needs to vote to enable": "$1$ &7jogadores precisam votar pata ativar"
 
-"1teamisfull": "equipa $1$ &c está cheia!"
+"$1$ §cteam is full!": "equipa $1$ &c está cheia!"
 
-"accept": "[ACEITAR]"
+"[ACCEPT]": "[ACEITAR]"
 
-"achancetospawncreeperwhereyoursnowballlands": "Uma chance de spawnar um creeper onde a sua bola de neve cair."
+"A chance to spawn creeper where your snowball lands": "Uma chance de spawnar um creeper onde a sua bola de neve cair."
 
-"activatedmodifiers": "Modificações Ativadas"
+"Activated Modifiers": "Modificações Ativadas"
 
-"allowstodoublejumpbypressingthesneakbuttoninmidair": "Habilita salto duplo apertando Shift no meio do AR."
+"Allows to double jump by pressing the sneak button in mid-air": "Habilita salto duplo apertando Shift no meio do AR."
 
-"animationiscurrentlydisabled": "Animação está &c&lDESATIVADA&e."
+"Animation is currently §c§lDISABLED§e": "Animação está &c&lDESATIVADA&e."
 
-"animationiscurrentlyenabled": "Animação está &a&lATIVADA&e."
+"Animation is currently §a§lENABLED§e": "Animação está &a&lATIVADA&e."
 
-"areyouseriouslygoingintoapartywithyourselfinvitesomeone": "Não faça party com você mesmo! Convide alguém!"
+"Are you seriously going into a party with yourself? Invite someone!": "Não faça party com você mesmo! Convide alguém!"
 
-"areyousureyouwanttoleavetype/qtoconfirm": "Tens a certeza que queres sair? Escreve &e/q &6para confirmares."
+"Are you sure you want to leave? Type §e/q §6to confirm": "Tens a certeza que queres sair? Escreve &e/q &6para confirmares."
 
-"armor": "Armadura"
+"Armor": "Armadura"
 
-"arrowaccuracy": "Acerto de Flecha"
+"Arrow Accuracy": "Acerto de Flecha"
 
-"arrowbonusperk": "Perk de Arco Bonus"
+"Arrow Bonus Perk": "Perk de Arco Bonus"
 
-"arrowsfired": "Flechas Jogadas"
+"Arrows Fired": "Flechas Jogadas"
 
-"arrowsleft": "Flechas restantes"
+"Arrows left": "Flechas restantes"
 
-"asnowmanwhichshootsenemies": "Um boneco de neve que dispara nos inimigos!"
+"A snowman which shoots enemies!": "Um boneco de neve que dispara nos inimigos!"
 
-"averagerating": "Media de Avaliação:"
+"Average Rating:": "Media de Avaliação:"
 
-"balancedteamsmodifier": "Modificação de Equipas Balanceadas"
+"Balanced Teams Modifier": "Modificação de Equipas Balanceadas"
 
-"becauseoftoomuchgamechangingmodifiersactivatedthismatchwillnotaffectyourrating": "&7&lDevido a muitas modificações ativadas esta partida não vai mudar a sua avaliação."
+"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lDevido a muitas modificações ativadas esta partida não vai mudar a sua avaliação."
 
-"bethecommanderofagiantarmyanddefeatalltheenemykingswithyourarmytowin": "&e&lSeja o comandante de um exercito! Derrote os comandantes adeversários para vencer"
+"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lSeja o comandante de um exercito! Derrote os comandantes adeversários para vencer"
 
-"bewareofgravityalwaysbuildsupportstoyourminesandbuildingswithatleast8blocksofdistancebetweensupports": "Cuidade com a gravidade! Constroi sempre suportes nas tuas minas e certefica-te que os suportos teem 8 blocos de distância."
+"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Cuidade com a gravidade! Constroi sempre suportes nas tuas minas e certefica-te que os suportos teem 8 blocos de distância."
 
-"blindnessperk": "Perk de Cegueira"
+"Blindness Perk": "Perk de Cegueira"
 
-"blockssnowballs50chancetobreakonfirsthit100onsecondhit": "Bloqueia bolas de neve. &e&l50% &7chance de partir-se no primeiro hit, &e&l100% &7no segundo hit."
+"Blocks snowballs":
+    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Bloqueia bolas de neve. &e&l50% &7chance de partir-se no primeiro hit, &e&l100% &7no segundo hit."
 
 "blocks": "blocos"
 
-"bombsfired": "Bombas jogadas"
+"Bombs fired": "Bombas jogadas"
 
-"bombsplaced": "Bombas colocados"
+"Bombs placed": "Bombas colocados"
 
-"bonussnowballsonknockout": "Bolas de neve BONUS ao knockout"
+"Bonus snowballs on knockout": "Bolas de neve BONUS ao knockout"
 
-"burningstickperk": "Park de graveto queimando"
+"Burning Stick Perk": "Park de graveto queimando"
 
-"burns1oftargetssnowballs": "Queima &e&l$1$ &7das bolas de neve do adversário."
+"Burns §e§l$1$ §7of target's snowballs": "Queima &e&l$1$ &7das bolas de neve do adversário."
 
-"burnstargetonhit": "Queima o adversário ao bater."
+"Burns target on hit": "Queima o adversário ao bater."
 
-"cantfindaplayerbythenameof1": "Não foi possivel encontrar ninguém com o nome '$1$'."
+"Can't find a player by the name of '$1$'": "Não foi possivel encontrar ninguém com o nome '$1$'."
 
-"cantshootfarbecausesnowballsmeltintheair": "Não podes disparar porque as bolas de neve foram jogadas no céu"
+"Can't shoot far because snowballs melt in the air": "Não podes disparar porque as bolas de neve foram jogadas no céu"
 
-"chanceofcreeperspawn": "chance de spawnar creeper"
+"chance of creeper spawn": "chance de spawnar creeper"
 
-"chanceofdoubleexperience": "chance de experiencia dupla"
+"chance of double experience": "chance de experiencia dupla"
 
-"chanceofdoublemelons": "chance de melões duplos"
+"chance of double melons": "chance de melões duplos"
 
-"chanceofenchantedsnowballgainafterkill": "chance of &bEnchanted Snowball &7gain after"
+"chance of §bEnchanted Snowball §7gain after kill": "chance of &bEnchanted Snowball &7gain after"
 
-"chanceofreflection": "chance de reflecção"
+"chance of reflection": "chance de reflecção"
 
-"chancetoblindopponentonhit": "Chance de deixar o jogador cego ao bater."
+"Chance to blind opponent on hit": "Chance de deixar o jogador cego ao bater."
 
-"chancetoburnopponentonhit": "Chance de queimar um jogador ao bater nele."
+"Chance to burn opponent on hit": "Chance de queimar um jogador ao bater nele."
 
-"chancetonotlosealife": "Chance de não perder uma vida"
+"Chance to not lose a life": "Chance de não perder uma vida"
 
-"chancetoslowslowness1opponentonhit": "chance para dar lentidão(Lentidão $1$) no adversário ao bater"
+"chance to slow(Slowness $1$) opponent on hit": "chance para dar lentidão(Lentidão $1$) no adversário ao bater"
 
-"chancetoslowslownessiiopponentonhit": "Chance de dar lentidão(Lentidão II) ao jogador ao bater nele."
+"Chance to slow(Slowness II) opponent on hit": "Chance de dar lentidão(Lentidão II) ao jogador ao bater nele."
 
-"checkersinminecraftlikethepopularboardgame": "Damas no Minecraft! Igualzinho ao jogo popular!"
+"Checkers in Minecraft! Like the popular board game": "Damas no Minecraft! Igualzinho ao jogo popular!"
 
-"checkers": "Damas"
+"Checkers": "Damas"
 
-"checkpoint": "Checkpoint"
+"Checkpoint": "Checkpoint"
 
-"chestslooted": "Baús abertos"
+"Chests looted": "Baús abertos"
 
 "classes": "classes"
 
-"clickheretojoin1": "Clique para entrar $1$!"
+"Click here to join $1$!": "Clique para entrar $1$!"
 
-"clicktoacceptthepartyinvite": "Clique para aceitar!"
+"Click to accept the party invite!": "Clique para aceitar!"
 
-"clicktobuy": "Clique para comprar!"
+"Click to buy!": "Clique para comprar!"
 
-"clicktojoin": "[CLIQUE PARA ENTRAR]"
+"[CLICK TO JOIN]": "[CLIQUE PARA ENTRAR]"
 
-"clicktoopenmenu": "CLIQUE PARA ABRIR O MENU"
+"CLICK TO OPEN MENU": "CLIQUE PARA ABRIR O MENU"
 
-"clicktoplay": "CLICA PARA JOGAR"
+"CLICK TO PLAY": "CLICA PARA JOGAR"
 
-"clicktoratethismap": "Clica para avaliar o mapa"
+"Click to rate this map": "Clica para avaliar o mapa"
 
-"clicktoundothisrating": "Clique para retirares a tua avaliação"
+"Click to undo this rating!": "Clique para retirares a tua avaliação"
 
-"clicktovotefor1mode": "Clica para votar no modo $1$&a!"
+"Click to vote for $1$ §amode!": "Clica para votar no modo $1$&a!"
 
-"clicktovoteforthismap": "Clique para votar neste mapa!"
+"Click to vote for this map!": "Clique para votar neste mapa!"
 
-"clicktovoteforthismode": "Clique para votar messe modo!"
+"Click to vote for this mode!": "Clique para votar messe modo!"
 
-"clicktovoteforthismodifier": "Clica para votares nesta modificação!"
+"Click to vote for this modifier!": "Clica para votares nesta modificação!"
 
-"completeparkourracesearnprizesandcompeteinleaderboards": "Faz corridas de parkour, ganha prémios e suba seu rank nas scoreboards!"
+"Complete parkour races, earn prizes and compete in leaderboards!": "Faz corridas de parkour, ganha prémios e suba seu rank nas scoreboards!"
 
-"cooldown": "Cooldown"
+"Cooldown": "Cooldown"
 
-"crackedplayerscanjoinourservertheycanapplyat1tojoin": "Jogadores com minecraft pirata também podem se juntar ao nosso servidor! Eles podem aplicar para entrar em $1$ &r."
+"Cracked players can join our server! They can apply at $1$ §rto join": "Jogadores com minecraft pirata também podem se juntar ao nosso servidor! Eles podem aplicar para entrar em $1$ &r."
 
-? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenacustomprogramminglanguagetocreateyourowncustommaps"
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
 : "O mundo criativo tem várias coisas! WorldEdit, VoxelSniper, goBrush, goPaint, uma grande coleção de cabeças e até uma linguagem de programação customizada para fazeres os teus mapas!"
 
-"creeperchanceperk": "Perk Chance de Creeper"
+"Creeper Chance Perk": "Perk Chance de Creeper"
 
-"crystal": "Cristal"
+"Crystal": "Cristal"
 
-"current": "Atual"
+"Current": "Atual"
 
-"damagedealt": "Dano Causado"
+"Damage Dealt": "Dano Causado"
 
-"damagetaken": "Dano Obtido"
+"Damage Taken": "Dano Obtido"
 
-"day": "Dia"
+"Day": "Dia"
 
-"deaths": "Mortes"
+"Deaths": "Mortes"
 
-"defeat": "DERROTA"
+"DEFEAT": "DERROTA"
 
-"defendyourcastleattackothercastlescommandyourarmyandbecomethebestcommander": "Defenda o seu castelo, ataque outros castelos, seja o melhor comandante!"
+"Defend your castle, attack other castles, command your army and become the best commander!": "Defenda o seu castelo, ataque outros castelos, seja o melhor comandante!"
 
-"destroyingotherplayercreationsorruiningtheminanywayisnotallowed": "Destruir cirações de outros jogadores não é permitido!"
+"Destroying other player creations or ruining them in any way is not allowed!": "Destruir cirações de outros jogadores não é permitido!"
 
-"destroyingthegoodlookofterrainbymakingholes1x1towersandanyotherwaywhichmakesitlookbadisnotallowed": "Destruir o terreno fazendo torres ou colocando blocos atoa não é permitido!"
+"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Destruir o terreno fazendo torres ou colocando blocos atoa não é permitido!"
 
-"didyouknow": "Did you know?"
+"Did you know?": "Did you know?"
 
-? "differentelementalclassescompetewitheachotherinbowfightingabilitiesusefascinitingabilitiesofyourclasstodefeatotherplayersandwin"
-: "&e&lClasses elementais diferentes competem umas com as outros em uma batalha. Usa habilidades fascinantes para derrotares os teus adversários e ganhares!"
+"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
+    " Use fasciniting abilities of your class to defeat other players and win!": "&e&lClasses elementais diferentes competem umas com as outros em uma batalha. Usa habilidades fascinantes para derrotares os teus adversários e ganhares!"
 
-"dissappearsafter10soflanding": "Desaparece depois de &e&l10s &7vezes jogadas."
+"Dissappears after §e§l10s §7of landing": "Desaparece depois de &e&l10s &7vezes jogadas."
 
-"doubleemeralds": "Esmeraldas Duplas"
+"Double Emeralds": "Esmeraldas Duplas"
 
-"doublejumpmodifier": "Modificação de Salto duplo"
+"Double Jump Modifier": "Modificação de Salto duplo"
 
-"doublemelonsperk": "Perk de Melões duplos"
+"Double Melons Perk": "Perk de Melões duplos"
 
-"emeraldstotalearned": "Total de esmeraldas obtidas"
+"Emeralds total earned": "Total de esmeraldas obtidas"
 
-"emeralds": "Esmeraldas"
+"Emeralds": "Esmeraldas"
 
-"emerald": "Esmeralda"
+"Emerald": "Esmeralda"
 
-"enchanteddiamondcannon": "&b&lCanhão de Diamante&b encantado"
+"§bEnchanted §b§lDiamond Cannon": "&b&lCanhão de Diamante&b encantado"
 
-"enchantedsnowballperk": "Perk de Bola de neve Encantada"
+"Enchanted Snowball Perk": "Perk de Bola de neve Encantada"
 
-"enchantedstonecannon": "&7Canhão de Pedra&b Encantado"
+"§bEnchanted §7Stone Cannon": "&7Canhão de Pedra&b Encantado"
 
-"enchantedwoodcannon": "Canhão de Madeira Encantado"
+"Enchanted §aWood Cannon": "Canhão de Madeira Encantado"
 
-"enemyteam": "A EQUIPA ADVERSÁRIA"
+"ENEMY TEAM": "A EQUIPA ADVERSÁRIA"
 
-"everyplayergets3liveseliminateenemyteamtowin": "Todo jogador ganha 3 vidas, elimina a equipe inimiga para ganhar!"
+"Every player gets 3 lives, eliminate enemy team to win": "Todo jogador ganha 3 vidas, elimina a equipe inimiga para ganhar!"
 
-"everyplayergets3liveseliminateotherplayerstowin": "Todo jogador ganha 3 vidas, elimine os outros jogadores para ganhar!"
+"Every player gets 3 lives, eliminate other players to win": "Todo jogador ganha 3 vidas, elimine os outros jogadores para ganhar!"
 
-"experiencebonusperk": "Perk de Bonus de Experiencia"
+"Experience Bonus Perk": "Perk de Bonus de Experiencia"
 
-"explodeyourwaytootherplayersandexplodethem": "Exploda para o seu lado e expluda os jogadores lá!"
+"Explode your way to other players and explode them!": "Exploda para o seu lado e expluda os jogadores lá!"
 
-"exploringthevoidmayrevealmysterioussecrets": "Explora o void e podes descubrir segredos misteriosos!"
+"Exploring the void may reveal mysterious secrets!": "Explora o void e podes descubrir segredos misteriosos!"
 
-"explosionradius": "Raio de explosão"
+"Explosion Radius": "Raio de explosão"
 
-"fallingblocksanimation": "Animação Blocos Caindo"
+"Falling Blocks Animation": "Animação Blocos Caindo"
 
-"fastsnowballsmodifier": "Modificação de Bolas de Neve Rápidas"
+"Fast Snowballs Modifier": "Modificação de Bolas de Neve Rápidas"
 
-"feelfreetoinviteotherplayersbyusingthechat": "Sinta-se á vontade para convidar jogadores pelo chat!"
+"Feel free to invite other players by using the chat": "Sinta-se á vontade para convidar jogadores pelo chat!"
 
-"finalkills": "Abates Finais"
+"Final Kills": "Abates Finais"
 
-"flamethrower": "Lança-Chamas"
+"Flamethrower": "Lança-Chamas"
 
-"free": "Gratis!"
+"Free!": "Gratis!"
 
-"friendcommands": "   &2&l--=-= &a&lComandos de Amigo &2&l=-=--"
+"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lComandos de Amigo &2&l=-=--"
 
-"friendlysurvivalwithtechandmagicexploremanydimensionsgrowbeautifultreesandmore": "Survival mágico e tecnológico! Explora várias dimensões!"
+"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Survival mágico e tecnológico! Explora várias dimensões!"
 
-"gameendedinadraw": "JOGO ACABOU EM UM EMPATE"
+"GAME ENDED IN A DRAW": "JOGO ACABOU EM UM EMPATE"
 
-"gameend": "FIM DE JOGO"
+"GAME END": "FIM DE JOGO"
 
-"gamehasstarted": "Jogo iniciou!"
+"Game has started!": "Jogo iniciou!"
 
-"gameisstarting": "Jogo está a iniciar"
+"Game is starting": "Jogo está a iniciar"
 
-"gamestartsin1seconds": "Jogo inicia em &e&l$1$ &esegundos"
+"Game starts in §e§l$1$ §eseconds": "Jogo inicia em &e&l$1$ &esegundos"
 
-"gamestartsin": "Jogo começa em"
+"Game starts in": "Jogo começa em"
 
-"gamestatistics": "Estatisticas do Jogo"
+"Game Statistics": "Estatisticas do Jogo"
 
-"gametime": "Tempo do jogo"
+"Game time": "Tempo do jogo"
 
-"gamewillendin1minutes": "Jogo acabará em &e&l$1$ &eminutos."
+"Game will end in §e§l$1$ §eminutes": "Jogo acabará em &e&l$1$ &eminutos."
 
-"gamewillendin1minute": "Jogo acabará em &e&l$1$ &eminuto."
+"Game will end in §e§l$1$ §eminute": "Jogo acabará em &e&l$1$ &eminuto."
 
-"gamewillstartin1seconds": "&eJogo inicia em &e&l$1$ &esegundos"
+"§eGame will start in §e§l$1$ §eseconds": "&eJogo inicia em &e&l$1$ &esegundos"
 
-"gamewillstartin1second": "&eJogo inicia em &e&l$1$ &esegundo"
+"§eGame will start in §e§l$1$ §esecond": "&eJogo inicia em &e&l$1$ &esegundo"
 
-"gatherresourcesprepareforfightprotectyourcrystaloflifeattackothercrystalsandwinthegame": "Obtem recursos, prepara para a batalha, defende o teu Cristal da Vida e ataca o Cristal de outras ilhas!"
+"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Obtem recursos, prepara para a batalha, defende o teu Cristal da Vida e ataca o Cristal de outras ilhas!"
 
-"gravityhasnoeffectonblocksheresoyoucanbuildinthesky": "Gravidade não tem efeito nos blocos aqui, então podes construir no céu!"
+"Gravity has no effect on blocks here, so you can build in the sky!": "Gravidade não tem efeito nos blocos aqui, então podes construir no céu!"
 
-"groupcommands": "   &2&l   --=-= &a&lComandos de Grupo &2&l=-=--"
+"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lComandos de Grupo &2&l=-=--"
 
-"havefun": "Divirta-se!"
+"Have fun!": "Divirta-se!"
 
-"health": "Vida"
+"Health": "Vida"
 
-"hereyoucanfindgameswhichcanbeplayedbothaloneandwithfriends": "Aqui encontras jogos que podem ser jogados sozinho e com amigos!"
+"Here you can find games which can be played both alone and with friends!": "Aqui encontras jogos que podem ser jogados sozinho e com amigos!"
 
-"hereyoucanfindgameswhichcanbeplayedonlywithfriends": "Aqui encontras jogos apenas jogáveis com amigos!"
+"Here you can find games which can be played only with friends!": "Aqui encontras jogos apenas jogáveis com amigos!"
 
-"hereyoucanfindlittleguiminigamestheseminigamesunlikeothersarentmadebyusitsjustadownloadedpluginbuttheyarestillfun": "Aqui podes entonrar minigames em GUI, feitos por plugins baixados, mas continuam a ser engraçados!"
+? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
+: "Aqui podes entonrar minigames em GUI, feitos por plugins baixados, mas continuam a ser engraçados!"
 
-"hereyoucanusevariousabilitiestoexplodethemapandotherplayers": "Aqui podes usar várias habilidades para explodir o mapa e os jogadores."
+"Here you can use various abilities to explode the map and other players!": "Aqui podes usar várias habilidades para explodir o mapa e os jogadores."
 
-"hitstaken": "Batidas Dadas"
+"Hits Taken": "Batidas Dadas"
 
-"hits": "Batidas"
+"Hits": "Batidas"
 
-"hittolevelupyourstickandknockotherplayersintothevoid": "Bata para subir seu graveto de nivel e jogar os outros jogadores no void!"
+"Hit to level up your stick and knock other players in to the void!": "Bata para subir seu graveto de nivel e jogar os outros jogadores no void!"
 
 "hours": "horas"
 
-"howtoplay": "&b&lComo jogar"
+"§b§lHow To Play": "&b&lComo jogar"
 
-"ifyouwanttogetoutofthespectatormodetype/q": "Para sair do modo &aEspectador &cescreve &e/q"
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "Para sair do modo &aEspectador &cescreve &e/q"
 
-"ifyouwanttoleavethegametype/q": "Se você quiser sair use &e/q&6."
+"If you want to leave the game type §e/q§6": "Se você quiser sair use &e/q&6."
 
-"ifyouwanttospectateotherplayertype/stp<player>": "Para ver outros jogadores escreva &e/stp <jogador>"
+"If you want to spectate other player type §e/stp <player>": "Para ver outros jogadores escreva &e/stp <jogador>"
 
-"immortalityperk": "Perk de Imortalidade"
+"Immortality Perk": "Perk de Imortalidade"
 
-"increasesthechancetoreflectasnowballto100": "Aumenta a chance de refletir uma bola de neve para 100%"
+"Increases the chance to reflect a snowball to 100%": "Aumenta a chance de refletir uma bola de neve para 100%"
 
-"increasesthedamageofsnowballsto10hearts": "Aumenta o Dano da Bola de Neve para 10 corações"
+"Increases the damage of snowballs to 10 hearts": "Aumenta o Dano da Bola de Neve para 10 corações"
 
-"increasesyourspeedby1": "Aumenta a tua velocidade por $1$"
+"Increases your speed by $1$": "Aumenta a tua velocidade por $1$"
 
-"instakillsnowballsmodifier": "Modificação de Bolas de Neve Insta Kill"
+"Instakill Snowballs Modifier": "Modificação de Bolas de Neve Insta Kill"
 
-"invalidcode": "Codigo inválido."
+"Invalid code": "Codigo inválido."
 
-"ironcannon": "&7&lCanhão de Ferro"
+"§7§lIron Cannon": "&7&lCanhão de Ferro"
 
-"itsveryhotinmustafaryougonnaneedtodrinktwiceasmuchwater": "It's very hot in Mustafar, you gonna need to drink twice as much water."
+"It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
 
-"jumps": "Saltos"
+"Jumps": "Saltos"
 
-"killer": "Matador"
+"Killer": "Matador"
 
-"killsanynormalopponentevenwitharmor": "Mata qualquer adversário normal, até mesmo com armadura."
+"Kills any normal opponent, even with armor": "Mata qualquer adversário normal, até mesmo com armadura."
 
-"killstreak": "Killstreak"
+"Killstreak": "Killstreak"
 
-"kills": "Abates"
+"Kills": "Abates"
 
-"king": "Rei"
+"King": "Rei"
 
-"knockotherplayersofftheplatformasyouhitplayersyoudealmoreknockback": "&e&lJogue seus adversários para fora da plataforma. Quanto mais você bater, mais você leva knockback"
+"§e§lKnock other players off the platform":
+    " As you hit players, you deal more knockback": "&e&lJogue seus adversários para fora da plataforma. Quanto mais você bater, mais você leva knockback"
 
-"level": "Nivel"
+"Level": "Nivel"
 
-"listofgames": "Lista de Jogos"
+"List of Games": "Lista de Jogos"
 
-"lives": "Vidas"
+"Lives": "Vidas"
 
-"lootchestsfightotherplayersfindrandomlygeneratedlootwithinterestingabilitiesandthrowmobeggslikepokeballs": "Abra baús, lute contra outros jogadores, encontre itens alterórios com habilidades interessantes e use pokeballs"
+? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
+: "Abra baús, lute contra outros jogadores, encontre itens alterórios com habilidades interessantes e use pokeballs"
 
-"lootrandomlygeneratedchestswithuniqueitemsusethemtoeliminateyourenemiesbetheonlysurvivortowin": "&e&lPegue Baús aleterórios com itens únicos. Use-os para derrotar seus adversários. Seja o unico sobrevivente para vencer."
+"§e§lLoot randomly generated chests with unique items":
+    " Use them to eliminate your enemies":
+        " Be the only survivor to win": "&e&lPegue Baús aleterórios com itens únicos. Use-os para derrotar seus adversários. Seja o unico sobrevivente para vencer."
 
-"losses": "Derrotas"
+"Losses": "Derrotas"
 
-"makesallofyoursnowballsburn": "Faz todas as tuas bolas de neve queimar."
+"Makes all of your snowballs burn": "Faz todas as tuas bolas de neve queimar."
 
-"makesyoursnowballssuperfast": "Faz as suas bolas de neve super rápidas!"
+"Makes your snowballs super fast": "Faz as suas bolas de neve super rápidas!"
 
-"maxlevelreached": "Nivel máximo antigido"
+"Max level reached": "Nivel máximo antigido"
 
-"maxlevel": "NIVEL MAXIMO:"
+"MAX LEVEL:": "NIVEL MAXIMO:"
 
-"melonsearned": "Melões ganhados"
+"Melons earned": "Melões ganhados"
 
-"melonsspent": "Melões investidos"
+"Melons spent": "Melões investidos"
 
-"melons": "Melões"
+"Melons": "Melões"
 
-"melon": "Melão"
+"Melon": "Melão"
 
-"mineoresupgradepickaxesbuyawesomeupgradesandunlocknewcaves": "Mine, melhore sua picareta, compre ótimas melhorias e desbloqueie novas caves!"
+"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Mine, melhore sua picareta, compre ótimas melhorias e desbloqueie novas caves!"
 
 "minutes": "minutos"
 
-"mode": "Modo"
+"Mode": "Modo"
 
-"movetimeleft": "Tempo de movimentação"
+"Move time left": "Tempo de movimentação"
 
-"mustbeatlowerfloor": "Você deve estár em um andar mais baixo!"
+"Must be at lower floor": "Você deve estár em um andar mais baixo!"
 
-"mustnothaveanysuperjumps": "Não deverá ter Super Saltos"
+"Must not have any Super Jumps": "Não deverá ter Super Saltos"
 
-"newrating": "Nova avaliação"
+"New Rating": "Nova avaliação"
 
-"newrecord": "NOVO RECORDE!"
+"NEW RECORD!": "NOVO RECORDE!"
 
-"new": "NOVO!"
+"NEW!": "NOVO!"
 
-"nextsuperjumpin": "Proximo super salto em"
+"Next Super Jump In": "Proximo super salto em"
 
-"next": "Próximo"
+"Next": "Próximo"
 
-"night": "Noite"
+"Night": "Noite"
 
-"nocompassmodifier": "Modificador sem Bússula"
+"No Compass Modifier": "Modificador sem Bússula"
 
-"notenoughmelons": "Melões insuficientes"
+"Not enough melons!": "Melões insuficientes"
 
-"note": "Nota:"
+"Note:": "Nota:"
 
-"nowblockswillstartbreakingwhenyousteponthem": "Agora os blocos vão começar a quebrar quando você pisar eles!"
+"Now blocks will start breaking when you step on them!": "Agora os blocos vão começar a quebrar quando você pisar eles!"
 
-"oldrecord": "Recorde Antigo"
+"Old Record": "Recorde Antigo"
 
-"parkourcourse": "Parkour"
+"Parkour Course": "Parkour"
 
-"participateinamassivesnowballfightandusepowerupstoeaseyourexistencedelayingsnowballsallowstothrowthemfurther": "&e&lParticipe numa derradeira luta de bolas de neve e use Power UPS para marcar a sua existência! Bolas de neve com delay faz com que eles caiam mais rapido."
+? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
+: "&e&lParticipe numa derradeira luta de bolas de neve e use Power UPS para marcar a sua existência! Bolas de neve com delay faz com que eles caiam mais rapido."
 
-"partycommands": "   &2&l   --=-= &a&lComandos de Party &2&l=-=--"
+"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lComandos de Party &2&l=-=--"
 
-"partyinvitefrom1hasexpired": "O convite de $1$ &ehas expirou."
+"Party invite from $1$ §ehas expired": "O convite de $1$ &ehas expirou."
 
-"partyleader": "Líder da Party"
+"Party Leader": "Líder da Party"
 
-"partymembers": "Membros da Party"
+"Party Members": "Membros da Party"
 
-"partyof1isnotopenforpublicjoin": "A party de &a$1$ &cé privada"
+"Party of §a$1$ §cis not open for public join": "A party de &a$1$ &cé privada"
 
-"placebombsandexplodeblocksarounditinashapeusepowerupstotakeadvantageoveropponents": "&e&lMeta bombas em blocos para os explodir. Use powerups para ter vantagens sobre os seus adversários."
+"§e§lPlace bombs and explode blocks around it in a + shape":
+    " Use powerups to take advantage over opponents": "&e&lMeta bombas em blocos para os explodir. Use powerups para ter vantagens sobre os seus adversários."
 
-"playercommands": "   &2&l   --=-= &a&lComandos de Jogadores &2&l=-=--"
+"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "   &2&l   --=-= &a&lComandos de Jogadores &2&l=-=--"
 
-"playerdied1timesinarowwithoutkills": "Jogador morreu $1$ vezes seguidas sem abates"
+"Player died $1$ times in a row without kills": "Jogador morreu $1$ vezes seguidas sem abates"
 
-"playeriswaiting": "Jogador está esperando"
+"Player is waiting": "Jogador está esperando"
 
-"playernotfound": "Jogador não encontrado."
+"Player not found": "Jogador não encontrado."
 
-"playersarewaiting": "Jogadores vendo"
+"Players are waiting": "Jogadores vendo"
 
-"playersin": "Jogadores aqui"
+"Players in": "Jogadores aqui"
 
-"playersleft": "Jogadores restantes"
+"Players left": "Jogadores restantes"
 
-"playerswaiting": "Jogadores esperando"
+"Players Waiting": "Jogadores esperando"
 
-"players": "Jogadores"
+"Players": "Jogadores"
 
-"playerwason1killstreak": "Jogador tinha um killstreak de $1$"
+"Player was on $1$ killstreak": "Jogador tinha um killstreak de $1$"
 
-"playvariousclasseswithdifferentabilitiesanduseyourbowskillstowininmanydifferentmodes": "Jogue com várias classes com habilidades diferentes e use o seu arco para mostrar suas habilidades!"
+"Play various classes with different abilities and use your bow skills to win in many different modes!": "Jogue com várias classes com habilidades diferentes e use o seu arco para mostrar suas habilidades!"
 
-"pleaseratethismapbyclicking": "Selecione a sua avaliação:"
+"Please rate this map by clicking:": "Selecione a sua avaliação:"
 
-"pleasespecifygroupname": "Por favor especifique o nome do grupo!"
+"Please specify group name!": "Por favor especifique o nome do grupo!"
 
-"pleasespecifyplayername": "Especifique o nome do jogador!"
+"Please specify player name!": "Especifique o nome do jogador!"
 
-"plotname": "Nome do Plot"
+"Plot Name": "Nome do Plot"
 
-"plotowner": "Dono do Plot"
+"Plot Owner": "Dono do Plot"
 
-"points": "Pontos"
+"Points": "Pontos"
 
-"powerups": "Powerups"
+"Powerups": "Powerups"
 
-"price": "Preço:"
+"Price:": "Preço:"
 
-"quicklytestyourskillbyfightingotherplayerswithahugevarietyofmodifiers": "Teste a sua habilidade rapidamente batalhando com outros jogadores com uma grnade variedade de modificações!"
+"Quickly test your skill by fighting other players with a huge variety of modifiers!": "Teste a sua habilidade rapidamente batalhando com outros jogadores com uma grnade variedade de modificações!"
 
-"radarbreaker": "Radar"
+"Radar Breaker": "Radar"
 
-"rainisabletorefillwatersources": "A chuva é capaz de te dar água."
+"Rain is able to refill water sources": "A chuva é capaz de te dar água."
 
-"rapidfirepoweruphasspawnedatmiddleofthemap": "&6&lRapid Fire &bpowerup spawnou no meio do mapa!"
+"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "&6&lRapid Fire &bpowerup spawnou no meio do mapa!"
 
-"rating": "Classificação"
+"Rating": "Classificação"
 
-"reflectionperk": "Perk de Reflecção"
+"Reflection Perk": "Perk de Reflecção"
 
-"reflectsasnowballreducingdamagetakenby1": "Reflete uma bola de neve, reduzindo o dano por $1$."
+"Reflects a snowball, reducing damage taken by $1$": "Reflete uma bola de neve, reduzindo o dano por $1$."
 
-"reflectsnowballsmodifier": "Modificação de Reflecção de Bolas de Neve"
+"Reflect Snowballs Modifier": "Modificação de Reflecção de Bolas de Neve"
 
-"regeneratesyourhealth1": "Regenera a tua vida $1$"
+"Regenerates your health $1$": "Regenera a tua vida $1$"
 
-"regeneration": "Regeneração"
+"Regeneration": "Regeneração"
 
-"removescompassfromthegame": "Remove a Búsulla do Jogo"
+"Removes compass from the game": "Remove a Búsulla do Jogo"
 
-"resources": "Recursos"
+"Resources": "Recursos"
 
-"respawningin": "Renascendo em"
+"Respawning in": "Renascendo em"
 
-"serverrulescanbereadin/rulesmakesuretofollowthem": "Pode ler as regras com o comando &a/rules&e, certfefique-se que as segue!"
+"Server rules can be read in §a/rules§e, make sure to follow them!": "Pode ler as regras com o comando &a/rules&e, certfefique-se que as segue!"
 
-"shootchickensandgetthemostkillstowinbewarefilthyzombiesandcreepers": "&e&lDispara galinhas e obtem o maior numero de kills para vencer! Aviso: 50 zombies e creepers!"
+"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&lDispara galinhas e obtem o maior numero de kills para vencer! Aviso: 50 zombies e creepers!"
 
-"shootchickensasfastasyoucan": "Jogue galinhas quão rápido puder!"
+"Shoot chickens as fast as you can!": "Jogue galinhas quão rápido puder!"
 
-"shoototherplayerswithsnowballsbuypowerupswithmelonsandplayinmanydifferentmodes": "Jogue bolas de neve nos jogadores, use Power UPS e veja outros modos de jogo!"
+"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "Jogue bolas de neve nos jogadores, use Power UPS e veja outros modos de jogo!"
 
-"shoottntwithyourcannonandknockopponentstothevoidorexplodethemsaveyourselffromhazardsusingsuperjumpssneak": "&e&lAtire TNT com o seu canhão para jogar os seus adversários no void. Save-se a si mesmo. usando Super Saltos. [Shift]"
+"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
+    " Save yourself from hazards using Super Jumps":
+        " [Sneak]": "&e&lAtire TNT com o seu canhão para jogar os seus adversários no void. Save-se a si mesmo. usando Super Saltos. [Shift]"
 
-"slowballs": "Bolas de Neve Lentas"
+"Slowballs": "Bolas de Neve Lentas"
 
-"slownessionhit": "Lentidão I ao bater"
+"Slowness I on hit": "Lentidão I ao bater"
 
-"slownessperk": "Perk de lentidão"
+"Slowness Perk": "Perk de lentidão"
 
-"sneaktouse": "Shift para usar"
+"Sneak to use": "Shift para usar"
 
-"snowballaccuracy": "Acrobacia de Bolas de Neve"
+"Snowball Accuracy": "Acrobacia de Bolas de Neve"
 
-"snowballsfired": "Snowballs mandadas"
+"Snowballs fired": "Snowballs mandadas"
 
-"snowmanperk": "Perk de homem de neve"
+"Snowman Perk": "Perk de homem de neve"
 
-"snowman": "Boneco de Neve"
+"Snowman": "Boneco de Neve"
 
-"sortsteamsbasedonkillscountforfairness": "Apresentão as equipas com bases nos Abates."
+"Sorts teams based on kills count for fairness": "Apresentão as equipas com bases nos Abates."
 
-"spawnpointswitch": "Spawnpoint Switch"
+"Spawnpoint Switch": "Spawnpoint Switch"
 
-"speed": "Velocidade"
+"Speed": "Velocidade"
 
-"spleeftntspleentexplodeotherplayersintothevoid": "Spleef + TNT = Spleent! Exploda outros jogadores no void!"
+"Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent! Exploda outros jogadores no void!"
 
-"statistics": "Estatisticas"
+"Statistics": "Estatisticas"
 
-"stonecannon": "&7Canhão de Pedra"
+"§7Stone Cannon": "&7Canhão de Pedra"
 
-"succesfullysentpartyinviteto1": "Você mandou um pedido a: $1$!"
+"Succesfully sent party invite to $1$!": "Você mandou um pedido a: $1$!"
 
-"superjumps": "Super saltos"
+"Super Jumps": "Super saltos"
 
-"superjump": "Super Salto"
+"Super Jump": "Super Salto"
 
-"survivalbasedonoldminecraftversionsbetweenalpha12andbeta173warningnostalgiaisacertainty": "Survival based on old Minecraft versions between alpha 1.2 and beta 1.7.3.||&cAVISO: &7VAI TER NOSTALGIA."
+"Survival based on old Minecraft versions between alpha 1":
+    "2 and beta 1":
+        "7":
+            "3":
+                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Survival based on old Minecraft versions between alpha 1.2 and beta 1.7.3.||&cAVISO: &7VAI TER NOSTALGIA."
 
-"survivalrules": "Regras de Survival"
+"Survival Rules": "Regras de Survival"
 
-"team": "Equipe"
+"Team": "Equipe"
 
-"thankyouforratingthismap": "Obrigado pela tua avaliação!"
+"Thank you for rating this map": "Obrigado pela tua avaliação!"
 
-"theknockbackstick": "O pau com knockback"
+"The Knockback Stick": "O pau com knockback"
 
-"therearemanyspecialrecipescheckthemoutin/recipes": "Á bastantes receitas especiais! Vê-las em: &e/recipes&r"
+"There are many special recipes! Check them out in: §e/recipes§r": "Á bastantes receitas especiais! Vê-las em: &e/recipes&r"
 
-"thereisacustomprogramminglanguagemadeforcreativeworldwithityoucancreatesimplefeaturesforyourplot1": "Aqui temos uma linguagem de programação customizada para o  Creative World, com ela podes criar coisas simples para o teu terreno! $1$"
+"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "Aqui temos uma linguagem de programação customizada para o  Creative World, com ela podes criar coisas simples para o teu terreno! $1$"
 
-"thisgamecanbeplayedalone": "&aEste jogo pode ser jogado &e&lsozinho&a."
+"§aThis game can be played §e§lalone§a": "&aEste jogo pode ser jogado &e&lsozinho&a."
 
-"thisgamecanbeplayedwith2players": "Este jogo só pode ser jogado com &e&l2&a&l+ &ajogadores."
+"This game can be played with §e§l2§a§l+ §aplayers": "Este jogo só pode ser jogado com &e&l2&a&l+ &ajogadores."
 
-"thisgamecanbeplayedwithonly2players": "Este jogo só pode ser jogado com &e&l2 &ajogadores."
+"This game can be played with only §e§l2 §aplayers": "Este jogo só pode ser jogado com &e&l2 &ajogadores."
 
-"thisgameisstartingearlyyouwillnotearnemeraldsandyourstatsachievementswontcountifitstartswithlessthan1players": "Esta partida tem poucos jogadores. Ninguém ganhará conquistas ou esmeraldas, já que o jogo está a iniciar com menos de &e&l$1$ &6jogadores."
+? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+: "Esta partida tem poucos jogadores. Ninguém ganhará conquistas ou esmeraldas, já que o jogo está a iniciar com menos de &e&l$1$ &6jogadores."
 
-"thispowerupisalreadyactive": "Esse power-up já está ativo!"
+"This power-up is already active!": "Esse power-up já está ativo!"
 
-"thisroundof1v1didnotmeettherequirementsforwinrewardsandratingchanges": "Esta ronda de 1v1 não teve os requisitos minimos para recopensas & avaliações."
+"This round of 1v1 did not meet the requirements for win rewards and rating changes": "Esta ronda de 1v1 não teve os requisitos minimos para recopensas & avaliações."
 
-"throwablecobweb": "Throwable Teia de Aranha"
+"Throwable Cobweb": "Throwable Teia de Aranha"
 
-"timeelapsed": "Time elapsed"
+"Time elapsed": "Time elapsed"
 
-"timesincelastupdate": "Ultima atualização"
+"Time since last update": "Ultima atualização"
 
-"totalplaytime": "Tempo jogado"
+"Total play time": "Tempo jogado"
 
-"troopsalive": "Tropas vivas"
+"Troops alive": "Tropas vivas"
 
-"troopskilled": "Tropar matadas"
+"Troops killed": "Tropar matadas"
 
-"troopslost": "Tropas perdidas"
+"Troops lost": "Tropas perdidas"
 
-"troops": "Tropas"
+"Troops": "Tropas"
 
-"turnsyoursnowballsintoslowballs": "Converta suas bolas de neve para bolas de neve lentas."
+"Turns your snowballs into slowballs": "Converta suas bolas de neve para bolas de neve lentas."
 
-"turn": "Olhar"
+"Turn": "Olhar"
 
-"unlocked": "DESBLOQUEADO"
+"UNLOCKED": "DESBLOQUEADO"
 
-"use/agree1toagreewithsurvivalrules": "Use /agree $1$  para aceitar as regras."
+"Use /agree $1$  to agree with survival rules": "Use /agree $1$  para aceitar as regras."
 
-"usef5highfovtogetabetterviewofthegamefield": "Use F5 + FOV: QUAKE PRO para uma melhor experiência!"
+"Use F5 + high FOV to get a better view of the game field!": "Use F5 + FOV: QUAKE PRO para uma melhor experiência!"
 
-"utilisepreparationtimegiventogatherasmuchresourcesaspossibledefendyourcrystaloflifeandfightyourwaytovictory": "&e&lUtilize tempo de preparação para obter recursos e proteger o Cristal da Vida e fazer o seu caminho para a vitória."
+? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
+: "&e&lUtilize tempo de preparação para obter recursos e proteger o Cristal da Vida e fazer o seu caminho para a vitória."
 
-"victory": "VITÓRIA"
+"VICTORY": "VITÓRIA"
 
-"votes": "Votos:"
+"Votes:": "Votos:"
 
-"vote": "[VOTAR]"
+"[VOTE]": "[VOTAR]"
 
-"waitingplayers": "Jogadores aguardando"
+"Waiting Players": "Jogadores aguardando"
 
-"waitingqueuestatus": "Status da Fila"
+"Waiting Queue Status": "Status da Fila"
 
-"warped1partymemberstoyourlocation": "Teleportado &e&l$1$ &emembros da party até a sua localização!"
+"Warped §e§l$1$ §eparty members to your location!": "Teleportado &e&l$1$ &emembros da party até a sua localização!"
 
-"waterisfiniteheresoyouaregoingtoneedtobuildfarmsclosetobigsourcesofwater": "Água é finita aqui, então vais precisar de construir grandes fazendas para teres água"
+"Water is finite here, so you are going to need to build farms close to big sources of water": "Água é finita aqui, então vais precisar de construir grandes fazendas para teres água"
 
-"winspercentage": "Percetagem de Vitorias"
+"Wins Percentage": "Percetagem de Vitorias"
 
-"wins": "Vitorias"
+"Wins": "Vitorias"
 
-"woodcannon": "Canhão de Madeira"
+"Wood Cannon": "Canhão de Madeira"
 
-"youalreadyhavevotedforamap": "Você já votou em um mapa!"
+"You already have voted for a map!": "Você já votou em um mapa!"
 
-"youarealreadyinapartyof1": "Você já está na party de &a$1$&c!"
+"You are already in a party of §a$1$§c!": "Você já está na party de &a$1$&c!"
 
-"youarealreadyon1team": "Você já partence á equipe $1$&c!"
+"You are already on $1$ §cteam!": "Você já partence á equipe $1$&c!"
 
-"youareleaderofapartyuse/partydisbandtobeabletodothis": "És o líder da party, usa &e/party disband &cpara fazeres isto."
+"You are leader of a party, use §e/party disband §cto be able to do this": "És o líder da party, usa &e/party disband &cpara fazeres isto."
 
-"youarenowamemberof1team": "Você não é um membro da equipe de $1$&e!"
+"You are now a member of $1$ §eteam!": "Você não é um membro da equipe de $1$&e!"
 
-"youarenowjuggernaut": "Você é o Juggernaut!"
+"You are now Juggernaut!": "Você é o Juggernaut!"
 
-"youarentinaparty": "Você não está em uma party"
+"You aren't in a party!": "Você não está em uma party"
 
-"youarenttheleaderoftheparty": "Você não é o Líder da Party!"
+"You aren't the leader of the party!": "Você não é o Líder da Party!"
 
-"youcanchatonlyonceevery15second": "Apenas podes falar a cada 1.5 segundos!"
+"You can chat only once every 1":
+    "5 second!": "Apenas podes falar a cada 1.5 segundos!"
 
-"youcandiefromcoldduringnightinhothifyoudonothaveleatherarmor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
+"You can die from cold during night in §bHoth§r if you do not have leather armor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
 
-"youcanfindfriendlysurvivalwikiin1": "Podes encontrar a Wiki do Friendly Survival em: $1$"
+"You can find Friendly Survival wiki in: $1$": "Podes encontrar a Wiki do Friendly Survival em: $1$"
 
-"youcanlockyourcontainersanddoorswithsignsifyouwanttoprotectlandyoucanjoinagrouporcreateone": "Tu podes proteger as tuas portas e contentores com tabuletas, mas para proteger o chão terás que criar ou juntar-te a um grupo."
+"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "Tu podes proteger as tuas portas e contentores com tabuletas, mas para proteger o chão terás que criar ou juntar-te a um grupo."
 
-"youcannothavemorethanonesnowmanininventoryatthesametime": "Você não pode ter mais do que um &fBoneco de neve &cno seu inventário ao mesmo tempo."
+"You cannot have more than one §fSnowman §cin inventory at the same time": "Você não pode ter mais do que um &fBoneco de neve &cno seu inventário ao mesmo tempo."
 
-"youcannotpartywarpintothisgame": "You cannot party warp into this game!"
+"You cannot party warp into this game!": "You cannot party warp into this game!"
 
-"youcanonlybuythisingame": "Apenas podes comprar isso no jogo!"
+"You can only buy this in-game!": "Apenas podes comprar isso no jogo!"
 
-"youcanonlyvotewhentheresenoughplayerstostartthegame": "Apenas podes votar quando existirem jogadores suficientes para o jogo iniciar!"
+"You can only vote when there's enough players to start the game": "Apenas podes votar quando existirem jogadores suficientes para o jogo iniciar!"
 
-"youcansendcarepackagestosupportaliveplayerswith/carepackage<player>": "Você pode enviar pacotes de primeiros socorros para ajudar jogadores com &e&l/carepackage <jogador>"
+"You can send care packages to support alive players with §e§l/carepackage <player>": "Você pode enviar pacotes de primeiros socorros para ajudar jogadores com &e&l/carepackage <jogador>"
 
-"youcantoggledisplayoftheanimationofftoreduceyourfpslag": "Podes desligar a animação para reduzir o lag!"
+"You can toggle display of the animation off to reduce your FPS lag!": "Podes desligar a animação para reduzir o lag!"
 
-"youcanusedimensionalwarptowarptomanybeautifulandinterestingdimensions": "Tu podes usar &5Warp Dimensional&r para ires a dimensões maravilhosas."
+"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "Tu podes usar &5Warp Dimensional&r para ires a dimensões maravilhosas."
 
-"youcouldnotbewarpedtoyourpartyleaderslocationbecauseyouareinagameuse/qtoleave": "Tu não foi teleportado para a localização do líder da sua party porque estás em um jogo!"
+"You could not be warped to your party leader's location, because you are in a game":
+    " Use §e/q §cto leave": "Tu não foi teleportado para a localização do líder da sua party porque estás em um jogo!"
 
-"youdonated1snowballto1": "Você doou &e&l1 &fBola de neve &epara &a$1$&e!"
+"You donated §e§l1 §fSnowball §eto §a$1$§e!": "Você doou &e&l1 &fBola de neve &epara &a$1$&e!"
 
-"youdonothaveenoughemeralds": "Você não tem &aEsmeraldas&c suficientes!"
+"You do not have enough §aEmeralds§c!": "Você não tem &aEsmeraldas&c suficientes!"
 
-"youdonothaveenoughmelons": "Você não tem melões suficientes!"
+"You do not have enough melons!": "Você não tem melões suficientes!"
 
-"yougetpointsforflagcapturesyourteamneedstoreachtheneededamountofpointstowin": "Você ganha pontos por capturar bandeiras. Chegue a uma quantia de pontos para vencer!"
+"You get points for flag captures, your team needs to reach the needed amount of points to win": "Você ganha pontos por capturar bandeiras. Chegue a uma quantia de pontos para vencer!"
 
-? "yougetpointsforkillsoneplayerischosentobejuggernautandthenalltheplayersareagainstthemifyoukillthejuggernautyouwillbecomethejuggernautyouneedtoreachtheneededamountofpointstowin"
-: "Você ganha pontos por Abates, um jogador é escolhido para Juggernaut. Todo munto está contra ele se você matar o Juggernaut - você vira o juggernaut. Precisa de chegar a uma quantia de pontos para vencher"
+? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
+:   " You need to reach the needed amount of points to win": "Você ganha pontos por Abates, um jogador é escolhido para Juggernaut. Todo munto está contra ele se você matar o Juggernaut - você vira o juggernaut. Precisa de chegar a uma quantia de pontos para vencher"
 
-"yougetpointsforkillsyouneedtoreachtheneededamountofpointstowin": "Você ganha pontos por Kills, precisa chegar a uma quantia para vencer!"
+"You get points for kills, you need to reach the needed amount of points to win": "Você ganha pontos por Kills, precisa chegar a uma quantia para vencer!"
 
-"yougetpointsforkillsyourteamneedstoreachtheneededamountofpointstowin": "Ganha-se pontos por Abates, e a sua equipe precisa ter uma quantia de pontos para vencer."
+"You get points for kills, your team needs to reach the needed amount of points to win": "Ganha-se pontos por Abates, e a sua equipe precisa ter uma quantia de pontos para vencer."
 
-"yougotaenchantedsnowballfromyourkill": "Você pegou uma &lBola de neve Encantada &bdo seu abate!"
+"You got a §lEnchanted Snowball §bfrom your kill!": "Você pegou uma &lBola de neve Encantada &bdo seu abate!"
 
-"youhaveagreedwiththesurvivalrulesfollowthemandeverythingwillbeokay": "Você concordou com as regras de survival. Siga-as e tudo ficará bem!"
+"You have agreed with the survival rules, follow them and everything will be okay!": "Você concordou com as regras de survival. Siga-as e tudo ficará bem!"
 
-"youhavealreadyinvited1intoyourparty": "Você já convidou $1$ &cna sua party!"
+"You have already invited $1$ §cinto your party!": "Você já convidou $1$ &cna sua party!"
 
-"youhavealreadyvotedforamapinthisgametodaysupporttheserverbybuyingvipifyouwanttovoteunlimitedamountoftimesperday": "Você já votou em um mapa hoje, ajude o servidor comprando &a&lVIP &cse quiser ter votos ilimitados!"
+? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+: "Você já votou em um mapa hoje, ajude o servidor comprando &a&lVIP &cse quiser ter votos ilimitados!"
 
-"youhavealreadyvotedforamode": "Já votaste em um modo!"
+"You have already voted for a mode!": "Já votaste em um modo!"
 
-"youhavealreadyvotedforthismodifier": "Já votaste nesta modificação!"
+"You have already voted for this modifier!": "Já votaste nesta modificação!"
 
-"youhavefastasyncworldeditfastasyncvoxelsnipergobrushandgopaintbuildingtools": "Tu tens FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint como ferramentas de construção!"
+"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "Tu tens FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint como ferramentas de construção!"
 
-"youhavejoinedpartyof1": "Você entrou na party de &a$1$&e!"
+"You have joined party of §a$1$§e!": "Você entrou na party de &a$1$&e!"
 
-"youhaveleftpartyof1": "Você saiu da party de &a$1$&e!"
+"You have left party of §a$1$§e!": "Você saiu da party de &a$1$&e!"
 
-"youhavepurchased1": "Compras-te $1$&6!"
+"You have purchased $1$§6!": "Compras-te $1$&6!"
 
-"youhavereachedthelimitof1powerupspermatch": "Você chegou ao limite de &e&l$1$ &cpowerups por partida!"
+"You have reached the limit of §e§l$1$ §cpowerups per match!": "Você chegou ao limite de &e&l$1$ &cpowerups por partida!"
 
-"youhavereachedthelimitofsnowballs": "Você chegou ao limite de bolas de neve!"
+"You have reached the limit of snowballs!": "Você chegou ao limite de bolas de neve!"
 
-"youhavereceivedsnowmanforreachingkillstreakof5": "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
+"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
 
-"youhavereflectedsnowballof1": "Você refletiu a bola de neve de $1$&f!"
+"You have reflected snowball of $1$§f!": "Você refletiu a bola de neve de $1$&f!"
 
-"youhaveremovedyourlastratingofthismap": "Removes-te a tua ultima avaliação desse mapa"
+"You have removed your last rating of this map": "Removes-te a tua ultima avaliação desse mapa"
 
-"youhavetoreadandagreewiththerulesofsurvivaltobeabletobreak/placeblocksuse/survivalrules": "Você tem que ler e concordar com as regras para colocar e quebrar blocos , use &e/survivalrules"
+"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "Você tem que ler e concordar com as regras para colocar e quebrar blocos , use &e/survivalrules"
 
-"youhaveupgraded1to2": "Você melhorou &a$1$ &6para &a$2$&6!"
+"You have upgraded $1$ to $2$!": "Você melhorou &a$1$ &6para &a$2$&6!"
 
-"youhaveupgraded1": "Você melhorou &a$1$&6!"
+"You have upgraded §a$1$§6!": "Você melhorou &a$1$&6!"
 
-"youmustbeleaderofapartytousethis": "Você não é o Líder da Party!"
+"You must be leader of a party to use this!": "Você não é o Líder da Party!"
 
-"yourarmyisunderattack": "Seu exercito está sobre ataque!"
+"Your army is under attack!": "Seu exercito está sobre ataque!"
 
-"youropponentisblindedbyyourperk": "O oponente é cegado com o seu perk!"
+"Your opponent is blinded by your perk!": "O oponente é cegado com o seu perk!"
 
-"youropponentisignitedbyyourperk": "O opnente é inflamado com o seu perk!"
+"Your opponent is ignited by your perk!": "O opnente é inflamado com o seu perk!"
 
-"youropponentisslowedbyyourperk": "O opnente ganha lentidão com o seu perk!"
+"Your opponent is slowed by your perk!": "O opnente ganha lentidão com o seu perk!"
 
-"yourpartyinviteto1hasexpired": "O convite para $1$ &eexpirou"
+"Your party invite to $1$ §ehas expired": "O convite para $1$ &eexpirou"
 
-"yourpartyleaderhaswarpedyoutotheirlocation": "O líder da party puxou-te!"
+"Your party leader has warped you to their location!": "O líder da party puxou-te!"
 
-"yourradarbreakereffectisover": "Your Radar Breaker effect is over!"
+"Your Radar Breaker effect is over!": "Your Radar Breaker effect is over!"
 
-"yoursnowballhit1": "Your snowball hit $1$&f!"
+"Your snowball hit $1$§f!": "Your snowball hit $1$&f!"
 
-"yoursnowballhitboatof1": "Your snowball hit boat of $1$&f!"
+"Your snowball hit boat of $1$§f!": "Your snowball hit boat of $1$&f!"
 
-"yoursnowmanssnowballhit1": "A bola de neve do seu boneco de neve bate $1$&f!"
+"Your snowman's snowball hit $1$§f!": "A bola de neve do seu boneco de neve bate $1$&f!"
 
-"yourteam": "A TUA EQUIPA"
+"YOUR TEAM": "A TUA EQUIPA"
 
-"1kicked2fromtheparty": "$1$ &ekicked $2$ &efrom the party!"
+"$1$ §ekicked $2$ §efrom the party!": "$1$ &ekicked $2$ &efrom the party!"
 
-"youhavealreadyusedthispowerupinthislife": "You have already used this power-up in this life!"
+"You have already used this power-up in this life!": "You have already used this power-up in this life!"
 
-"swearingiscompletelyforbiddeninourserveryouwillgetanautomaticallyissuedpunishmentifyoudo": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
+"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
 
-"1hastransferredpartyleaderto2": "$1$ &ehas transferred party leader to $2$&e!"
+"$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas transferred party leader to $2$&e!"
 
-"1isnotinyourparty": "$1$ &cis not in your party!"
+"$1$ §cis not in your party!": "$1$ &cis not in your party!"
 
-"youcanbuythisitemonlyonceperlife": "You can buy this item only once per life."
+"You can buy this item only once per life": "You can buy this item only once per life."
 
-"youhavegainedextralifefromyourimmortalityperk": "You have gained extra life from your &aImmortality Perk&e!"
+"You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
 
-"rightclicktoactivategamemodifiers": "Right click to activate game modifiers!"
+"Right click to activate game modifiers!": "Right click to activate game modifiers!"
 
-"youhaveloggedin1daysinarowyouwillgethigherrewardsforeverydayloggedinarow": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
 
-"locked": "LOCKED"
+"LOCKED": "LOCKED"
 
-"1hasgainedanextralifefromtheirimmortalityperk": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
 
-"/msgplayersendaprivatemessagetoaplayer": "   /msg <player> &2- &aSend a private message to a player."
+"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
 
-"/statsplayerviewplayersstats": "   /stats <player> &2- &aView player's stats."
+"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
 
-"/joingamelobbynametojoinapublicgamebyacommandorprivategamebyspecifyinglobbyname": "   /join <game> [lobbyname] &2- &aTo join a public game by a command or private game by specifying lobby name."
+? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
 
-"/partyinviteplayertoinviteaplayertoparty": "   /party invite <player> &2- &aTo invite a player to party."
-
-"/partyacceptplayertoacceptanpartyinvite": "   /party accept <player> &2- &aTo accept an party invite."
-
-"/partykickplayertokickaplayerfromyourparty": "   /party kick <player> &2- &aTo kick a player from your party."
-
-"/partytransferplayertotransferpartyleadertoothermember": "   /party transfer <player> &2- &aTo transfer party leader to other member."
-
-"/partyjoinplayertojoinpublicpartyofaplayer": "   /party join <player> &2- &aTo join public party of a player."
-
-"ifyouwanttospectateotherplayertype/stpplayer": "If you want to spectate other player type &e/stp <player>"
-
-"yourpartyisnowopenforpublicjoinotherplayerscando/pjoin1tojoinit": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
-
-"youcansendcarepackagestosupportaliveplayerswith/carepackageplayer": "You can send care packages to support alive players with &e&l/carepackage <player>"
-
-"enchantedironcannon": "&bEnchanted &7&lIron Cannon"
-
-"castlewars1v1govindassurvivalgamesminiskywallsspleentknockoutsnowballcheckersbombermanelementalarchers": "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
-
-? "creativeworldwithalotofusefulfeaturesworldeditvoxelsnipergobrushgopaintahugecollectionofplayerheadsandevenfurnituretoimproveyourbuilds"
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
 : "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
