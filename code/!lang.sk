@@ -71,7 +71,8 @@ function translate(m: text, p: object, variables: strings = "null") :: text:
 		set {langmsg::%{_lang}%::%{_m}%} to {_m}
 		insertlater({_m})
 	
-
+	#useful for knowing when was last time this message was triggered, so we can later remove messages that are never used (possibly were removed from code)
+	set {langmsgusage::%{_m}%} to now
 	#replace $1$, $2$, etc. stuff into proper values (function provides arguments for it)
 	if {_variables::1} is not "null":
 		set {_msg} to {langmsg::%{_lang}%::%{_m}%}
