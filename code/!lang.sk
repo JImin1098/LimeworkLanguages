@@ -77,10 +77,7 @@ function translate(m: text, p: object, variables: strings = "null") :: text:
 	if {_variables::1} is not "null":
 		set {_msg} to {langmsg::%{_lang}%::%{_m}%}
 		loop {_variables::*}:
-			{_msg} contains "$%loop-index%$":
-				replace "$%loop-index%$" with loop-value in {_msg}
-			else:
-				exit loop
+			replace "$%loop-index%$" with loop-value in {_msg}
 		return {_msg}
 				
 	#Translation Mode 1, return the message (MOST USEFUL!)
