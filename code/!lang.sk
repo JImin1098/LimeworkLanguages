@@ -22,7 +22,10 @@ function loadSQLLanguages():
 		loop {_l::%loop-value%::*}:
 			if loop-value-1 is "en":
 				set {_index::%loop-index-2%} to loop-value-2
-			set {langmsg::%loop-value-1%::%{_index::%loop-index-2%}%} to loop-value-2
+			set {-langmsg::%loop-value-1%::%{_index::%loop-index-2%}%} to loop-value-2
+on skript load:
+	if {langmsg::*} is set:
+		delete {langmsg::*}
 on script load:
 	wait a tick
 	loadSQLLanguages()
@@ -66,22 +69,22 @@ function translate(m: text, p: object, variables: strings = "null") :: text:
 	set {_uuid} to {uuid::%{_p}%} if {name::%{_p}%} is not set else {_p}
 		
 	set {_lang} to epic variable "%{_uuid}%::language" ? "EN"
-	if {langmsg::%{_lang}%::%{_m}%} is not set:
+	if {-langmsg::%{_lang}%::%{_m}%} is not set:
 			
-		set {langmsg::%{_lang}%::%{_m}%} to {_m}
+		set {-langmsg::%{_lang}%::%{_m}%} to {_m}
 		insertlater({_m})
 	
 	#useful for knowing when was last time this message was triggered, so we can later remove messages that are never used (possibly were removed from code)
-	set {langmsgusage::%{_m}%} to now
+	set {-langmsgusage::%{_m}%} to now
 	#replace $1$, $2$, etc. stuff into proper values (function provides arguments for it)
 	if {_variables::1} is not "null":
-		set {_msg} to {langmsg::%{_lang}%::%{_m}%}
+		set {_msg} to {-langmsg::%{_lang}%::%{_m}%}
 		loop {_variables::*}:
 			replace "$%loop-index%$" with loop-value in {_msg}
 		return {_msg}
 				
 	#Translation Mode 1, return the message (MOST USEFUL!)
-	return {langmsg::%{_lang}%::%{_m}%}
+	return {-langmsg::%{_lang}%::%{_m}%}
 	
 function getSlotFromLanguage(lang: text) :: number:
 	switch {_lang}:
@@ -158,3 +161,39 @@ on inventory click:
 		set epic variable "%uuid of player%::language" to {_lang}
 		send "&eYou have selected &a%{_lang}% &elanguage!"
 	close inventory of player
+
+on join:
+	{server} is not "gl"
+	epic variable "%uuid of player%::language" is not set:
+
+		set {_lang} to epic variable "%{_uuid}%::language"
+		if {languageslist::%{_lang}%} is not set:
+			set {_default} to "EN"
+		set {_p} to player
+		set {_uuid} to uuid of player
+		
+		if epic variable "%uuid of player%::country" is not set:
+			create section stored in {_section}:
+				set epic variable "%{_uuid}%::country" to country of {_p}
+			run section {_section} async and wait
+
+
+
+		if {forcedenglish::%uuid of player%} is true:
+			epic variable "%uuid of player%::language" is not "EN"
+			set epic variable "%uuid of player%::language" to "EN"
+		else:
+			set {_country} to epic variable "%uuid of player%::country"
+			if {_country} contains "Lithuania":
+				set {_lang} to "LT"
+			else if {_country} contains "Denmark":
+				set {_lang} to "DA"
+			else if {_country} contains "Russia":
+				set {_lang} to "RU"
+			else if {_country} contains "Portugal" or "Brazil":
+				set {_lang} to "PT"
+				
+			{_lang} is not epic variable "%uuid of player%::language":
+				set epic variable "%uuid of player%::language" to {_lang}
+			else if {_default} is set:
+				set epic variable "%uuid of player%::language" to {_default}
