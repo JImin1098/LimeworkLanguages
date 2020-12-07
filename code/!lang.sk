@@ -1,3 +1,7 @@
+#structure of table `languages`
+#`EN` = VARCHAR(333)
+#`RU` = VARCHAR(333)
+#... and so on (for each language)
 function YAMLtoSQL():
 	loop {languageslist::*}:
 		load yaml "plugins/Skript/scripts/languages/Language%loop-value in lowercase%.yml" as "lang%loop-value in lowercase%"
@@ -86,6 +90,22 @@ function translate(m: text, p: object, variables: strings = "null") :: text:
 	#Translation Mode 1, return the message (MOST USEFUL!)
 	return {-langmsg::%{_lang}%::%{_m}%}
 	
+#structure of table `languages_usage`
+#`message` = VARCHAR(333)
+#`lastused` = BIGINT(18)
+function saveLastMessageUsageDate():
+	
+	loop {-langmsgusage::*}:
+		set {_msg} to {-langmsg::en::%loop-index%}
+		unix timestamp of loop-value is higher than unix timestamp of {-lastlanguagesave}
+		execute "INSERT INTO `languages_usage` (`message`, `lastused`) VALUES (%{_msg}%, %unix timestamp of loop-value%) ON DUPLICATE KEY UPDATE `lastused`=VALUES(`lastused`)" in {-sql}
+		if last sql error is set:
+			send last sql error to console and ops
+			stop
+	set {-lastlanguagesave} to now
+every 3 hours:
+	send "Starting a every 3 hours task for saving last used dates of language messages to SQL." to console
+	saveLastMessageUsageDate()
 function getSlotFromLanguage(lang: text) :: number:
 	switch {_lang}:
 		case "EN":
