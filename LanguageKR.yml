@@ -44,7 +44,7 @@
 
 "   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <player> &2- &a플레이어를 파티에서 추방하기."
 
-"   /party leave §2- §aTo leave a party": "   /party leave &2- &aTo leave a party."
+"   /party leave §2- §aTo leave a party": "   /party leave &2- &a파티에서 나가기."
 
 "   /party list §2- §aTo view members of your party list": "   /party list &2- &a파티 멤버 목록 보기."
 
@@ -114,11 +114,11 @@
 
 "$1$ §cis already in your party!": "$1$ &c님은 이미 당신의 파티에 있습니다!"
 
-"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c님은 친구가 아닙니다!  &e/f add $2$ 를 입력하여 $1$&c 를 친구로 추가하세요"
+"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c님은 친구가 아닙니다!  &e/f add $2$ 를 사용하여 $1$&c님을 친구로 추가하세요"
 
 "$1$ §7of players needs to vote to enable": "$1$ &7of players needs to vote to enable"
 
-"$1$ §cteam is full!": "$1$ &c그 팀은 꽉 찼습니다!"
+"$1$ §cteam is full!": "$1$ &c팀은 꽉 찼습니다!"
 
 "[ACCEPT]": "[수락]"
 
@@ -134,7 +134,7 @@
 
 "Are you seriously going into a party with yourself? Invite someone!": "Are you seriously going into a party with yourself? Invite someone!"
 
-"Are you sure you want to leave? Type §e/q §6to confirm": "Are you sure you want to leave? Type &e/q &6to confirm."
+"Are you sure you want to leave? Type §e/q §6to confirm": "정말로 떠나시겠습니까? &6확인을 위해 &e/q 를 사용하세요."
 
 "Armor": "갑옷"
 
@@ -146,7 +146,7 @@
 
 "Arrows left": "남은 화살"
 
-"A snowman which shoots enemies!": "적에게 눈덩이를 던지는 눈사람!"(?)
+"A snowman which shoots enemies!": "적을 맞추는 눈사람!"
 
 "Average Rating:": "평균 평가:"
 
@@ -246,7 +246,7 @@
 
 "Creeper Chance Perk": "크리퍼 찬스 퍼크"
 
-"Crystal": "수정"
+"Crystal": "크리스탈"
 
 "Current": "최근"
 
@@ -256,15 +256,15 @@
 
 "Day": "Day"
 
-"Deaths": "Deaths"
+"Deaths": "죽음"
 
 "DEFEAT": "패배"
 
 "Defend your castle, attack other castles, command your army and become the best commander!": "당신의 성을 지키고, 다른 성을 공격하고, 당신의 군단에게 명령을 내려 가장 좋은 지휘관이 되세요!"
 
-"Destroying other player creations or ruining them in any way is not allowed!": "Destroying other player creations or ruining them in any way is not allowed!"
+"Destroying other player creations or ruining them in any way is not allowed!": "어떤 식으로든 다른 플레이어의 구조물을 파괴하거나 망치는 행위는 허용되지 않습니다!"
 
-"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "구멍을 만들어 아름다운 지형을 파손하고,  1x1 타워를 어떤 식으로든 지어 "
+"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "구멍을 만들어 아름다운 지형을 파손하고, 어떤 식으로든 1x1 타워를 지어 보기 좋지 않게 만드는 행위는 허용되지 않습니다"
 
 "Did you know?": "아셨나요?"
 
@@ -281,17 +281,17 @@
 
 "Emeralds total earned": "총 얻은 에메랄드"
 
-"Emeralds": "에메랄드" (?
+"Emeralds": "에메랄드"
 
 "Emerald": "에메랄드"
 
-"§bEnchanted §b§lDiamond Cannon": "&bEnchanted &b&lDiamond Cannon"
+"§bEnchanted §b§lDiamond Cannon": "&b마법이 부여된 &b&l다이아몬드 대포"
 
-"Enchanted Snowball Perk": "마법부여된 눈덩이 퍼크"
+"Enchanted Snowball Perk": "마법이 부여된 눈덩이 퍼크"
 
-"§bEnchanted §7Stone Cannon": "&bEnchanted &7Stone Cannon"
+"§bEnchanted §7Stone Cannon": "&b마법이 부여된 &7돌 대포"
 
-"Enchanted §aWood Cannon": "Enchanted &aWood Cannon"
+"Enchanted §aWood Cannon": "마법 부여된 &a목재 대포"
 
 "ENEMY TEAM": "상대 팀"
 
@@ -309,7 +309,7 @@
 
 "Falling Blocks Animation": "떨어지는 블록 애니메이션"
 
-"Fast Snowballs Modifier": "Fast Snowballs Modifier"
+"Fast Snowballs Modifier": "빠른 눈덩이 모드"
 
 "Feel free to invite other players by using the chat": "채팅으로 다른 플레이어들을 마음껏 초대하세요"
 
@@ -333,7 +333,7 @@
 
 "Game starts in §e§l$1$ §eseconds": "&e&l$1$ &e초안에 게임이 시작됩니다"
 
-"Game starts in": "Game starts in" (?) <does it mean game starts in a place?>
+"Game starts in": "Game starts in" (?) <does it mean game starts in /a place?>
 
 "Game Statistics": "게임 통계"
 
@@ -347,7 +347,7 @@
 
 "§eGame will start in §e§l$1$ §esecond": "&e게임이 &e&l$1$ &e초 안에 시작됩니다"
 
-"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!"
+"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "자원을 모으고, 전투를 준비하고, 목숨을 위해 당신의 크리스탈을 보호하세요, 다른 크리스탈을 공격하여 게임에서 승리하세요!"
 
 "Gravity has no effect on blocks here, so you can build in the sky!": "Gravity has no effect on blocks here, so you can build in the sky!"
 
@@ -364,7 +364,7 @@
 ? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
 : "여기서 GUI 미니게임을 찾을 수 있습니다, 이 미니게임들은 다른것들과 다르게 우리에 의해 만들어진 것이 아니고 다운 받은 플러그인일 뿐입니다, 그래도 재밌어요!"
 
-"Here you can use various abilities to explode the map and other players!": "Here you can use various abilities to explode the map and other players!"
+"Here you can use various abilities to explode the map and other players!": "여기서 맵과 다른 플레이어를 폭발시킬 다양한 능력을 사용할 수 있습니다!"
 
 "Hits Taken": "받은 타격"
 
@@ -376,27 +376,27 @@
 
 "§b§lHow To Play": "&b&l플레이 방법"
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "&e관전자 모드에서 나가려면 &e/q &c을 입력하세요"
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "&e관전자 모드에서 나가려면 &e/q &c를 사용하세요"
 
-"If you want to leave the game type §e/q§6": "If you want to leave the game type &e/q&6."
+"If you want to leave the game type §e/q§6": "게임에서 나가고 싶다면 &e/q&6 를 사용하세요"
 
-"If you want to spectate other player type §e/stp <player>": "If you want to spectate other player type &e/stp <player>"
+"If you want to spectate other player type §e/stp <player>": "다른 플레이어를 관전하고 싶다면 &e/stp <player> 를 사용하세요"
 
 "Immortality Perk": "불사의 퍼크"
 
 "Increases the chance to reflect a snowball to 100%": "Increases the chance to reflect a snowball to 100%"
 
-"Increases the damage of snowballs to 10 hearts": "Increases the damage of snowballs to 10 hearts."
+"Increases the damage of snowballs to 10 hearts": "눈덩이의 데미지가 증가하여 10칸의 체력을 감소시킴"
 
-"Increases your speed by $1$": "Increases your speed by $1$"
+"Increases your speed by $1$": "$1$만큼 속도 증가"
 
-"Instakill Snowballs Modifier": "Instakill Snowballs Modifier"
+"Instakill Snowballs Modifier": "눈덩이 인스타킬 모드"
 
 "Invalid code": "유효하지 않은 코드."
 
-"§7§lIron Cannon": "&7&lIron Cannon"
+"§7§lIron Cannon": "&7&l철 대포"
 
-"It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
+"It's very hot in Mustafar, you gonna need to drink twice as much water": "무스타파는 매우 덥습니다, 당신은 두배가 넘는 양의 물을 더 마셔야 할 것입니다."
 
 "Jumps": "점프"
 
@@ -426,29 +426,29 @@
     " Use them to eliminate your enemies":
         " Be the only survivor to win": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
 
-"Losses": "Losses"
+"Losses": "사망"
 
 "Makes all of your snowballs burn": "Makes all of your snowballs burn."
 
-"Makes your snowballs super fast": "Makes your snowballs super fast."
+"Makes your snowballs super fast": "당신의 눈덩이를 매우 빠르게 만듭니다."
 
-"Max level reached": "Max level reached"
+"Max level reached": "최대 레벨에 도달했습니다."
 
-"MAX LEVEL:": "MAX LEVEL:"
+"MAX LEVEL:": "최대 레벨:"
 
 "Melons earned": "Melons earned"
 
 "Melons spent": "Melons spent"
 
-"Melons": "Melons"
+"Melons": "멜론"
 
-"Melon": "Melon"
+"Melon": "멜론"
 
 "Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!"
 
-"minutes": "minutes"
+"minutes": "분"
 
-"Mode": "Mode"
+"Mode": "모드"
 
 "Move time left": "Move time left"
 
@@ -458,38 +458,38 @@
 
 "New Rating": "New Rating"
 
-"NEW RECORD!": "NEW RECORD!"
+"NEW RECORD!": "신기록!"
 
 "NEW!": "NEW!"
 
 "Next Super Jump In": "Next Super Jump In"
 
-"Next": "Next"
+"Next": "다음"
 
-"Night": "Night"
+"Night": "밤"
 
-"No Compass Modifier": "No Compass Modifier"
+"No Compass Modifier": "나침반 없는 모드"
 
-"Not enough melons!": "Not enough melons!"
+"Not enough melons!": "멜론이 부족합니다!"
 
-"Note:": "Note:"
+"Note:": "노트:"
 
 "Now blocks will start breaking when you step on them!": "Now blocks will start breaking when you step on them!"
 
-"Old Record": "Old Record"
+"Old Record": "전 기록"
 
 "Parkour Course": "Parkour Course"
 
 ? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
 : "&e&lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further."
 
-"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lParty Commands &2&l=-=--"
+"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&l파티 명령어 &2&l=-=--"
 
-"Party invite from $1$ §ehas expired": "Party invite from $1$ &ehas expired."
+"Party invite from $1$ §ehas expired": "$1$ 에게서 온 파티 초대가 &e만료되었습니다."
 
-"Party Leader": "Party Leader"
+"Party Leader": "파티 리더"
 
-"Party Members": "Party Members"
+"Party Members": "파티 멤버"
 
 "Party of §a$1$ §cis not open for public join": "Party of &a$1$ &cis not open for public join."
 
@@ -500,19 +500,19 @@
 
 "Player died $1$ times in a row without kills": "Player died $1$ times in a row without kills"
 
-"Player is waiting": "Player is waiting"
+"Player is waiting": "플레이어가 대기중입니다"
 
-"Player not found": "Player not found."
+"Player not found": "플레이어를 찾을 수 없습니다."
 
-"Players are waiting": "Players are waiting"
+"Players are waiting": "플레이어들이 대기중입니다"
 
 "Players in": "Players in"
 
-"Players left": "Players left"
+"Players left": "남은 플레이어"
 
-"Players Waiting": "Players Waiting"
+"Players Waiting": "대기중인 플레이어"
 
-"Players": "Players"
+"Players": "플레이어들"
 
 "Player was on $1$ killstreak": "Player was on $1$ killstreak"
 
@@ -524,15 +524,15 @@
 
 "Please specify player name!": "Please specify player name!"
 
-"Plot Name": "Plot Name"
+"Plot Name": "플롯 이름"
 
-"Plot Owner": "Plot Owner"
+"Plot Owner": "플롯 주인"
 
-"Points": "Points"
+"Points": "포인트"
 
-"Powerups": "Powerups"
+"Powerups": "파워업"
 
-"Price:": "Price:"
+"Price:": "가격:"
 
 "Quickly test your skill by fighting other players with a huge variety of modifiers!": "Quickly test your skill by fighting other players with a huge variety of modifiers!"
 
@@ -552,11 +552,11 @@
 
 "Regenerates your health $1$": "Regenerates your health $1$"
 
-"Regeneration": "Regeneration"
+"Regeneration": "재생 효과" ?
 
 "Removes compass from the game": "Removes compass from the game."
 
-"Resources": "Resources"
+"Resources": "자원"
 
 "Respawning in": "Respawning in"
 
@@ -578,29 +578,29 @@
 
 "Slowness Perk": "Slowness Perk"
 
-"Sneak to use": "Sneak to use"
+"Sneak to use": "웅크려서 사용하세요"
 
-"Snowball Accuracy": "Snowball Accuracy"
+"Snowball Accuracy": "눈덩이 명중률"
 
-"Snowballs fired": "Snowballs fired"
+"Snowballs fired": "던진 눈덩이"
 
-"Snowman Perk": "Snowman Perk"
+"Snowman Perk": "눈사람 퍼크"
 
-"Snowman": "Snowman"
+"Snowman": "눈사람"
 
 "Sorts teams based on kills count for fairness": "Sorts teams based on kills count for fairness."
 
 "Spawnpoint Switch": "Spawnpoint Switch"
 
-"Speed": "Speed"
+"Speed": "속도"
 
 "Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent! Explode other players into the void!"
 
-"Statistics": "Statistics"
+"Statistics": "통계"
 
-"§7Stone Cannon": "&7Stone Cannon"
+"§7Stone Cannon": "&7돌 대포"
 
-"Succesfully sent party invite to $1$!": "Succesfully sent party invite to $1$!"
+"Succesfully sent party invite to $1$!": "성곡적으로 $1$에게 파티 초대를 보냈습니다!"
 
 "Super Jumps": "Super Jumps"
 
@@ -612,13 +612,13 @@
             "3":
                 "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Survival based on old Minecraft versions between alpha 1.2 and beta 1.7.3.||&cWARNING: &7NOSTALGIA IS A CERTAINTY."
 
-"Survival Rules": "Survival Rules"
+"Survival Rules": "서바이벌 규칙"
 
-"Team": "Team"
+"Team": "팀"
 
-"Thank you for rating this map": "Thank you for rating this map"
+"Thank you for rating this map": "이 맵을 평가해주셔서 감사합니다."
 
-"The Knockback Stick": "The Knockback Stick"
+"The Knockback Stick": "넉백 스틱"
 
 "There are many special recipes! Check them out in: §e/recipes§r": "There are many special recipes! Check them out in: &e/recipes&r"
 
@@ -633,7 +633,7 @@
 ? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
 : "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than &e&l$1$ &6players."
 
-"This power-up is already active!": "This power-up is already active!"
+"This power-up is already active!": "이 파워업은 이미 활성화되었습니다!"
 
 "This round of 1v1 did not meet the requirements for win rewards and rating changes": "This round of 1v1 did not meet the requirements for win rewards and rating changes."
 
@@ -657,7 +657,7 @@
 
 "Turn": "Turn"
 
-"UNLOCKED": "UNLOCKED"
+"UNLOCKED": "잠금 풀림"
 
 "Use /agree $1$  to agree with survival rules": "Use /agree $1$  to agree with survival rules."
 
@@ -666,19 +666,19 @@
 ? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
 : "&e&lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory."
 
-"VICTORY": "VICTORY"
+"VICTORY": "승리"
 
 "Votes:": "Votes:"
 
-"[VOTE]": "[VOTE]"
+"[VOTE]": "[투표]"
 
-"Waiting Players": "Waiting Players"
+"Waiting Players": "대기중인 플레이어"
 
-"Waiting Queue Status": "Waiting Queue Status"
+"Waiting Queue Status": "대기열 상태" (?)
 
-"Warped §e§l$1$ §eparty members to your location!": "Warped &e&l$1$ &eparty members to your location!"
+"Warped §e§l$1$ §eparty members to your location!": "당신의 위치에 &e&l$1$ &e파티 멤버를 이동시켰습니다!"  색깔
 
-"Water is finite here, so you are going to need to build farms close to big sources of water": "Water is finite here, so you are going to need to build farms close to big sources of water."
+"Water is finite here, so you are going to need to build farms close to big sources of water": "이곳의 물은 유한합니다, 당신은 충분한 물이 나오는 곳 가까이에 농장을 지어야 할 것입니다 ."
 
 "Wins Percentage": "Wins Percentage"
 
@@ -686,21 +686,21 @@
 
 "Wood Cannon": "Wood Cannon"
 
-"You already have voted for a map!": "You already have voted for a map!"
+"You already have voted for a map!": "당신은 이미 이 맵에 투표했습니다!"
 
-"You are already in a party of §a$1$§c!": "You are already in a party of &a$1$&c!"
+"You are already in a party of §a$1$§c!": "당신은 이미 &a$1$&c의 파티에 있습니다!"
 
-"You are already on $1$ §cteam!": "You are already on $1$ &cteam!"
+"You are already on $1$ §cteam!": "당신은 이미 $1$ &c팀에 있습니다!"
 
 "You are leader of a party, use §e/party disband §cto be able to do this": "You are leader of a party, use &e/party disband &cto be able to do this."
 
-"You are now a member of $1$ §eteam!": "You are now a member of $1$ &eteam!"
+"You are now a member of $1$ §eteam!": "당신은 이제 $1$ &e팀 멤버입니다!"
 
 "You are now Juggernaut!": "You are now Juggernaut!"
 
-"You aren't in a party!": "You aren't in a party!"
+"You aren't in a party!": "당신은 파티에 있지않습니다!"
 
-"You aren't the leader of the party!": "You aren't the leader of the party!"
+"You aren't the leader of the party!": "당신은 이 파티의 리더가 !"
 
 "You can chat only once every 1":
     "5 second!": "You can chat only once every 1.5 second!"
@@ -812,26 +812,26 @@
 
 "$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas transferred party leader to $2$&e!"
 
-"$1$ §cis not in your party!": "$1$ &cis not in your party!"
+"$1$ §cis not in your party!": "$1$ &c님은 당신의 파티에 있지 않습니다!"
 
 "You can buy this item only once per life": "You can buy this item only once per life."
 
 "You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
 
-"Right click to activate game modifiers!": "Right click to activate game modifiers!"
+"Right click to activate game modifiers!": "우클릭하여 게임 모드를 활성화시키세요!"
 
-"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "당신은 연속으로 &e&l$1$ &a일 접속했습니다! 매일 연속으로 접속하면 더 높은 보상을 얻을 것입니다."
 
-"LOCKED": "LOCKED"
+"LOCKED": "잠김" 
 
 "§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
 
 "Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
 
-"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
+"§bEnchanted §7§lIron Cannon": "&b마법이 부여된 &7&l철 대포"
 
 ? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
-: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+: "캐슬 워즈, 1v1, Govindas 서바이벌 게임, 미니 스카이 월즈, 스플린트, 녹아웃, 스노우볼, 체커, 봄버맨, 엘리멘탈 아처"
 
 ? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
 : "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
