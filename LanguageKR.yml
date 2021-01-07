@@ -1,68 +1,68 @@
-"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aTo toggle party chat."
+"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &a파티 채팅으로 전환하기."
 
-"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aView ways to donate money to our server."
+"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &a서버에 후원하는 방법 보기."
 
-"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <group> &2- &aAccept a group invitation."
+"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <group> &2- &a그룹 초대 수락하기."
 
 "   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <group> &2- &aBrowse claimed chunks of a group."
 
 "   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <group> &2- &aClaim a chunk to a group."
 
-"   /group create <group> §2- §aCreate a group": "   /group create <group> &2- &aCreate a group."
+"   /group create <group> §2- §aCreate a group": "   /group create <group> &2- &a그룹 생성하기."
 
-"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <player> <group> &2- &aDemote a player in a group."
+"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <player> <group> &2- &a그룹에 있는 플레이어를 강등시키기."
 
-"   /group info <group> §2- §aView information about a group": "   /group info <group> &2- &aView information about a group."
+"   /group info <group> §2- §aView information about a group": "   /group info <group> &2- &a그룹의 정보 보기."
 
-"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <player> <group> &2- &aInvite a player to a group."
+"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <player> <group> &2- &a그룹에 플레이어 초대하기."
 
-"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <player> <group> &2- &aKick a player from a group."
+"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <player> <group> &2- &a플레이어를 그룹으로부터 추방하기."
 
-"   /group leave <group> §2- §aLeave a group": "   /group leave <group> &2- &aLeave a group."
+"   /group leave <group> §2- §aLeave a group": "   /group leave <group> &2- &a그룹 떠나기."
 
-"   /group list §2- §aList the groups you are in": "   /group list &2- &aList the groups you are in."
+"   /group list §2- §aList the groups you are in": "   /group list &2- &a자신이 속해있는 그룹 목록 보기."
 
-"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <player> <group> &2- &aPromote a player in a group."
+"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <player> <group> &2- &a그룹에 있는 플레이어를 승급시키기."
 
 "   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aUnclaim a chunk."
 
-"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <group> &2- &aUpgrade a group."
+"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <group> &2- &a그룹을 업그레이드하기."
 
-"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <game> [lobbyname] &2- &aTo join a public game by a command or private game by specifying lobby name."
+"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <game> [lobbyname] &2- &a명령어로 공개 게임에 참여하거나 특정한 로비 이름을 입력하여 비공개 게임에 참여하기."
 
-"   /list §2- §aView information about all online players": "   /list &2- &aView information about all online players."
+"   /list §2- §aView information about all online players": "   /list &2- &a모든 온라인 플레이어들의 정보 보기."
 
-"   /msg <player> §2- §aSend a private message to a player": "   /msg <player> &2- &aSend a private message to a player."
+"   /msg <player> §2- §aSend a private message to a player": "   /msg <player> &2- &a플레이어에게 개인 메세지 전송하기."
 
-"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <player> &2- &aTo accept an party invite."
+"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <player> &2- &a파티 초대 수락하기."
 
-"   /party disband §2- §aTo disband your party": "   /party disband &2- &aTo disband your party."
+"   /party disband §2- §aTo disband your party": "   /party disband &2- &a파티 해산하기."
 
-"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <player> &2- &aTo invite a player to party."
+"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <player> &2- &a플레이어를 파티에 초대하기."
 
-"   /party join <player> §2- §aTo join public party of a player": "   /party join <player> &2- &aTo join public party of a player."
+"   /party join <player> §2- §aTo join public party of a player": "   /party join <player> &2- &a플레이어의 공개 파티에 참여하기."
 
-"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <player> &2- &aTo kick a player from your party."
+"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <player> &2- &a플레이어를 파티에서 추방하기."
 
 "   /party leave §2- §aTo leave a party": "   /party leave &2- &aTo leave a party."
 
-"   /party list §2- §aTo view members of your party list": "   /party list &2- &aTo view members of your party list."
+"   /party list §2- §aTo view members of your party list": "   /party list &2- &a파티 멤버 목록 보기."
 
-"   /party open §2- §aTo open your party for public join": "   /party open &2- &aTo open your party for public join."
+"   /party open §2- §aTo open your party for public join": "   /party open &2- &a자신의 파티를 아무나 참여할 수 있게 공개하기."
 
-"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <player> &2- &aTo transfer party leader to other member."
+"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <player> &2- &a파티 리더를 다른 멤버에게 주기."
 
-"   /party §2- §aView party help": "   /party &2- &aView party help."
+"   /party §2- §aView party help": "   /party &2- &a파티 도움말 보기."
 
-"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aTo warp your party members to your game lobby."
+"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &a현재 있는 로비에 파티 멤버들을 소환하기."
 
-"   /rules §2- §aRead server rules": "   /rules &2- &aRead server rules."
+"   /rules §2- §aRead server rules": "   /rules &2- &a서버 규칙 읽기."
 
-"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aEnter spectate mode."
+"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &a관전자 모드 진입하기."
 
-"   /staff §2- §aView staff list": "   /staff &2- &aView staff list."
+"   /staff §2- §aView staff list": "   /staff &2- &a스태프 목록 보기."
 
-"   /stats <player> §2- §aView player's stats": "   /stats <player> &2- &aView player's stats."
+"   /stats <player> §2- §aView player's stats": "   /stats <player> &2- &a플레이어의 통계 보기."
 
 "1 arrow on knockout!": "1 arrow on knockout!"
 
@@ -96,25 +96,25 @@
 
 "$1$ §ehas returned $2$ §eflag!": "$1$ &ehas returned $2$ &eflag!"
 
-"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &ehas voted for &b&l$2$ &emap!"
+"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &e님이 &b&l$2$ &e맵에 투표했습니다!"
 
-"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &ehas voted for &b&l$2$ &emode!"
+"$1$ §ehas voted for §b§l$2$ §emode!": "  $1$ &e님이 &b&l$2$ &e게임 에 투표했습니다!"
 
 "$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &ehas voted for &b&lBalanced Teams &emodifier!"
+/
+"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &e님이 &b&l더블 점프 &e모드에 투표했습니다!" 
 
-"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &ehas voted for &b&lDouble Jump &emodifier!"
+"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &e님이 &b&l빠른 눈덩이 &e모드에 투표했습니다!"
 
-"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &ehas voted for &b&lFast Snowballs &emodifier!"
+"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &e님이 &b&l인스타킬 &e모드에 투표했습니다!"
 
-"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &ehas voted for &b&lInstakill Snowballs &emodifier!"
+"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &e님이 &b&l나침반 없음 &e모드에 투표했습니다!"
 
-"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &ehas voted for &b&lNo Compass &emodifier!"
+"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &e님이 &b&l눈덩이 반사 &e모드에 투표했습니다!"
 
-"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &ehas voted for &b&lReflect Snowballs &emodifier!"
+"$1$ §cis already in your party!": "$1$ &c님은 이미 당신의 파티에 있습니다!"
 
-"$1$ §cis already in your party!": "$1$ &cis already in your party!"
-
-"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
+"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c님은 친구가 아닙니다!  &e/f add $2$ 를 입력하여 $1$&c 를 친구로 추가하세요"
 
 "$1$ §7of players needs to vote to enable": "$1$ &7of players needs to vote to enable"
 
@@ -124,7 +124,7 @@
 
 "A chance to spawn creeper where your snowball lands": "당신의 눈덩이가 떨어진 곳에 크리퍼를 스폰할 수 있습니다."(?)
 
-"Activated Modifiers": "Activated Modifiers"
+"Activated Modifiers": "활성화된 모드"
 
 "Allows to double jump by pressing the sneak button in mid-air": "Allows to double jump by pressing the sneak button in mid-air."
 
@@ -150,64 +150,64 @@
 
 "Average Rating:": "평균 평가:"
 
-"Balanced Teams Modifier": "Balanced Teams Modifier"
+"Balanced Teams Modifier": "균형된 팀 모드"
 
-"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lBecause of too much game changing modifiers activated this match will not affect your rating."
+"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&l활성화된 게임 모드 변경이 너무 많기 때문에 이 경기는 당신의 평가에 영향을 미치지 않을 것입니다. "
 
-"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lBe the commander of a giant army and defeat all the enemy kings with your army to win!"
+"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&l거대한 군단의 지휘자가 되고 군사들과 함께 상대 왕을 쓰러뜨려 승리하세요!"
 
 "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
 
 "Blindness Perk": "실명 퍼크"
 
 "Blocks snowballs":
-    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
+    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blocks snowballs. 첫번째 타격에 부실 확률 &e&l50% &7, 두번째 타격에 부실 확률 &e&l100% &7." (?)
 
 "blocks": "블록"
 
-"Bombs fired": "Bombs fired"
+"Bombs fired": "발사된 폭탄"
 
-"Bombs placed": "Bombs placed"
+"Bombs placed": "설치된 폭탄"
 
 "Bonus snowballs on knockout": "Bonus snowballs on knockout"
 
-"Burning Stick Perk": "Burning Stick Perk"
+"Burning Stick Perk": "불타는 막대기 퍼크"
 
 "Burns §e§l$1$ §7of target's snowballs": "Burns &e&l$1$ &7of target's snowballs."
 
 "Burns target on hit": "Burns target on hit."
 
-"Can't find a player by the name of '$1$'": "Can't find a player by the name of '$1$'."
+"Can't find a player by the name of '$1$'": "'$1$'의 이름을 가진 플레이어를 찾을 수 없습니다."
 
-"Can't shoot far because snowballs melt in the air": "Can't shoot far because snowballs melt in the air."
+"Can't shoot far because snowballs melt in the air": "눈덩이는 공기 중에 녹기 때문에 멀리 쏠 수 없습니다."
 
-"chance of creeper spawn": "chance of creeper spawn"
+"chance of creeper spawn": "크리퍼 스폰 기회" (?) 
 
-"chance of double experience": "chance of double experience"
+"chance of double experience": "경험치 두배 기회"
 
-"chance of double melons": "chance of double melons."
+"chance of double melons": "더블 멜론 기회"
 
-"chance of §bEnchanted Snowball §7gain after kill": "chance of &bEnchanted Snowball &7gain after kill."
+"chance of §bEnchanted Snowball §7gain after kill": "&7킬을 얻은 후 &b마법부여된 눈덩이를 얻을 기회."
 
-"chance of reflection": "chance of reflection."
+"chance of reflection": "반사할 기회."
 
-"Chance to blind opponent on hit": "Chance to blind opponent on hit"
+"Chance to blind opponent on hit": "상대를 맞출 시 실명시킬 기회"
 
-"Chance to burn opponent on hit": "Chance to burn opponent on hit"
+"Chance to burn opponent on hit": "상대를 맞출 시 불에 타게 할 기회"
 
-"Chance to not lose a life": "Chance to not lose a life"
+"Chance to not lose a life": "목숨을 잃지 않을 기회"
 
-"chance to slow(Slowness $1$) opponent on hit": "chance to slow(Slowness $1$) opponent on hit"
+"chance to slow(Slowness $1$) opponent on hit": "상대를 맞출 시 감속(속도 감소 $1$)할 기회"
 
-"Chance to slow(Slowness II) opponent on hit": "Chance to slow(Slowness II) opponent on hit"
+"Chance to slow(Slowness II) opponent on hit": "상대를 맞출 시 감속(속도 감소 II)할 기회"
 
-"Checkers in Minecraft! Like the popular board game": "Checkers in Minecraft! Like the popular board game."
+"Checkers in Minecraft! Like the popular board game": "체커가 마인크래프트에 있습니다! Like the popular board game." (?)
 
-"Checkers": "Checkers"
+"Checkers": "체커"
 
 "Checkpoint": "체크포인트"
 
-"Chests looted": "Chests looted"
+"Chests looted": "약탈한 상자"
 
 "classes": "classes"
 
@@ -225,24 +225,24 @@
 
 "Click to rate this map": "클릭하여 맵 평가하기"
 
-"Click to undo this rating!": "Click to undo this rating!"
+"Click to undo this rating!": "클릭하여 평가를 취소하기!"
 
-"Click to vote for $1$ §amode!": "Click to vote for $1$ &amode!"
+"Click to vote for $1$ §amode!": "클릭하여 $1$ &a모드에 투표하기!"
 
-"Click to vote for this map!": "Click to vote for this map!"
+"Click to vote for this map!": "클릭하여 이 맵에 투표하기!"
 
-"Click to vote for this mode!": "Click to vote for this mode!"
+"Click to vote for this mode!": "클릭하여 이 게임 방식에 투표하기!"
 
-"Click to vote for this modifier!": "Click to vote for this modifier!"
+"Click to vote for this modifier!": "클릭하여 이 모드에 투표하기!"
 
-"Complete parkour races, earn prizes and compete in leaderboards!": "Complete parkour races, earn prizes and compete in leaderboards!"
+"Complete parkour races, earn prizes and compete in leaderboards!": "파쿠르 레이스를 완료하고, 포상을 얻고 리더보드에서 경쟁하세요!"
 
 "Cooldown": "쿨다운"
 
-"Cracked players can join our server! They can apply at $1$ §rto join": "Cracked players can join our server! They can apply at $1$ &rto join."
+"Cracked players can join our server! They can apply at $1$ §rto join": "무료버전 마인크래프트를 사용하는 유저들도 서버에 접속할 수 있습니다! $1$ 에서 신청한 후 &r접속하세요."
 
 ? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
-: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
+: "많은 유용한 기능들과 함께하는 크리에이티브 월드! 월드에딧, 복쉘스나이퍼, 고브러쉬, 고페인트, 플레이어 머리 콜렉션, 심지어 개인의 프로그래밍 언어로 자신만의 맵까지 만들 수 있습니다!"
 
 "Creeper Chance Perk": "크리퍼 찬스 퍼크"
 
@@ -264,7 +264,7 @@
 
 "Destroying other player creations or ruining them in any way is not allowed!": "Destroying other player creations or ruining them in any way is not allowed!"
 
-"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed."
+"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "구멍을 만들어 아름다운 지형을 파손하고,  1x1 타워를 어떤 식으로든 지어 "
 
 "Did you know?": "아셨나요?"
 
@@ -374,15 +374,15 @@
 
 "hours": "시간"
 
-"§b§lHow To Play": "&b&lHow To Play"
+"§b§lHow To Play": "&b&l플레이 방법"
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "&eSpectator Mode에서 나가려면 &e/q &c을 입력하세요"
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "&e관전자 모드에서 나가려면 &e/q &c을 입력하세요"
 
 "If you want to leave the game type §e/q§6": "If you want to leave the game type &e/q&6."
 
 "If you want to spectate other player type §e/stp <player>": "If you want to spectate other player type &e/stp <player>"
 
-"Immortality Perk": "Immortality Perk"
+"Immortality Perk": "불사의 퍼크"
 
 "Increases the chance to reflect a snowball to 100%": "Increases the chance to reflect a snowball to 100%"
 
@@ -392,32 +392,32 @@
 
 "Instakill Snowballs Modifier": "Instakill Snowballs Modifier"
 
-"Invalid code": "Invalid code."
+"Invalid code": "유효하지 않은 코드."
 
 "§7§lIron Cannon": "&7&lIron Cannon"
 
 "It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
 
-"Jumps": "Jumps"
+"Jumps": "점프"
 
-"Killer": "Killer"
+"Killer": "살인자"
 
 "Kills any normal opponent, even with armor": "Kills any normal opponent, even with armor."
 
-"Killstreak": "Killstreak"
+"Killstreak": "연킬"
 
-"Kills": "Kills"
+"Kills": "킬"
 
-"King": "King"
+"King": "왕"
 
 "§e§lKnock other players off the platform":
     " As you hit players, you deal more knockback": "&e&lKnock other players off the platform. As you hit players, you deal more knockback."
 
 "Level": "Level"
 
-"List of Games": "List of Games"
+"List of Games": "게임 "
 
-"Lives": "Lives"
+"Lives": "생명"
 
 ? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
 : "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
