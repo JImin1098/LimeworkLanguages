@@ -1,0 +1,837 @@
+"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aTo toggle party chat."
+
+"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aView ways to donate money to our server."
+
+"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <group> &2- &aAccept a group invitation."
+
+"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <group> &2- &aBrowse claimed chunks of a group."
+
+"   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <group> &2- &aClaim a chunk to a group."
+
+"   /group create <group> §2- §aCreate a group": "   /group create <group> &2- &aCreate a group."
+
+"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <player> <group> &2- &aDemote a player in a group."
+
+"   /group info <group> §2- §aView information about a group": "   /group info <group> &2- &aView information about a group."
+
+"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <player> <group> &2- &aInvite a player to a group."
+
+"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <player> <group> &2- &aKick a player from a group."
+
+"   /group leave <group> §2- §aLeave a group": "   /group leave <group> &2- &aLeave a group."
+
+"   /group list §2- §aList the groups you are in": "   /group list &2- &aList the groups you are in."
+
+"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <player> <group> &2- &aPromote a player in a group."
+
+"   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aUnclaim a chunk."
+
+"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <group> &2- &aUpgrade a group."
+
+"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <game> [lobbyname] &2- &aTo join a public game by a command or private game by specifying lobby name."
+
+"   /list §2- §aView information about all online players": "   /list &2- &aView information about all online players."
+
+"   /msg <player> §2- §aSend a private message to a player": "   /msg <player> &2- &aSend a private message to a player."
+
+"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <player> &2- &aTo accept an party invite."
+
+"   /party disband §2- §aTo disband your party": "   /party disband &2- &aTo disband your party."
+
+"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <player> &2- &aTo invite a player to party."
+
+"   /party join <player> §2- §aTo join public party of a player": "   /party join <player> &2- &aTo join public party of a player."
+
+"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <player> &2- &aTo kick a player from your party."
+
+"   /party leave §2- §aTo leave a party": "   /party leave &2- &aTo leave a party."
+
+"   /party list §2- §aTo view members of your party list": "   /party list &2- &aTo view members of your party list."
+
+"   /party open §2- §aTo open your party for public join": "   /party open &2- &aTo open your party for public join."
+
+"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <player> &2- &aTo transfer party leader to other member."
+
+"   /party §2- §aView party help": "   /party &2- &aView party help."
+
+"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aTo warp your party members to your game lobby."
+
+"   /rules §2- §aRead server rules": "   /rules &2- &aRead server rules."
+
+"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aEnter spectate mode."
+
+"   /staff §2- §aView staff list": "   /staff &2- &aView staff list."
+
+"   /stats <player> §2- §aView player's stats": "   /stats <player> &2- &aView player's stats."
+
+"1 arrow on knockout!": "1 arrow on knockout!"
+
+"$1$ §cdefeated §6$2$": "$1$ &cdefeated &6$2$"
+
+"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &edonated &e&l1 &fSnowball &eto you!"
+
+"$1$ §eflag has been dropped!": "$1$ &eflag has been dropped!"
+
+"§a$1$ §egot first kill of the game!": "&a$1$ &egot first kill of the game!"
+
+"$1$ §ehas captured $2$ §eflag!": "$1$ &ehas captured $2$ &eflag!"
+
+"$1$ §ehas disbanded the party!": "$1$ &ehas disbanded the party!"
+
+"$1$ §ehas invited you into a party!": "$1$ &ehas invited you into a party!"
+
+"$1$ §ehas joined your party!": "$1$ &ehas joined your party!"
+
+"$1$ §ehas joined!": "$1$ &ehas joined!"
+
+"$1$ §ehas left the party!": "$1$ &ehas left the party!"
+
+"$1$ §chas left!": "$1$ &chas left!"
+
+"$1$ §ehas not invited you into a party!": "$1$ &ehas not invited you into a party!"
+
+"$1$ §ehas picked up $2$ §eflag!": "$1$ &ehas picked up $2$ &eflag!"
+
+"$1$ §ehas reached the max stick level!": "$1$ &ehas reached the max stick level!"
+
+"$1$ §ehas returned $2$ §eflag!": "$1$ &ehas returned $2$ &eflag!"
+
+"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &ehas voted for &b&l$2$ &emap!"
+
+"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &ehas voted for &b&l$2$ &emode!"
+
+"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &ehas voted for &b&lBalanced Teams &emodifier!"
+
+"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &ehas voted for &b&lDouble Jump &emodifier!"
+
+"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &ehas voted for &b&lFast Snowballs &emodifier!"
+
+"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &ehas voted for &b&lInstakill Snowballs &emodifier!"
+
+"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &ehas voted for &b&lNo Compass &emodifier!"
+
+"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &ehas voted for &b&lReflect Snowballs &emodifier!"
+
+"$1$ §cis already in your party!": "$1$ &cis already in your party!"
+
+"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
+
+"$1$ §7of players needs to vote to enable": "$1$ &7of players needs to vote to enable"
+
+"$1$ §cteam is full!": "$1$ &cteam is full!"
+
+"[ACCEPT]": "[ACCEPT]"
+
+"A chance to spawn creeper where your snowball lands": "A chance to spawn creeper where your snowball lands."
+
+"Activated Modifiers": "Activated Modifiers"
+
+"Allows to double jump by pressing the sneak button in mid-air": "Allows to double jump by pressing the sneak button in mid-air."
+
+"Animation is currently §c§lDISABLED§e": "Animation is currently &c&lDISABLED&e."
+
+"Animation is currently §a§lENABLED§e": "Animation is currently &a&lENABLED&e."
+
+"Are you seriously going into a party with yourself? Invite someone!": "Are you seriously going into a party with yourself? Invite someone!"
+
+"Are you sure you want to leave? Type §e/q §6to confirm": "Are you sure you want to leave? Type &e/q &6to confirm."
+
+"Armor": "Armor"
+
+"Arrow Accuracy": "Arrow Accuracy"
+
+"Arrow Bonus Perk": "Arrow Bonus Perk"
+
+"Arrows Fired": "Arrows Fired"
+
+"Arrows left": "Arrows left"
+
+"A snowman which shoots enemies!": "A snowman which shoots enemies!"
+
+"Average Rating:": "Average Rating:"
+
+"Balanced Teams Modifier": "Balanced Teams Modifier"
+
+"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lBecause of too much game changing modifiers activated this match will not affect your rating."
+
+"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lBe the commander of a giant army and defeat all the enemy kings with your army to win!"
+
+"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
+
+"Blindness Perk": "Blindness Perk"
+
+"Blocks snowballs":
+    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
+
+"blocks": "blocks"
+
+"Bombs fired": "Bombs fired"
+
+"Bombs placed": "Bombs placed"
+
+"Bonus snowballs on knockout": "Bonus snowballs on knockout"
+
+"Burning Stick Perk": "Burning Stick Perk"
+
+"Burns §e§l$1$ §7of target's snowballs": "Burns &e&l$1$ &7of target's snowballs."
+
+"Burns target on hit": "Burns target on hit."
+
+"Can't find a player by the name of '$1$'": "Can't find a player by the name of '$1$'."
+
+"Can't shoot far because snowballs melt in the air": "Can't shoot far because snowballs melt in the air."
+
+"chance of creeper spawn": "chance of creeper spawn"
+
+"chance of double experience": "chance of double experience"
+
+"chance of double melons": "chance of double melons."
+
+"chance of §bEnchanted Snowball §7gain after kill": "chance of &bEnchanted Snowball &7gain after kill."
+
+"chance of reflection": "chance of reflection."
+
+"Chance to blind opponent on hit": "Chance to blind opponent on hit"
+
+"Chance to burn opponent on hit": "Chance to burn opponent on hit"
+
+"Chance to not lose a life": "Chance to not lose a life"
+
+"chance to slow(Slowness $1$) opponent on hit": "chance to slow(Slowness $1$) opponent on hit"
+
+"Chance to slow(Slowness II) opponent on hit": "Chance to slow(Slowness II) opponent on hit"
+
+"Checkers in Minecraft! Like the popular board game": "Checkers in Minecraft! Like the popular board game."
+
+"Checkers": "Checkers"
+
+"Checkpoint": "Checkpoint"
+
+"Chests looted": "Chests looted"
+
+"classes": "classes"
+
+"Click here to join $1$!": "Click here to join $1$!"
+
+"Click to accept the party invite!": "Click to accept the party invite!"
+
+"Click to buy!": "Click to buy!"
+
+"[CLICK TO JOIN]": "[CLICK TO JOIN]"
+
+"CLICK TO OPEN MENU": "CLICK TO OPEN MENU"
+
+"CLICK TO PLAY": "CLICK TO PLAY"
+
+"Click to rate this map": "Click to rate this map"
+
+"Click to undo this rating!": "Click to undo this rating!"
+
+"Click to vote for $1$ §amode!": "Click to vote for $1$ &amode!"
+
+"Click to vote for this map!": "Click to vote for this map!"
+
+"Click to vote for this mode!": "Click to vote for this mode!"
+
+"Click to vote for this modifier!": "Click to vote for this modifier!"
+
+"Complete parkour races, earn prizes and compete in leaderboards!": "Complete parkour races, earn prizes and compete in leaderboards!"
+
+"Cooldown": "Cooldown"
+
+"Cracked players can join our server! They can apply at $1$ §rto join": "Cracked players can join our server! They can apply at $1$ &rto join."
+
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
+: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
+
+"Creeper Chance Perk": "Creeper Chance Perk"
+
+"Crystal": "Crystal"
+
+"Current": "Current"
+
+"Damage Dealt": "Damage Dealt"
+
+"Damage Taken": "Damage Taken"
+
+"Day": "Day"
+
+"Deaths": "Deaths"
+
+"DEFEAT": "DEFEAT"
+
+"Defend your castle, attack other castles, command your army and become the best commander!": "Defend your castle, attack other castles, command your army and become the best commander!"
+
+"Destroying other player creations or ruining them in any way is not allowed!": "Destroying other player creations or ruining them in any way is not allowed!"
+
+"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed."
+
+"Did you know?": "Did you know?"
+
+"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
+    " Use fasciniting abilities of your class to defeat other players and win!": "&e&lDifferent elemental classes compete with each other in bow-fighting abilities. Use fasciniting abilities of your class to defeat other players and win!"
+
+"Dissappears after §e§l10s §7of landing": "Dissappears after &e&l10s &7of landing."
+
+"Double Emeralds": "Double Emeralds"
+
+"Double Jump Modifier": "Double Jump Modifier"
+
+"Double Melons Perk": "Double Melons Perk"
+
+"Emeralds total earned": "Emeralds total earned"
+
+"Emeralds": "Emeralds"
+
+"Emerald": "Emerald"
+
+"§bEnchanted §b§lDiamond Cannon": "&bEnchanted &b&lDiamond Cannon"
+
+"Enchanted Snowball Perk": "Enchanted Snowball Perk"
+
+"§bEnchanted §7Stone Cannon": "&bEnchanted &7Stone Cannon"
+
+"Enchanted §aWood Cannon": "Enchanted &aWood Cannon"
+
+"ENEMY TEAM": "ENEMY TEAM"
+
+"Every player gets 3 lives, eliminate enemy team to win": "Every player gets 3 lives, eliminate enemy team to win."
+
+"Every player gets 3 lives, eliminate other players to win": "Every player gets 3 lives, eliminate other players to win."
+
+"Experience Bonus Perk": "Experience Bonus Perk"
+
+"Explode your way to other players and explode them!": "Explode your way to other players and explode them!"
+
+"Exploring the void may reveal mysterious secrets!": "Exploring the void may reveal mysterious secrets!"
+
+"Explosion Radius": "Explosion Radius"
+
+"Falling Blocks Animation": "Falling Blocks Animation"
+
+"Fast Snowballs Modifier": "Fast Snowballs Modifier"
+
+"Feel free to invite other players by using the chat": "Feel free to invite other players by using the chat."
+
+"Final Kills": "Final Kills"
+
+"Flamethrower": "Flamethrower"
+
+"Free!": "Free!"
+
+"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lFriend Commands &2&l=-=--"
+
+"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!"
+
+"GAME ENDED IN A DRAW": "GAME ENDED IN A DRAW"
+
+"GAME END": "GAME END"
+
+"Game has started!": "Game has started!"
+
+"Game is starting": "Game is starting"
+
+"Game starts in §e§l$1$ §eseconds": "Game starts in &e&l$1$ &eseconds"
+
+"Game starts in": "Game starts in"
+
+"Game Statistics": "Game Statistics"
+
+"Game time": "Game time"
+
+"Game will end in §e§l$1$ §eminutes": "Game will end in &e&l$1$ &eminutes."
+
+"Game will end in §e§l$1$ §eminute": "Game will end in &e&l$1$ &eminute."
+
+"§eGame will start in §e§l$1$ §eseconds": "&eGame will start in &e&l$1$ &eseconds"
+
+"§eGame will start in §e§l$1$ §esecond": "&eGame will start in &e&l$1$ &esecond"
+
+"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!"
+
+"Gravity has no effect on blocks here, so you can build in the sky!": "Gravity has no effect on blocks here, so you can build in the sky!"
+
+"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lGroup Commands &2&l=-=--"
+
+"Have fun!": "Have fun!"
+
+"Health": "Health"
+
+"Here you can find games which can be played both alone and with friends!": "Here you can find games which can be played both alone and with friends!"
+
+"Here you can find games which can be played only with friends!": "Here you can find games which can be played only with friends!"
+
+? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
+: "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
+
+"Here you can use various abilities to explode the map and other players!": "Here you can use various abilities to explode the map and other players!"
+
+"Hits Taken": "Hits Taken"
+
+"Hits": "Hits"
+
+"Hit to level up your stick and knock other players in to the void!": "Hit to level up your stick and knock other players in to the void!"
+
+"hours": "hours"
+
+"§b§lHow To Play": "&b&lHow To Play"
+
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "If you want to get out of the &eSpectator Mode &ctype &e/q"
+
+"If you want to leave the game type §e/q§6": "If you want to leave the game type &e/q&6."
+
+"If you want to spectate other player type §e/stp <player>": "If you want to spectate other player type &e/stp <player>"
+
+"Immortality Perk": "Immortality Perk"
+
+"Increases the chance to reflect a snowball to 100%": "Increases the chance to reflect a snowball to 100%"
+
+"Increases the damage of snowballs to 10 hearts": "Increases the damage of snowballs to 10 hearts."
+
+"Increases your speed by $1$": "Increases your speed by $1$"
+
+"Instakill Snowballs Modifier": "Instakill Snowballs Modifier"
+
+"Invalid code": "Invalid code."
+
+"§7§lIron Cannon": "&7&lIron Cannon"
+
+"It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
+
+"Jumps": "Jumps"
+
+"Killer": "Killer"
+
+"Kills any normal opponent, even with armor": "Kills any normal opponent, even with armor."
+
+"Killstreak": "Killstreak"
+
+"Kills": "Kills"
+
+"King": "King"
+
+"§e§lKnock other players off the platform":
+    " As you hit players, you deal more knockback": "&e&lKnock other players off the platform. As you hit players, you deal more knockback."
+
+"Level": "Level"
+
+"List of Games": "List of Games"
+
+"Lives": "Lives"
+
+? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
+: "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
+
+"§e§lLoot randomly generated chests with unique items":
+    " Use them to eliminate your enemies":
+        " Be the only survivor to win": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
+
+"Losses": "Losses"
+
+"Makes all of your snowballs burn": "Makes all of your snowballs burn."
+
+"Makes your snowballs super fast": "Makes your snowballs super fast."
+
+"Max level reached": "Max level reached"
+
+"MAX LEVEL:": "MAX LEVEL:"
+
+"Melons earned": "Melons earned"
+
+"Melons spent": "Melons spent"
+
+"Melons": "Melons"
+
+"Melon": "Melon"
+
+"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!"
+
+"minutes": "minutes"
+
+"Mode": "Mode"
+
+"Move time left": "Move time left"
+
+"Must be at lower floor": "Must be at lower floor"
+
+"Must not have any Super Jumps": "Must not have any Super Jumps"
+
+"New Rating": "New Rating"
+
+"NEW RECORD!": "NEW RECORD!"
+
+"NEW!": "NEW!"
+
+"Next Super Jump In": "Next Super Jump In"
+
+"Next": "Next"
+
+"Night": "Night"
+
+"No Compass Modifier": "No Compass Modifier"
+
+"Not enough melons!": "Not enough melons!"
+
+"Note:": "Note:"
+
+"Now blocks will start breaking when you step on them!": "Now blocks will start breaking when you step on them!"
+
+"Old Record": "Old Record"
+
+"Parkour Course": "Parkour Course"
+
+? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
+: "&e&lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further."
+
+"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lParty Commands &2&l=-=--"
+
+"Party invite from $1$ §ehas expired": "Party invite from $1$ &ehas expired."
+
+"Party Leader": "Party Leader"
+
+"Party Members": "Party Members"
+
+"Party of §a$1$ §cis not open for public join": "Party of &a$1$ &cis not open for public join."
+
+"§e§lPlace bombs and explode blocks around it in a + shape":
+    " Use powerups to take advantage over opponents": "&e&lPlace bombs and explode blocks around it in a + shape. Use powerups to take advantage over opponents."
+
+"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "   &2&l   --=-= &a&lPlayer Commands &2&l=-=--"
+
+"Player died $1$ times in a row without kills": "Player died $1$ times in a row without kills"
+
+"Player is waiting": "Player is waiting"
+
+"Player not found": "Player not found."
+
+"Players are waiting": "Players are waiting"
+
+"Players in": "Players in"
+
+"Players left": "Players left"
+
+"Players Waiting": "Players Waiting"
+
+"Players": "Players"
+
+"Player was on $1$ killstreak": "Player was on $1$ killstreak"
+
+"Play various classes with different abilities and use your bow skills to win in many different modes!": "Play various classes with different abilities and use your bow skills to win in many different modes!"
+
+"Please rate this map by clicking:": "Please rate this map by clicking:"
+
+"Please specify group name!": "Please specify group name!"
+
+"Please specify player name!": "Please specify player name!"
+
+"Plot Name": "Plot Name"
+
+"Plot Owner": "Plot Owner"
+
+"Points": "Points"
+
+"Powerups": "Powerups"
+
+"Price:": "Price:"
+
+"Quickly test your skill by fighting other players with a huge variety of modifiers!": "Quickly test your skill by fighting other players with a huge variety of modifiers!"
+
+"Radar Breaker": "Radar Breaker"
+
+"Rain is able to refill water sources": "Rain is able to refill water sources."
+
+"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "&6&lRapid Fire &bpowerup has spawned at middle of the map!"
+
+"Rating": "Rating"
+
+"Reflection Perk": "Reflection Perk"
+
+"Reflects a snowball, reducing damage taken by $1$": "Reflects a snowball, reducing damage taken by $1$."
+
+"Reflect Snowballs Modifier": "Reflect Snowballs Modifier"
+
+"Regenerates your health $1$": "Regenerates your health $1$"
+
+"Regeneration": "Regeneration"
+
+"Removes compass from the game": "Removes compass from the game."
+
+"Resources": "Resources"
+
+"Respawning in": "Respawning in"
+
+"Server rules can be read in §a/rules§e, make sure to follow them!": "Server rules can be read in &a/rules&e, make sure to follow them!"
+
+"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!"
+
+"Shoot chickens as fast as you can!": "Shoot chickens as fast as you can!"
+
+"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "Shoot other players with snowballs, buy powerups with melons and play in many different modes!"
+
+"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
+    " Save yourself from hazards using Super Jumps":
+        " [Sneak]": "&e&lShoot TNT with your cannon and knock opponents to the void, or explode them. Save yourself from hazards using Super Jumps. [Sneak]"
+
+"Slowballs": "Slowballs"
+
+"Slowness I on hit": "Slowness I on hit"
+
+"Slowness Perk": "Slowness Perk"
+
+"Sneak to use": "Sneak to use"
+
+"Snowball Accuracy": "Snowball Accuracy"
+
+"Snowballs fired": "Snowballs fired"
+
+"Snowman Perk": "Snowman Perk"
+
+"Snowman": "Snowman"
+
+"Sorts teams based on kills count for fairness": "Sorts teams based on kills count for fairness."
+
+"Spawnpoint Switch": "Spawnpoint Switch"
+
+"Speed": "Speed"
+
+"Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent! Explode other players into the void!"
+
+"Statistics": "Statistics"
+
+"§7Stone Cannon": "&7Stone Cannon"
+
+"Succesfully sent party invite to $1$!": "Succesfully sent party invite to $1$!"
+
+"Super Jumps": "Super Jumps"
+
+"Super Jump": "Super Jump"
+
+"Survival based on old Minecraft versions between alpha 1":
+    "2 and beta 1":
+        "7":
+            "3":
+                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Survival based on old Minecraft versions between alpha 1.2 and beta 1.7.3.||&cWARNING: &7NOSTALGIA IS A CERTAINTY."
+
+"Survival Rules": "Survival Rules"
+
+"Team": "Team"
+
+"Thank you for rating this map": "Thank you for rating this map"
+
+"The Knockback Stick": "The Knockback Stick"
+
+"There are many special recipes! Check them out in: §e/recipes§r": "There are many special recipes! Check them out in: &e/recipes&r"
+
+"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$"
+
+"§aThis game can be played §e§lalone§a": "&aThis game can be played &e&lalone&a."
+
+"This game can be played with §e§l2§a§l+ §aplayers": "This game can be played with &e&l2&a&l+ &aplayers."
+
+"This game can be played with only §e§l2 §aplayers": "This game can be played with only &e&l2 &aplayers."
+
+? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+: "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than &e&l$1$ &6players."
+
+"This power-up is already active!": "This power-up is already active!"
+
+"This round of 1v1 did not meet the requirements for win rewards and rating changes": "This round of 1v1 did not meet the requirements for win rewards and rating changes."
+
+"Throwable Cobweb": "Throwable Cobweb"
+
+"Time elapsed": "Time elapsed"
+
+"Time since last update": "Time since last update"
+
+"Total play time": "Total play time"
+
+"Troops alive": "Troops alive"
+
+"Troops killed": "Troops killed"
+
+"Troops lost": "Troops lost"
+
+"Troops": "Troops"
+
+"Turns your snowballs into slowballs": "Turns your snowballs into slowballs."
+
+"Turn": "Turn"
+
+"UNLOCKED": "UNLOCKED"
+
+"Use /agree $1$  to agree with survival rules": "Use /agree $1$  to agree with survival rules."
+
+"Use F5 + high FOV to get a better view of the game field!": "Use F5 + high FOV to get a better view of the game field!"
+
+? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
+: "&e&lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory."
+
+"VICTORY": "VICTORY"
+
+"Votes:": "Votes:"
+
+"[VOTE]": "[VOTE]"
+
+"Waiting Players": "Waiting Players"
+
+"Waiting Queue Status": "Waiting Queue Status"
+
+"Warped §e§l$1$ §eparty members to your location!": "Warped &e&l$1$ &eparty members to your location!"
+
+"Water is finite here, so you are going to need to build farms close to big sources of water": "Water is finite here, so you are going to need to build farms close to big sources of water."
+
+"Wins Percentage": "Wins Percentage"
+
+"Wins": "Wins"
+
+"Wood Cannon": "Wood Cannon"
+
+"You already have voted for a map!": "You already have voted for a map!"
+
+"You are already in a party of §a$1$§c!": "You are already in a party of &a$1$&c!"
+
+"You are already on $1$ §cteam!": "You are already on $1$ &cteam!"
+
+"You are leader of a party, use §e/party disband §cto be able to do this": "You are leader of a party, use &e/party disband &cto be able to do this."
+
+"You are now a member of $1$ §eteam!": "You are now a member of $1$ &eteam!"
+
+"You are now Juggernaut!": "You are now Juggernaut!"
+
+"You aren't in a party!": "You aren't in a party!"
+
+"You aren't the leader of the party!": "You aren't the leader of the party!"
+
+"You can chat only once every 1":
+    "5 second!": "You can chat only once every 1.5 second!"
+
+"You can die from cold during night in §bHoth§r if you do not have leather armor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
+
+"You can find Friendly Survival wiki in: $1$": "You can find Friendly Survival wiki in: $1$"
+
+"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "You can lock your containers and doors with signs, if you want to protect land you can join a group or create one."
+
+"You cannot have more than one §fSnowman §cin inventory at the same time": "You cannot have more than one &fSnowman &cin inventory at the same time."
+
+"You cannot party warp into this game!": "You cannot party warp into this game!"
+
+"You can only buy this in-game!": "You can only buy this in-game!"
+
+"You can only vote when there's enough players to start the game": "You can only vote when there's enough players to start the game."
+
+"You can send care packages to support alive players with §e§l/carepackage <player>": "You can send care packages to support alive players with &e&l/carepackage <player>"
+
+"You can toggle display of the animation off to reduce your FPS lag!": "You can toggle display of the animation off to reduce your FPS lag!"
+
+"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
+
+"You could not be warped to your party leader's location, because you are in a game":
+    " Use §e/q §cto leave": "You could not be warped to your party leader's location, because you are in a game. Use &e/q &cto leave."
+
+"You donated §e§l1 §fSnowball §eto §a$1$§e!": "You donated &e&l1 &fSnowball &eto &a$1$&e!"
+
+"You do not have enough §aEmeralds§c!": "You do not have enough &aEmeralds&c!"
+
+"You do not have enough melons!": "You do not have enough melons!"
+
+"You get points for flag captures, your team needs to reach the needed amount of points to win": "You get points for flag captures, your team needs to reach the needed amount of points to win."
+
+? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
+:   " You need to reach the needed amount of points to win": "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut. You need to reach the needed amount of points to win."
+
+"You get points for kills, you need to reach the needed amount of points to win": "You get points for kills, you need to reach the needed amount of points to win."
+
+"You get points for kills, your team needs to reach the needed amount of points to win": "You get points for kills, your team needs to reach the needed amount of points to win."
+
+"You got a §lEnchanted Snowball §bfrom your kill!": "You got a &lEnchanted Snowball &bfrom your kill!"
+
+"You have agreed with the survival rules, follow them and everything will be okay!": "You have agreed with the survival rules, follow them and everything will be okay!"
+
+"You have already invited $1$ §cinto your party!": "You have already invited $1$ &cinto your party!"
+
+? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+: "You have already voted for a map in this game today, support the server by buying &a&lVIP &cif you want to vote unlimited amount of times per day."
+
+"You have already voted for a mode!": "You have already voted for a mode!"
+
+"You have already voted for this modifier!": "You have already voted for this modifier!"
+
+"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!"
+
+"You have joined party of §a$1$§e!": "You have joined party of &a$1$&e!"
+
+"You have left party of §a$1$§e!": "You have left party of &a$1$&e!"
+
+"You have purchased $1$§6!": "You have purchased $1$&6!"
+
+"You have reached the limit of §e§l$1$ §cpowerups per match!": "You have reached the limit of &e&l$1$ &cpowerups per match!"
+
+"You have reached the limit of snowballs!": "You have reached the limit of snowballs!"
+
+"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
+
+"You have reflected snowball of $1$§f!": "You have reflected snowball of $1$&f!"
+
+"You have removed your last rating of this map": "You have removed your last rating of this map."
+
+"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "You have to read and agree with the rules of survival to be able to break/place blocks, use &e/survivalrules"
+
+"You have upgraded $1$ to $2$!": "You have upgraded $1$ to $2$!"
+
+"You have upgraded §a$1$§6!": "You have upgraded &a$1$&6!"
+
+"You must be leader of a party to use this!": "You must be leader of a party to use this!"
+
+"Your army is under attack!": "Your army is under attack!"
+
+"Your opponent is blinded by your perk!": "Your opponent is blinded by your perk!"
+
+"Your opponent is ignited by your perk!": "Your opponent is ignited by your perk!"
+
+"Your opponent is slowed by your perk!": "Your opponent is slowed by your perk!"
+
+"Your party invite to $1$ §ehas expired": "Your party invite to $1$ &ehas expired."
+
+"Your party leader has warped you to their location!": "Your party leader has warped you to their location!"
+
+"Your Radar Breaker effect is over!": "Your Radar Breaker effect is over!"
+
+"Your snowball hit $1$§f!": "Your snowball hit $1$&f!"
+
+"Your snowball hit boat of $1$§f!": "Your snowball hit boat of $1$&f!"
+
+"Your snowman's snowball hit $1$§f!": "Your snowman's snowball hit $1$&f!"
+
+"YOUR TEAM": "YOUR TEAM"
+
+"$1$ §ekicked $2$ §efrom the party!": "$1$ &ekicked $2$ &efrom the party!"
+
+"You have already used this power-up in this life!": "You have already used this power-up in this life!"
+
+"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
+
+"$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas transferred party leader to $2$&e!"
+
+"$1$ §cis not in your party!": "$1$ &cis not in your party!"
+
+"You can buy this item only once per life": "You can buy this item only once per life."
+
+"You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
+
+"Right click to activate game modifiers!": "Right click to activate game modifiers!"
+
+"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+
+"LOCKED": "LOCKED"
+
+"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+
+"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
+
+"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
+
+? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+
+? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
+: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
