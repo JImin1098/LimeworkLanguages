@@ -66,29 +66,29 @@
 
 "1 arrow on knockout!": "1 arrow on knockout!"
 
-"$1$ §cdefeated §6$2$": "$1$ &cdefeated &6$2$"
+"$1$ §cdefeated §6$2$": "$1$ &c가 &6$2$를 이겼습니다"
 
 "$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &edonated &e&l1 &fSnowball &eto you!"
 
-"$1$ §eflag has been dropped!": "$1$ &eflag has been dropped!"
+"$1$ §eflag has been dropped!": "$1$ &e깃발이 떨어졌습니다!"
 
-"§a$1$ §egot first kill of the game!": "&a$1$ &egot first kill of the game!"
+"§a$1$ §egot first kill of the game!": "&a$1$ &e님이 게임에서 첫 킬을 얻었습니다!"
 
 "$1$ §ehas captured $2$ §eflag!": "$1$ &ehas captured $2$ &eflag!"
 
-"$1$ §ehas disbanded the party!": "$1$ &ehas disbanded the party!"
+"$1$ §ehas disbanded the party!": "$1$ &e님이 파티를 해산했습니다!"
 
-"$1$ §ehas invited you into a party!": "$1$ &ehas invited you into a party!"
+"$1$ §ehas invited you into a party!": "$1$ &e님이 당신을 파티에 초대했습니다!"
 
-"$1$ §ehas joined your party!": "$1$ &ehas joined your party!"
+"$1$ §ehas joined your party!": "$1$ &e님이 당신의 파티에 참여했습니다!"
 
-"$1$ §ehas joined!": "$1$ &ehas joined!"
+"$1$ §ehas joined!": "$1$ &e님이 접속했습니다!"
 
-"$1$ §ehas left the party!": "$1$ &ehas left the party!"
+"$1$ §ehas left the party!": "$1$ &e님이 파티를 떠났습니다!"
 
-"$1$ §chas left!": "$1$ &chas left!"
+"$1$ §chas left!": "$1$ &c님이 떠났습니다!"
 
-"$1$ §ehas not invited you into a party!": "$1$ &ehas not invited you into a party!"
+"$1$ §ehas not invited you into a party!": "$1$ &e님이 당신을 파티에 초대하지 않았습니다!"
 
 "$1$ §ehas picked up $2$ §eflag!": "$1$ &ehas picked up $2$ &eflag!"
 
@@ -118,37 +118,37 @@
 
 "$1$ §7of players needs to vote to enable": "$1$ &7of players needs to vote to enable"
 
-"$1$ §cteam is full!": "$1$ &cteam is full!"
+"$1$ §cteam is full!": "$1$ &c그 팀은 꽉 찼습니다!"
 
-"[ACCEPT]": "[ACCEPT]"
+"[ACCEPT]": "[수락]"
 
-"A chance to spawn creeper where your snowball lands": "A chance to spawn creeper where your snowball lands."
+"A chance to spawn creeper where your snowball lands": "당신의 눈덩이가 떨어진 곳에 크리퍼를 스폰할 수 있습니다."(?)
 
 "Activated Modifiers": "Activated Modifiers"
 
 "Allows to double jump by pressing the sneak button in mid-air": "Allows to double jump by pressing the sneak button in mid-air."
 
-"Animation is currently §c§lDISABLED§e": "Animation is currently &c&lDISABLED&e."
+"Animation is currently §c§lDISABLED§e": "애니메이션은 최근에 &c&l비활성화되었습니다&e."(?)
 
-"Animation is currently §a§lENABLED§e": "Animation is currently &a&lENABLED&e."
+"Animation is currently §a§lENABLED§e": "에니메이션은 최근에 &a&l활성화되었습니다&e."(?)
 
 "Are you seriously going into a party with yourself? Invite someone!": "Are you seriously going into a party with yourself? Invite someone!"
 
 "Are you sure you want to leave? Type §e/q §6to confirm": "Are you sure you want to leave? Type &e/q &6to confirm."
 
-"Armor": "Armor"
+"Armor": "갑옷"
 
-"Arrow Accuracy": "Arrow Accuracy"
+"Arrow Accuracy": "화살 명중률"
 
-"Arrow Bonus Perk": "Arrow Bonus Perk"
+"Arrow Bonus Perk": "화살 추가 퍼크"
 
-"Arrows Fired": "Arrows Fired"
+"Arrows Fired": "발사한 화살"
 
-"Arrows left": "Arrows left"
+"Arrows left": "남은 화살"
 
-"A snowman which shoots enemies!": "A snowman which shoots enemies!"
+"A snowman which shoots enemies!": "적에게 눈덩이를 던지는 눈사람!"(?)
 
-"Average Rating:": "Average Rating:"
+"Average Rating:": "평균 평가:"
 
 "Balanced Teams Modifier": "Balanced Teams Modifier"
 
@@ -158,12 +158,12 @@
 
 "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
 
-"Blindness Perk": "Blindness Perk"
+"Blindness Perk": "실명 퍼크"
 
 "Blocks snowballs":
     " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
 
-"blocks": "blocks"
+"blocks": "블록"
 
 "Bombs fired": "Bombs fired"
 
@@ -205,25 +205,25 @@
 
 "Checkers": "Checkers"
 
-"Checkpoint": "Checkpoint"
+"Checkpoint": "체크포인트"
 
 "Chests looted": "Chests looted"
 
 "classes": "classes"
 
-"Click here to join $1$!": "Click here to join $1$!"
+"Click here to join $1$!": "여기를 클릭하여 $1$에 참여하기!"
 
-"Click to accept the party invite!": "Click to accept the party invite!"
+"Click to accept the party invite!": "클릭하여 파티 초대 수락하기!"
 
-"Click to buy!": "Click to buy!"
+"Click to buy!": "클릭하여 구매하기!"
 
-"[CLICK TO JOIN]": "[CLICK TO JOIN]"
+"[CLICK TO JOIN]": "[클릭하여 참여]"
 
-"CLICK TO OPEN MENU": "CLICK TO OPEN MENU"
+"CLICK TO OPEN MENU": "클릭하여 메뉴 열기"
 
-"CLICK TO PLAY": "CLICK TO PLAY"
+"CLICK TO PLAY": "클릭하여 플레이하기"
 
-"Click to rate this map": "Click to rate this map"
+"Click to rate this map": "클릭하여 맵 평가하기"
 
 "Click to undo this rating!": "Click to undo this rating!"
 
@@ -237,115 +237,115 @@
 
 "Complete parkour races, earn prizes and compete in leaderboards!": "Complete parkour races, earn prizes and compete in leaderboards!"
 
-"Cooldown": "Cooldown"
+"Cooldown": "쿨다운"
 
 "Cracked players can join our server! They can apply at $1$ §rto join": "Cracked players can join our server! They can apply at $1$ &rto join."
 
 ? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
 : "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
 
-"Creeper Chance Perk": "Creeper Chance Perk"
+"Creeper Chance Perk": "크리퍼 찬스 퍼크"
 
-"Crystal": "Crystal"
+"Crystal": "수정"
 
-"Current": "Current"
+"Current": "최근"
 
-"Damage Dealt": "Damage Dealt"
+"Damage Dealt": "입힌 피해"
 
-"Damage Taken": "Damage Taken"
+"Damage Taken": "받은 피해"
 
 "Day": "Day"
 
 "Deaths": "Deaths"
 
-"DEFEAT": "DEFEAT"
+"DEFEAT": "패배"
 
-"Defend your castle, attack other castles, command your army and become the best commander!": "Defend your castle, attack other castles, command your army and become the best commander!"
+"Defend your castle, attack other castles, command your army and become the best commander!": "당신의 성을 지키고, 다른 성을 공격하고, 당신의 군단에게 명령을 내려 가장 좋은 지휘관이 되세요!"
 
 "Destroying other player creations or ruining them in any way is not allowed!": "Destroying other player creations or ruining them in any way is not allowed!"
 
 "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed."
 
-"Did you know?": "Did you know?"
+"Did you know?": "아셨나요?"
 
 "§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
     " Use fasciniting abilities of your class to defeat other players and win!": "&e&lDifferent elemental classes compete with each other in bow-fighting abilities. Use fasciniting abilities of your class to defeat other players and win!"
 
 "Dissappears after §e§l10s §7of landing": "Dissappears after &e&l10s &7of landing."
 
-"Double Emeralds": "Double Emeralds"
+"Double Emeralds": "더블 에메랄드"
 
 "Double Jump Modifier": "Double Jump Modifier"
 
-"Double Melons Perk": "Double Melons Perk"
+"Double Melons Perk": "더블 멜론 퍼크"
 
-"Emeralds total earned": "Emeralds total earned"
+"Emeralds total earned": "총 얻은 에메랄드"
 
-"Emeralds": "Emeralds"
+"Emeralds": "에메랄드" (?
 
-"Emerald": "Emerald"
+"Emerald": "에메랄드"
 
 "§bEnchanted §b§lDiamond Cannon": "&bEnchanted &b&lDiamond Cannon"
 
-"Enchanted Snowball Perk": "Enchanted Snowball Perk"
+"Enchanted Snowball Perk": "마법부여된 눈덩이 퍼크"
 
 "§bEnchanted §7Stone Cannon": "&bEnchanted &7Stone Cannon"
 
 "Enchanted §aWood Cannon": "Enchanted &aWood Cannon"
 
-"ENEMY TEAM": "ENEMY TEAM"
+"ENEMY TEAM": "상대 팀"
 
-"Every player gets 3 lives, eliminate enemy team to win": "Every player gets 3 lives, eliminate enemy team to win."
+"Every player gets 3 lives, eliminate enemy team to win": "모든 플레이어에게 3개의 목숨이 주어집니다, 우승을 위해 상대 팀을 제거하세요."
 
-"Every player gets 3 lives, eliminate other players to win": "Every player gets 3 lives, eliminate other players to win."
+"Every player gets 3 lives, eliminate other players to win": "모든 플레이어에게 3개의 목숨이 주어집니다, 우승을 위해 다른 플레이어를 제거하세요."
 
-"Experience Bonus Perk": "Experience Bonus Perk"
+"Experience Bonus Perk": "경험치 보너스 퍼크"
 
 "Explode your way to other players and explode them!": "Explode your way to other players and explode them!"
 
-"Exploring the void may reveal mysterious secrets!": "Exploring the void may reveal mysterious secrets!"
+"Exploring the void may reveal mysterious secrets!": "공허를 탐험하여 미스터리한 비밀을 드러낼 수 있습니다!"
 
-"Explosion Radius": "Explosion Radius"
+"Explosion Radius": "폭발 거리"
 
-"Falling Blocks Animation": "Falling Blocks Animation"
+"Falling Blocks Animation": "떨어지는 블록 애니메이션"
 
 "Fast Snowballs Modifier": "Fast Snowballs Modifier"
 
-"Feel free to invite other players by using the chat": "Feel free to invite other players by using the chat."
+"Feel free to invite other players by using the chat": "채팅으로 다른 플레이어들을 마음껏 초대하세요"
 
-"Final Kills": "Final Kills"
+"Final Kills": "파이널 킬"
 
-"Flamethrower": "Flamethrower"
+"Flamethrower": "화염방사기"
 
-"Free!": "Free!"
+"Free!": "Free!"(?) 자유임 공짜임?
 
-"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lFriend Commands &2&l=-=--"
+"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&l친구 명령어 &2&l=-=--"
 
-"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!"
+"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "기술과 마법이 있는 친화적인 서바이벌! 많은 곳을 탐험하고, 아름다운 나무를 기르며 많은 것을 즐기세요!"
 
 "GAME ENDED IN A DRAW": "GAME ENDED IN A DRAW"
 
-"GAME END": "GAME END"
+"GAME END": "게임 종료"
 
-"Game has started!": "Game has started!"
+"Game has started!": "게임 시작!"
 
-"Game is starting": "Game is starting"
+"Game is starting": "게임이 시작됩니다"
 
-"Game starts in §e§l$1$ §eseconds": "Game starts in &e&l$1$ &eseconds"
+"Game starts in §e§l$1$ §eseconds": "&e&l$1$ &e초안에 게임이 시작됩니다"
 
-"Game starts in": "Game starts in"
+"Game starts in": "Game starts in" (?) <does it mean game starts in a place?>
 
-"Game Statistics": "Game Statistics"
+"Game Statistics": "게임 통계"
 
-"Game time": "Game time"
+"Game time": "게임 시간"
 
-"Game will end in §e§l$1$ §eminutes": "Game will end in &e&l$1$ &eminutes."
+"Game will end in §e§l$1$ §eminutes": "&e&l$1$ &e분 안에 게임이 끝납니다."
 
-"Game will end in §e§l$1$ §eminute": "Game will end in &e&l$1$ &eminute."
+"Game will end in §e§l$1$ §eminute": "&e&l$1$ &e분 안에 게임이 끝납니다."
 
-"§eGame will start in §e§l$1$ §eseconds": "&eGame will start in &e&l$1$ &eseconds"
+"§eGame will start in §e§l$1$ §eseconds": "&e게임이 &e&l$1$ &e초안에 시작됩니다"
 
-"§eGame will start in §e§l$1$ §esecond": "&eGame will start in &e&l$1$ &esecond"
+"§eGame will start in §e§l$1$ §esecond": "&e게임이 &e&l$1$ &e초 안에 시작됩니다"
 
 "Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!"
 
@@ -353,30 +353,30 @@
 
 "   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lGroup Commands &2&l=-=--"
 
-"Have fun!": "Have fun!"
+"Have fun!": " 즐기세요!"
 
-"Health": "Health"
+"Health": "체력"
 
-"Here you can find games which can be played both alone and with friends!": "Here you can find games which can be played both alone and with friends!"
+"Here you can find games which can be played both alone and with friends!": "여기서 혼자서 플레이하거나 친구들과 함께 플레이할 수 있는 게임을 찾을 수 있습니다!"
 
-"Here you can find games which can be played only with friends!": "Here you can find games which can be played only with friends!"
+"Here you can find games which can be played only with friends!": "여기서 친구들과 함께 플레이할 수 있는 게임을 찾을 수 있습니다!"
 
 ? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
-: "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
+: "여기서 GUI 미니게임을 찾을 수 있습니다, 이 미니게임들은 다른것들과 다르게 우리에 의해 만들어진 것이 아니고 다운 받은 플러그인일 뿐입니다, 그래도 재밌어요!"
 
 "Here you can use various abilities to explode the map and other players!": "Here you can use various abilities to explode the map and other players!"
 
-"Hits Taken": "Hits Taken"
+"Hits Taken": "받은 타격"
 
-"Hits": "Hits"
+"Hits": "타격"
 
-"Hit to level up your stick and knock other players in to the void!": "Hit to level up your stick and knock other players in to the void!"
+"Hit to level up your stick and knock other players in to the void!": "타격을 주어 막대기를 레벨 업하고 다른 플레이어를 공허로 떨어뜨리세요!"
 
-"hours": "hours"
+"hours": "시간"
 
 "§b§lHow To Play": "&b&lHow To Play"
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "If you want to get out of the &eSpectator Mode &ctype &e/q"
+"If you want to get out of the §eSpectator Mode §ctype §e/q": "&eSpectator Mode에서 나가려면 &e/q &c을 입력하세요"
 
 "If you want to leave the game type §e/q§6": "If you want to leave the game type &e/q&6."
 
