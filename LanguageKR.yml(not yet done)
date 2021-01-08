@@ -420,15 +420,15 @@
 "Lives": "생명"
 
 ? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
-: "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
+: "전리품 상자, 다른 플레이어들과의 전투, 랜덤으로 생성된 전리품을 찾고!" (?) <loot that has interesting abilities? or find loot by using interesting abilities?>
 
 "§e§lLoot randomly generated chests with unique items":
     " Use them to eliminate your enemies":
-        " Be the only survivor to win": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
+        " Be the only survivor to win": "&e&l특이한 아이템이 들어있는 전리품이 랜덤으로 생성됩니다. 아이템을 사용하여 당신의 적들을 처치하세요. 유일한 생존자가 되어 승리하세요."
 
 "Losses": "사망"
 
-"Makes all of your snowballs burn": "Makes all of your snowballs burn."
+"Makes all of your snowballs burn": "모든 눈덩이가 불타게 만듭니다."
 
 "Makes your snowballs super fast": "당신의 눈덩이를 매우 빠르게 만듭니다."
 
@@ -436,9 +436,9 @@
 
 "MAX LEVEL:": "최대 레벨:"
 
-"Melons earned": "Melons earned"
+"Melons earned": "얻은 멜론"
 
-"Melons spent": "Melons spent"
+"Melons spent": "사용한 "
 
 "Melons": "멜론"
 
